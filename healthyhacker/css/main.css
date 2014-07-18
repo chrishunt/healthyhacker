@@ -28,7 +28,7 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 .wrap:after { clear: both; }
 .wrap {
   max-width: 800px;
-  padding: 0 30px;
+  padding: 30px 30px 0 30px;
   margin: 0 auto;
   zoom: 1;
 }
@@ -43,6 +43,10 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   min-height: 56px;
   background-color: white;
   text-align: center;
+}
+
+.site-logo {
+  height: 300px;
 }
 
 .site-title,
@@ -157,7 +161,6 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 
 .posts li {
   margin: 0 4px 30px 0;
-  display: inline-block;
 }
 
 .posts img {
@@ -199,14 +202,20 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   margin-top: 5px;
 }
 
-.post-thumb {
-  width: 260px;
+.post-thumb img {
+  width: 100%;
+}
+
+.post-thumb img:hover {
+  opacity: .75;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
 }
 
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-
 
 .post-content h1,
 .post-content h2,
@@ -374,7 +383,17 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 
 @media screen and (max-width: 600px) {
 
-  .wrap { padding: 0 12px; }
+  .wrap {
+    padding: 12px 12px 0 12px;
+  }
+
+  .site-logo {
+    height: 200px;
+  }
+
+  .site-title {
+    font-size: 33px;
+  }
 
   .site-nav {
     position: fixed;
