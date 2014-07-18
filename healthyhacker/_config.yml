@@ -1,0 +1,13 @@
+# Site settings
+title: Healthy Hacker
+email: chris@healthyhacker.tv
+description: "Everything you need to know to be a healthy hacker. We talk about
+  fitness, puzzles, memory, vim, tmux, and anything else that blah blah."
+baseurl: ""
+url: "http://healthyhacker.tv"
+twitter_username: chrishunt
+github_username:  chrishunt
+
+# Build settings
+markdown: kramdown
+permalink: pretty

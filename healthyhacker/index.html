@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <img class="post-thumb" src="img/{{ post.thumb }}.png">
+
+        <div class="post-summary">
+          <span class="post-date">{{ post.episode }} - </span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
