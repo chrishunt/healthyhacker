@@ -2,10 +2,8 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-07-17 17:45:54
-thumb:  "example-1080p"
 episode:  "4"
 video: "xiVTGu92dw0"
-categories: episodes
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build

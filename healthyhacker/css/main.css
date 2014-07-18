@@ -172,17 +172,6 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   background-color: #eee;
 }
 
-.post-thumb img {
-  width: 100%;
-}
-
-.post-thumb img:hover {
-  opacity: .75;
-  transition: opacity .25s ease-in-out;
-  -moz-transition: opacity .25s ease-in-out;
-  -webkit-transition: opacity .25s ease-in-out;
-}
-
 .post-link {
   font-size: 18px;
   letter-spacing: -1px;
@@ -221,11 +210,6 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-
-.posts, .post-content .post-thumb, .post-content .post-summary {
-  text-align: center;
-  margin: 0;
-}
 
 .post-content h1,
 .post-content h2,

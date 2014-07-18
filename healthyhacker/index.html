@@ -4,17 +4,17 @@ layout: default
 
 <div class="home">
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for page in site.posts %}
       <li>
         <div class="post-summary">
-          <span class="post-date">#{{ post.episode }} - </span>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
+          <span class="post-date">#{{ page.episode }} - </span>
+          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">
+            {{ page.title }}
           </a>
         </div>
 
-        <a class="post-thumb" href="{{ post.url | prepend: site.baseurl }}">
-          <img src="img/{{ post.thumb }}.png">
+        <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">
+          {% include video.html %}
         </a>
       </li>
     {% endfor %}
