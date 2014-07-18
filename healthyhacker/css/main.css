@@ -49,17 +49,17 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   height: 300px;
 }
 
+.site-title {
+  font-size: 64px;
+}
+
 .site-title,
 .site-title:hover,
 .site-title:visited {
   display: block;
   color: #333;
-  font-size: 50px;
   font-weight: 600;
   letter-spacing: -1px;
-  line-height: 56px;
-  position: relative;
-  z-index: 1;
 }
 
 .site-title-highlight {
@@ -144,7 +144,7 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 /* ----------------------------------------------------------*/
 
 .page-content {
-  padding: 30px 0;
+  padding: 0 0 30px 0;
   background-color: #fff;
 }
 
@@ -167,39 +167,9 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   display: block;
 }
 
-.posts .post-summary {
+.post-summary {
   padding: 5px;
   background-color: #eee;
-}
-
-.posts .post-link {
-  font-size: 18px;
-  letter-spacing: -1px;
-  line-height: 1;
-}
-
-.posts .post-date {
-  font-size: 15px;
-  color: #818181;
-}
-
-
-/* Post styles */
-/* ----------------------------------------------------------*/
-
-.post-header { margin: 10px 0 30px; }
-
-.post-header h1 {
-  font-size: 42px;
-  letter-spacing: -1.75px;
-  line-height: 1;
-  font-weight: 300;
-}
-
-.post-header .meta {
-  font-size: 15px;
-  color: #818181;
-  margin-top: 5px;
 }
 
 .post-thumb img {
@@ -213,9 +183,49 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   -webkit-transition: opacity .25s ease-in-out;
 }
 
+.post-link {
+  font-size: 18px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.post-date {
+  font-size: 15px;
+  color: #818181;
+}
+
+
+/* Post styles */
+/* ----------------------------------------------------------*/
+
+.post-header {
+  margin: 10px 0 30px;
+}
+
+.post-header h1 {
+  font-size: 42px;
+  letter-spacing: -1.75px;
+  line-height: 1;
+  font-weight: 300;
+}
+
+.post-header .meta {
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+.post-header span {
+  font-weight: bold;
+}
+
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
+
+.posts, .post-content .post-thumb, .post-content .post-summary {
+  text-align: center;
+  margin: 0;
+}
 
 .post-content h1,
 .post-content h2,
@@ -392,7 +402,7 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   }
 
   .site-title {
-    font-size: 33px;
+    font-size: 36px;
   }
 
   .site-nav {

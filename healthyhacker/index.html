@@ -7,7 +7,7 @@ layout: default
     {% for post in site.posts %}
       <li>
         <div class="post-summary">
-          <span class="post-date">{{ post.episode }} - </span>
+          <span class="post-date">#{{ post.episode }} - </span>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
           </a>
@@ -19,7 +19,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

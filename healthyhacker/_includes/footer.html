@@ -3,9 +3,12 @@
   <div class="wrap">
 
     <div class="footer-col-1 column">
+
       <ul>
-        <li>healthyhacker.tv</li>
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li>
+          subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via rss</a>
+          </li>
+        <li>email <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
       </ul>
     </div>
 

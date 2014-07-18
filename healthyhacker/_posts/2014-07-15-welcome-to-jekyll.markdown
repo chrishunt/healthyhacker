@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2014-07-17 17:45:54
+date:   2014-07-15 17:45:54
 thumb:  "example-1080p"
 episode:  "2"
 categories: episodes
