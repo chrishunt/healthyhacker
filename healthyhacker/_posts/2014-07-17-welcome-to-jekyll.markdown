@@ -12,10 +12,6 @@ You'll find this post in your `_posts` directory - edit this post and re-build
 add a file in the `_posts` directory that follows the convention:
 YYYY-MM-DD-name-of-post.ext.
 
-<iframe
-  width="100%"
-  height="450px"
-  src="//www.youtube.com/embed/xiVTGu92dw0"
-  frameborder="0"
-  allowfullscreen
-></iframe>
+<video preload="none" style="width:100%;height:100%;" width="100%" height="100%">
+  <source type="video/youtube" src="http://www.youtube.com/watch?v=xiVTGu92dw0" />
+</video>
