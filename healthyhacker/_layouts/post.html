@@ -3,6 +3,14 @@ layout: default
 ---
 <div class="post">
   <article class="post-content">
+    {% include video.html %}
+
+    <header class="post-header">
+      <p class="meta">
+        {{ page.date | date: "%b %-d, %Y" }} • <span>{{ page.title }}</span>
+      </p>
+    </header>
+
     {{ content }}
   </article>
 </div>
