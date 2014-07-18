@@ -46,7 +46,8 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 }
 
 .site-logo {
-  height: 300px;
+  height: 150px;
+  margin-bottom: -20px;
 }
 
 .site-title {
@@ -382,11 +383,12 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   }
 
   .site-logo {
-    height: 200px;
+    height: 100px;
+    margin-bottom: -10px;
   }
 
   .site-title {
-    font-size: 36px;
+    font-size: 32px;
   }
 
   .site-nav {
