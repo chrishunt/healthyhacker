@@ -25,5 +25,7 @@ layout: default
     </article>
   </div>
 
-  <hr>
+  {% if forloop.last == false %}
+    <hr>
+  {% endif %}
 {% endfor %}
