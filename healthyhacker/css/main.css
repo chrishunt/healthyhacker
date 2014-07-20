@@ -50,6 +50,7 @@ hr {
   background-color: white;
   text-align: center;
   padding-top: 30px;
+  border-top: 5px solid #dd4a26;
 }
 
 .site-logo {
