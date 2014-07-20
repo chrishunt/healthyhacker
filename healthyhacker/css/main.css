@@ -37,7 +37,7 @@ hr {
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 800px;
+  max-width: 700px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
