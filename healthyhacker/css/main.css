@@ -249,8 +249,18 @@ hr {
 }
 
 .download {
+  color: #ccc;
+  font-weight: bold;
   font-size: 15px;
   margin-top: -15px;
+}
+
+.download a {
+  color: #888;
+}
+
+.download a:hover {
+  color: #000;
 }
 
 .post pre,
