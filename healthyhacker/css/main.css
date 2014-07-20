@@ -21,14 +21,24 @@ h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 a         { color: #dd4a26; text-decoration: none; }
 a:hover   { color: #dd826c; text-decoration: underline; }
 
+hr {
+  margin-top: 50px;
+  border: 0;
+  height: 1px;
+  background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
+
 /* Utility */
 
 .wrap:before,
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 800px;
-  padding: 30px 30px 0 30px;
+  max-width: 700px;
+  padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
 }
@@ -43,6 +53,7 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   min-height: 56px;
   background-color: white;
   text-align: center;
+  padding-top: 30px;
 }
 
 .site-logo {
@@ -157,7 +168,6 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 
 .posts {
   list-style-type: none;
-  text-align: center;
 }
 
 .posts li {
@@ -168,22 +178,9 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   display: block;
 }
 
-.post-summary {
-  padding: 5px;
-  background-color: #eee;
-}
-
-.post-link {
-  font-size: 18px;
-  letter-spacing: -1px;
-  line-height: 1;
-}
-
 .post-date {
   font-size: 15px;
-  color: #818181;
 }
-
 
 /* Post styles */
 /* ----------------------------------------------------------*/
@@ -201,7 +198,6 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 
 .post-header .meta {
   font-size: 15px;
-  margin-top: 5px;
 }
 
 .post-header span {
@@ -250,6 +246,15 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 
 .post-content ul,
 .post-content ol { padding-left: 20px; }
+
+.post-header h3 {
+  margin: 20px 0 5px 0;
+}
+
+.download {
+  font-size: 15px;
+  margin-top: -15px;
+}
 
 .post pre,
 .post code {
@@ -350,10 +355,8 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
-
 /* media queries */
 /* ----------------------------------------------------------*/
-
 
 @media screen and (max-width: 750px) {
 
@@ -379,7 +382,11 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 @media screen and (max-width: 600px) {
 
   .wrap {
-    padding: 12px 12px 0 12px;
+    padding: 0 12px;
+  }
+
+  .site-header {
+    padding-top: 12px;
   }
 
   .site-logo {
