@@ -157,6 +157,11 @@ hr {
   background-color: #fff;
 }
 
+.pagination {
+  font-size: 16px;
+  text-align: center;
+}
+
 
 /* Home styles */
 /* ----------------------------------------------------------*/
