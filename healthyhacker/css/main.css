@@ -162,6 +162,10 @@ hr {
   text-align: center;
 }
 
+.pagination span {
+  font-weight: bold;
+}
+
 
 /* Home styles */
 /* ----------------------------------------------------------*/
