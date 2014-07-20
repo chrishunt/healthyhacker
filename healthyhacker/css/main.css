@@ -19,7 +19,7 @@ body {
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { color: #dd4a26; text-decoration: none; }
-a:hover   { color: #dd826c; text-decoration: underline; }
+a:hover   { color: #dd5b3b; text-decoration: underline; }
 
 hr {
   margin-top: 50px;
