@@ -2,21 +2,28 @@
 layout: default
 ---
 
-<div class="home">
-  <ul class="posts">
-    {% for page in site.posts %}
-      <li>
-        <div class="post-summary">
-          <span class="post-date">#{{ page.episode }} - </span>
-          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">
-            {{ page.title }}
-          </a>
-        </div>
+{% for page in site.posts %}
+  <div class="post">
+    <article class="post-content">
+      {% include audio.html %}
 
-        <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">
-          {% include video.html %}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+      <header class="post-header">
+        <h3>
+          <a href="{{ page.url | prepend: site.baseurl }}">
+            <span>{{ page.title }}</span>
+          </a>
+        </h3>
+
+        <p class="meta">
+          <span>Episode #{{ page.episode}} •
+          {{ page.date | date: "%b %-d, %Y" }} •
+          33 minutes</span>
+        </p>
+      </header>
+
+      {{ page.content }}
+    </article>
+  </div>
+
+  <hr>
+{% endfor %}

@@ -21,6 +21,16 @@ h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 a         { color: #dd4a26; text-decoration: none; }
 a:hover   { color: #dd826c; text-decoration: underline; }
 
+hr {
+  margin-top: 50px;
+  border: 0;
+  height: 1px;
+  background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+  background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+  background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+  background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+}
+
 /* Utility */
 
 .wrap:before,
@@ -157,7 +167,6 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 
 .posts {
   list-style-type: none;
-  text-align: center;
 }
 
 .posts li {
@@ -168,22 +177,9 @@ a:hover   { color: #dd826c; text-decoration: underline; }
   display: block;
 }
 
-.post-summary {
-  padding: 5px;
-  background-color: #eee;
-}
-
-.post-link {
-  font-size: 18px;
-  letter-spacing: -1px;
-  line-height: 1;
-}
-
 .post-date {
   font-size: 15px;
-  color: #818181;
 }
-
 
 /* Post styles */
 /* ----------------------------------------------------------*/
@@ -201,7 +197,6 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 
 .post-header .meta {
   font-size: 15px;
-  margin-top: 5px;
 }
 
 .post-header span {
@@ -250,6 +245,10 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 
 .post-content ul,
 .post-content ol { padding-left: 20px; }
+
+.post-header h3 {
+  margin: 0 0 5px 0;
+}
 
 .post pre,
 .post code {
@@ -350,10 +349,8 @@ a:hover   { color: #dd826c; text-decoration: underline; }
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
-
 /* media queries */
 /* ----------------------------------------------------------*/
-
 
 @media screen and (max-width: 750px) {
 

@@ -3,11 +3,19 @@ layout: default
 ---
 <div class="post">
   <article class="post-content">
-    {% include video.html %}
+    {% include audio.html %}
 
     <header class="post-header">
+      <h3>
+        <a href="{{ page.url | prepend: site.baseurl }}">
+          <span>{{ page.title }}</span>
+        </a>
+      </h3>
+
       <p class="meta">
-        {{ page.date | date: "%b %-d, %Y" }} • <span>{{ page.title }}</span>
+        <span>Episode #{{ page.episode}} •
+        {{ page.date | date: "%b %-d, %Y" }} •
+        33 minutes</span>
       </p>
     </header>
 
