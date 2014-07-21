@@ -8,12 +8,6 @@
           src="http://podcasts.thoughtbot.com/giantrobots/{{ page.episode }}.mp3" />
     </audio>
 
-    <p class="download">
-      <a href="http://podcasts.thoughtbot.com/giantrobots/{{ page.episode }}.mp3">
-        Download mp3
-      </a> ({{ page.size }} mb)
-    </p>
-
     <header class="post-header">
       <h3>
         <a href="{{ page.url | prepend: site.baseurl }}">
@@ -22,9 +16,15 @@
       </h3>
 
       <p class="meta">
-        <span>Episode #{{ page.episode}} •
-        {{ page.date | date: "%b %-d, %Y" }} •
-        33 minutes</span>
+        <span>
+          Episode #{{ page.episode}}
+        </span>
+        {{ page.date | date: "%b %-d, %Y" }}<br>
+        <a href="http://podcasts.thoughtbot.com/giantrobots/{{ page.episode }}.mp3">
+          <span>
+            Download mp3
+          </span>
+        </a> ({{ page.size }} mb)
       </p>
     </header>
 
