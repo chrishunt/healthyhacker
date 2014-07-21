@@ -47,10 +47,16 @@ hr {
 
 .site-header {
   min-height: 56px;
-  background-color: white;
   text-align: center;
-  padding-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   border-top: 4px solid #dd4a26;
+  border-bottom: 2px solid #e8e8e8;
+}
+
+.site-header .links {
+  font-weight: bold;
+  margin-top: 20px;
 }
 
 .site-logo {
@@ -93,7 +99,7 @@ hr {
 /* Site footer */
 
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 2px solid #e8e8e8;
   padding: 30px 0;
 }
 

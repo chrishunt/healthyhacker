@@ -6,9 +6,7 @@
       <ul>
         <li>Subscribe</li>
         <li>
-          <a href="{{ "/feed.xml" | prepend: site.baseurl }}">iTunes</a> •
-          <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a> •
-          <a href="{{ "/feed.xml" | prepend: site.baseurl }}">Stitcher</a>
+          {% include feeds.html %}
         </li>
       </ul>
     </div>

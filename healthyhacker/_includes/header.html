@@ -1,9 +1,20 @@
 <header class="site-header">
-  <a href="{{ site.baseurl }}/">
-    <img class="site-logo" src="/img/logo.png" alt="Healthy Hacker">
-  </a>
+  <div class="wrap">
+    <a href="{{ site.baseurl }}/">
+      <img class="site-logo" src="/img/logo.png" alt="Healthy Hacker">
+    </a>
 
-  <a class="site-title" href="{{ site.baseurl }}/">
-    healthy<span>hacker</span>
-  </a>
+    <a class="site-title" href="{{ site.baseurl }}/">
+      healthy<span>hacker</span>
+    </a>
+
+    <p>{{ site.description }}</p>
+
+    <p class="links">
+      {% include feeds.html %} •
+      <a href="/search/" title="Search...">
+        <img src="/img/search.png" width="15px">
+      </a>
+    </p>
+  </div>
 </header>
