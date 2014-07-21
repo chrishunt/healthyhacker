@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<div class="post">
+  <article class="post-content">
+    {% include search.html %}
+  </article>
+</div>
+
 {% for page in paginator.posts %}
   {% include post.html %}
 
