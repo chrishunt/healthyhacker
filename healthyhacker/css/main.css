@@ -239,6 +239,10 @@ input:focus {
   color: #828282;
 }
 
+.meta a {
+  text-decoration: underline;
+}
+
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
