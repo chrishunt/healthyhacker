@@ -1,24 +1,5 @@
 ---
 layout: default
 ---
-<div class="post">
-  <article class="post-content">
-    {% include audio.html %}
 
-    <header class="post-header">
-      <h3>
-        <a href="{{ page.url | prepend: site.baseurl }}">
-          <span>{{ page.title }}</span>
-        </a>
-      </h3>
-
-      <p class="meta">
-        <span>Episode #{{ page.episode}} •
-        {{ page.date | date: "%b %-d, %Y" }} •
-        33 minutes</span>
-      </p>
-    </header>
-
-    {{ content }}
-  </article>
-</div>
+{% include post.html %}
