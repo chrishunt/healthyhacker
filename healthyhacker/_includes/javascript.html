@@ -1,8 +1,26 @@
-<script src="/mediaelement/jquery.js"></script>
-<script src="/mediaelement/mediaelement-and-player.min.js"></script>
+<script
+  src="/lunrsearch/search.min.js"
+  type="text/javascript"
+  charset="utf-8">
+</script>
 
-<script>
+<script
+  src="/mediaelement/mediaelement-and-player.min.js"
+  type="text/javascript"
+  charset="utf-8">
+</script>
+
+<script type="text/javascript">
   $('video, audio').mediaelementplayer({
     startVolume: 1.0
+  });
+</script>
+
+<script type="text/javascript">
+  $('#search-query').lunrSearch({
+    indexUrl: '/search.json',
+    results:  '#search-results',
+    entries:  '.entries',
+    template: '#search-results-template'
   });
 </script>

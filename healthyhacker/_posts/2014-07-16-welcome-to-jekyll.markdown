@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "This is a post about stuff"
 date:   2014-07-16 17:45:54
 episode: "3"
 size: 41

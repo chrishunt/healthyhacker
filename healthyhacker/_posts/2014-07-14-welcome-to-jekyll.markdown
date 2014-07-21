@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How about some tmux"
 date:   2014-07-14 17:45:54
 episode:  "1"
 ---
