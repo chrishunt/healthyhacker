@@ -2,7 +2,6 @@
 title:  "We are the healthy hackers"
 date:   2014-07-17 17:45:54
 episode:  "40"
-video: "xiVTGu92dw0"
 redirect_from: "40/"
 ---
 
