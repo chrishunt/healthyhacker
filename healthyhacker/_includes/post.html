@@ -1,6 +1,18 @@
 <div class="post">
   <article class="post-content">
-    {% include audio.html %}
+    <audio preload="none"
+      style="width:100%"
+      width="100%">
+        <source
+          type="audio/mpeg"
+          src="http://podcasts.thoughtbot.com/giantrobots/{{ page.episode }}.mp3" />
+    </audio>
+
+    <p class="download">
+      <a href="http://podcasts.thoughtbot.com/giantrobots/{{ page.episode }}.mp3">
+        Download mp3
+      </a> ({{ page.size }} mb)
+    </p>
 
     <header class="post-header">
       <h3>
