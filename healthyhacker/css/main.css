@@ -183,14 +183,14 @@ hr {
   width: 70%;
   font-size: 26px;
   padding: 10px 20px 10px 50px;
-  border: 4px solid #eee;
+  border: 4px solid #e8e8e8;
   background: url(/img/search.png) no-repeat scroll 10px 10px;
   background-size: 30px 30px;
 }
 
 input:focus {
   outline: none !important;
-  border: 4px solid #ddd;
+  border: 4px solid #ccc;
   box-shadow: 0 0 10px #eee;
 }
 
