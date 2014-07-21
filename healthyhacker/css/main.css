@@ -22,7 +22,7 @@ a         { color: #dd4a26; text-decoration: none; }
 a:hover   { color: #dd5b3b; text-decoration: underline; }
 
 hr {
-  margin-top: 50px;
+  margin-top: 40px;
   border: 1px solid #e8e8e8;
   height: 0px;
 }
