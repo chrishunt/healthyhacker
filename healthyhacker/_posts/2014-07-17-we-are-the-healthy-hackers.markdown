@@ -1,14 +1,17 @@
 ---
-title:  "We are the healthy hackers"
-date:   2014-07-17 17:45:54
-episode:  "40"
-redirect_from: "40/"
+title: "We are the healthy hackers"
+date: 2014-07-17 17:45:54
 size: 31
+duration: 1215
+episode: "40"
+redirect_from: "40/"
 ---
 
 This is the short summary. It should appear in the posts listing on the index
 page. It can be long and wrap a bit. Maybe a bit more though cause that didn't
 wrap.
+
+This & that.
 
 ### Workout of the week
 
