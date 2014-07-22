@@ -47,7 +47,7 @@ layout: none
 
     {% for post in site.posts %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
+        <title>{{ post.episode }}: {{ post.title | xml_escape }}</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>{{ post.content | xml_escape }}</description>
         <link>{{ post.url | prepend: site.url }}</link>
@@ -62,7 +62,9 @@ layout: none
           {{ post.content }}
         ]]></content:encoded>
 
-        <itunes:subtitle>{{ post.title | xml_escape }}</itunes:subtitle>
+        <itunes:subtitle>
+          {{ post.episode }}: {{ post.title | xml_escape }}
+        </itunes:subtitle>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:summary>{{ post.content | strip_html }}</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
