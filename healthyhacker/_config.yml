@@ -1,7 +1,10 @@
 # Site settings
 title: Healthy Hacker
-description: "Everything you need to know to be a healthy hacker. We talk about
-  fitness, puzzles, memory, vim, tmux, and anything else that blah blah."
+
+description: "Welcome to the Healthy Hacker where we talk about programming,
+  productivity, puzzles, memory techniques, fitness, diet, and other amazing
+  things that you, a healthy hacker, will find interesting."
+
 url: "http://healthyhacker.com"
 paginate: 3
 
