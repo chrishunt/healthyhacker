@@ -7,7 +7,6 @@ layout: none
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <author>Chris Hunt</author>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}/</link>
     <category>Technology</category>
@@ -43,9 +42,8 @@ layout: none
     {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <author>Chris Hunt</author>
+        <author>chris@healthyhacker.com</author>
         <description>{{ post.content | xml_escape }}</description>
-        <duration>{{ post.duration_in_seconds }}</duration>
         <link>{{ post.url | prepend: site.url }}</link>
         <category>Technology</category>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
@@ -56,7 +54,9 @@ layout: none
 
         <itunes:subtitle>{{ post.title | xml_escape }}</itunes:subtitle>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
-        <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+        <itunes:summary><![CDATA[
+          {{ post.content | xml_escape }}
+        ]]></itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>{{ post.duration_in_seconds }}</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
