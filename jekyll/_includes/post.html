@@ -5,7 +5,7 @@
       width="100%">
         <source
           type="audio/mpeg"
-          src="http://podcasts.thoughtbot.com/giantrobots/{{ page.episode }}.mp3" />
+          src="{{ site.mp3url }}/{{ page.episode }}.mp3" />
     </audio>
 
     <header class="post-header">
@@ -20,7 +20,7 @@
           Episode #{{ page.episode}}
         </span>
         {{ page.date | date: "%b %-d, %Y" }}<br>
-        <a href="http://podcasts.thoughtbot.com/giantrobots/{{ page.episode }}.mp3">
+        <a href="{{ site.mp3url }}/{{ page.episode }}.mp3">
           <span>Download mp3</span></a>
         ({{ page.size }} mb)
       </p>

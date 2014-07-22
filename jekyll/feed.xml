@@ -50,6 +50,9 @@ layout: none
         <category>Technology</category>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+        <enclosure url="{{ site.mp3url }}/{{ post.episode }}.mp3"
+                   length="{{ post.size }}"
+                   type="audio/mpeg" />
 
         <itunes:subtitle>{{ post.title | xml_escape }}</itunes:subtitle>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>

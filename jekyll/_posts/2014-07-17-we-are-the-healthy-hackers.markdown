@@ -1,8 +1,8 @@
 ---
 title: "We are the healthy hackers"
 date: 2014-07-17 17:45:54
-size: 31
-duration: 1215
+size: 31000000 # bytes
+duration: 1215 # seconds
 episode: "40"
 redirect_from: "40/"
 ---
