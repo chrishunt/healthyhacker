@@ -4,6 +4,7 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
@@ -20,6 +21,10 @@ layout: none
       <title>{{ site.title | xml_escape }}</title>
       <link>{{ site.url }}/</link>
     </image>
+
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Portland, OR</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
 
     <atom:link href="{{ "/feed.xml" | prepend: site.url }}"
                rel="self"
