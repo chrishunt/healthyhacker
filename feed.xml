@@ -9,8 +9,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 22 Jul 2014 16:13:24 -0700</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2014 16:13:24 -0700</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2014 16:21:54 -0700</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2014 16:21:54 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -39,7 +39,7 @@
     
       <item>
         <title>We are the healthy hackers</title>
-        <author>chris@healthyhacker.com</author>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;This is the short summary. It should appear in the posts listing on the index
 page. It can be long and wrap a bit. Maybe a bit more though cause that didn’t
 wrap.&lt;/p&gt;
@@ -70,28 +70,26 @@ wrap.&lt;/p&gt;
 
         <itunes:subtitle>We are the healthy hackers</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
-        <itunes:summary><![CDATA[
-          <p>This is the short summary. It should appear in the posts listing on the index
+        <itunes:summary>This is the short summary. It should appear in the posts listing on the index
 page. It can be long and wrap a bit. Maybe a bit more though cause that didn’t
-wrap.</p>
+wrap.
 
-<p>This &amp; that.</p>
+This &amp; that.
 
-<h3 id="workout-of-the-week">Workout of the week</h3>
+Workout of the week
 
-<p>3 rounds, as fast as possible, of:</p>
+3 rounds, as fast as possible, of:
 
-<ul>
-  <li>15 push-ups</li>
-  <li>15 dips</li>
-  <li>1 mile run</li>
-</ul>
 
-<h3 id="tip-of-the-week">Tip of the week</h3>
+  15 push-ups
+  15 dips
+  1 mile run
 
-<p>Do things well.</p>
 
-        ]]></itunes:summary>
+Tip of the week
+
+Do things well.
+</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1215</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -100,7 +98,7 @@ wrap.</p>
     
       <item>
         <title>This is a post about stuff</title>
-        <author>chris@healthyhacker.com</author>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
@@ -125,22 +123,20 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
         <itunes:subtitle>This is a post about stuff</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
-        <itunes:summary><![CDATA[
-          <p>You’ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
-To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+        <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
+To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+Jekyll also offers powerful support for code snippets:
 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
-<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
+def print_hi(name)
+  puts &quot;Hi, #{name}&quot;
+end
+print_hi(&#39;Tom&#39;)
+#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.
 
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>.</p>
+Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo.
 
-
-        ]]></itunes:summary>
+</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1300</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -149,7 +145,7 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
     
       <item>
         <title>Where do we go after this?</title>
-        <author>chris@healthyhacker.com</author>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
@@ -174,22 +170,20 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
         <itunes:subtitle>Where do we go after this?</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
-        <itunes:summary><![CDATA[
-          <p>You’ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
-To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+        <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
+To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+Jekyll also offers powerful support for code snippets:
 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
-<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
+def print_hi(name)
+  puts &quot;Hi, #{name}&quot;
+end
+print_hi(&#39;Tom&#39;)
+#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.
 
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>.</p>
+Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo.
 
-
-        ]]></itunes:summary>
+</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1200</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -198,7 +192,7 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
     
       <item>
         <title>How about some tmux</title>
-        <author>chris@healthyhacker.com</author>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
@@ -223,22 +217,20 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
         <itunes:subtitle>How about some tmux</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
-        <itunes:summary><![CDATA[
-          <p>You’ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
-To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+        <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
+To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+Jekyll also offers powerful support for code snippets:
 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
-<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
+def print_hi(name)
+  puts &quot;Hi, #{name}&quot;
+end
+print_hi(&#39;Tom&#39;)
+#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.
 
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>.</p>
+Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo.
 
-
-        ]]></itunes:summary>
+</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1210</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
