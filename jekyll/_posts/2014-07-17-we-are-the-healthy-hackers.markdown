@@ -1,8 +1,8 @@
 ---
 title: "We are the healthy hackers"
 date: 2014-07-17 17:45:54
-episode: "40"
-redirect_from: "40/"
+episode: "4"
+redirect_from: "4/"
 duration_in_seconds: 1215
 size_in_bytes: 31000000
 size_in_megabytes: 31

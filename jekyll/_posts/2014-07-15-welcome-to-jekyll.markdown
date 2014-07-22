@@ -1,7 +1,11 @@
 ---
 title:  "Where do we go after this?"
 date:   2014-07-15 17:45:54
-episode:  "2"
+episode: "2"
+redirect_from: "2/"
+duration_in_seconds: 1200
+size_in_bytes: 33000000
+size_in_megabytes: 33
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

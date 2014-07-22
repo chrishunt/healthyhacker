@@ -1,9 +1,11 @@
 ---
-title:  "This is a post about stuff"
-date:   2014-07-16 17:45:54
+title: "This is a post about stuff"
+date: 2014-07-16 17:45:54
 episode: "3"
-size: 41
-duration: 33
+redirect_from: "3/"
+duration_in_seconds: 1300
+size_in_bytes: 32000000
+size_in_megabytes: 32
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

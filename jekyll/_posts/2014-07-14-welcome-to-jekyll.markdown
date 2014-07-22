@@ -1,7 +1,11 @@
 ---
-title:  "How about some tmux"
+title: "How about some tmux"
 date:   2014-07-14 17:45:54
-episode:  "1"
+episode: "1"
+redirect_from: "1/"
+duration_in_seconds: 1210
+size_in_bytes: 28000000
+size_in_megabytes: 28
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
