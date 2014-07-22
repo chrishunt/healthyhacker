@@ -2,7 +2,6 @@
 title: Healthy Hacker
 description: "Everything you need to know to be a healthy hacker. We talk about
   fitness, puzzles, memory, vim, tmux, and anything else that blah blah."
-baseurl: ""
 url: "http://healthyhacker.com"
 paginate: 3
 
