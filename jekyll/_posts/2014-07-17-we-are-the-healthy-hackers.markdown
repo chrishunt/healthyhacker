@@ -1,10 +1,11 @@
 ---
 title: "We are the healthy hackers"
 date: 2014-07-17 17:45:54
-size: 31000000 # bytes
-duration: 1215 # seconds
 episode: "40"
 redirect_from: "40/"
+duration_in_seconds: 1215
+size_in_bytes: 31000000
+size_in_megabytes: 31
 ---
 
 This is the short summary. It should appear in the posts listing on the index

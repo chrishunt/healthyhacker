@@ -45,20 +45,20 @@ layout: none
         <title>{{ post.title | xml_escape }}</title>
         <author>Chris Hunt</author>
         <description>{{ post.content | xml_escape }}</description>
-        <duration>{{ post.duration }}</duration>
+        <duration>{{ post.duration_in_seconds }}</duration>
         <link>{{ post.url | prepend: site.url }}</link>
         <category>Technology</category>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
         <enclosure url="{{ site.mp3url }}/{{ post.episode }}.mp3"
-                   length="{{ post.size }}"
+                   length="{{ post.size_in_bytes }}"
                    type="audio/mpeg" />
 
         <itunes:subtitle>{{ post.title | xml_escape }}</itunes:subtitle>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
-        <itunes:duration>{{ post.duration }}</itunes:duration>
+        <itunes:duration>{{ post.duration_in_seconds }}</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="{{ "/img/cover.png" | prepend: site.url }}" />
       </item>
