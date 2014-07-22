@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
@@ -10,8 +11,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 22 Jul 2014 16:31:53 -0700</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2014 16:31:53 -0700</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2014 16:37:07 -0700</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2014 16:37:07 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -73,6 +74,29 @@ wrap.&lt;/p&gt;
                    length="31000000"
                    type="audio/mpeg" />
 
+        <content:encoded><![CDATA[
+          <p>This is the short summary. It should appear in the posts listing on the index
+page. It can be long and wrap a bit. Maybe a bit more though cause that didn’t
+wrap.</p>
+
+<p>This &amp; that.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>3 rounds, as fast as possible, of:</p>
+
+<ul>
+  <li>15 push-ups</li>
+  <li>15 dips</li>
+  <li>1 mile run</li>
+</ul>
+
+<h3 id="tip-of-the-week">Tip of the week</h3>
+
+<p>Do things well.</p>
+
+        ]]></content:encoded>
+
         <itunes:subtitle>We are the healthy hackers</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
         <itunes:summary>This is the short summary. It should appear in the posts listing on the index
@@ -126,6 +150,23 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
                    length="32000000"
                    type="audio/mpeg" />
 
+        <content:encoded><![CDATA[
+          <p>You’ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
+To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
+<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
+
+<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>.</p>
+
+
+        ]]></content:encoded>
+
         <itunes:subtitle>This is a post about stuff</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
         <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
@@ -173,6 +214,23 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
                    length="33000000"
                    type="audio/mpeg" />
 
+        <content:encoded><![CDATA[
+          <p>You’ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
+To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
+<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
+
+<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>.</p>
+
+
+        ]]></content:encoded>
+
         <itunes:subtitle>Where do we go after this?</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
         <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
@@ -219,6 +277,23 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
         <enclosure url="http://podcasts.thoughtbot.com/giantrobots/1.mp3"
                    length="28000000"
                    type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>You’ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
+To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
+<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
+
+<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>.</p>
+
+
+        ]]></content:encoded>
 
         <itunes:subtitle>How about some tmux</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
