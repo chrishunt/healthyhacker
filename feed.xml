@@ -4,14 +4,13 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Healthy Hacker</title>
-    <author>Chris Hunt</author>
     <description>Welcome to the Healthy Hacker where we talk about programming, productivity, puzzles, memory techniques, fitness, diet, and other amazing things that you, a healthy hacker, will find interesting.</description>
     <link>http://healthyhacker.com/</link>
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 22 Jul 2014 15:57:14 -0700</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2014 15:57:14 -0700</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2014 16:11:10 -0700</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2014 16:11:10 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -40,7 +39,7 @@
     
       <item>
         <title>We are the healthy hackers</title>
-        <author>Chris Hunt</author>
+        <author>chris@healthyhacker.com</author>
         <description>&lt;p&gt;This is the short summary. It should appear in the posts listing on the index
 page. It can be long and wrap a bit. Maybe a bit more though cause that didn’t
 wrap.&lt;/p&gt;
@@ -61,7 +60,6 @@ wrap.&lt;/p&gt;
 
 &lt;p&gt;Do things well.&lt;/p&gt;
 </description>
-        <duration>1215</duration>
         <link>http://healthyhacker.com/2014/07/17/we-are-the-healthy-hackers/</link>
         <category>Technology</category>
         <pubDate>Thu, 17 Jul 2014 10:45:54 -0700</pubDate>
@@ -72,7 +70,8 @@ wrap.&lt;/p&gt;
 
         <itunes:subtitle>We are the healthy hackers</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
-        <itunes:summary>&lt;p&gt;This is the short summary. It should appear in the posts listing on the index
+        <itunes:summary><![CDATA[
+          &lt;p&gt;This is the short summary. It should appear in the posts listing on the index
 page. It can be long and wrap a bit. Maybe a bit more though cause that didn’t
 wrap.&lt;/p&gt;
 
@@ -91,7 +90,8 @@ wrap.&lt;/p&gt;
 &lt;h3 id=&quot;tip-of-the-week&quot;&gt;Tip of the week&lt;/h3&gt;
 
 &lt;p&gt;Do things well.&lt;/p&gt;
-</itunes:summary>
+
+        ]]></itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1215</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -100,7 +100,7 @@ wrap.&lt;/p&gt;
     
       <item>
         <title>This is a post about stuff</title>
-        <author>Chris Hunt</author>
+        <author>chris@healthyhacker.com</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
@@ -115,7 +115,6 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <duration>1300</duration>
         <link>http://healthyhacker.com/2014/07/16/welcome-to-jekyll/</link>
         <category>Technology</category>
         <pubDate>Wed, 16 Jul 2014 10:45:54 -0700</pubDate>
@@ -126,7 +125,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
         <itunes:subtitle>This is a post about stuff</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
-        <itunes:summary>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+        <itunes:summary><![CDATA[
+          &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
@@ -139,7 +139,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
-</itunes:summary>
+
+        ]]></itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1300</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -148,7 +149,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Where do we go after this?</title>
-        <author>Chris Hunt</author>
+        <author>chris@healthyhacker.com</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
@@ -163,7 +164,6 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <duration>1200</duration>
         <link>http://healthyhacker.com/2014/07/15/welcome-to-jekyll/</link>
         <category>Technology</category>
         <pubDate>Tue, 15 Jul 2014 10:45:54 -0700</pubDate>
@@ -174,7 +174,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
         <itunes:subtitle>Where do we go after this?</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
-        <itunes:summary>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+        <itunes:summary><![CDATA[
+          &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
@@ -187,7 +188,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
-</itunes:summary>
+
+        ]]></itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1200</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -196,7 +198,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>How about some tmux</title>
-        <author>Chris Hunt</author>
+        <author>chris@healthyhacker.com</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
@@ -211,7 +213,6 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <duration>1210</duration>
         <link>http://healthyhacker.com/2014/07/14/welcome-to-jekyll/</link>
         <category>Technology</category>
         <pubDate>Mon, 14 Jul 2014 10:45:54 -0700</pubDate>
@@ -222,7 +223,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
         <itunes:subtitle>How about some tmux</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
-        <itunes:summary>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+        <itunes:summary><![CDATA[
+          &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
@@ -235,7 +237,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
-</itunes:summary>
+
+        ]]></itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1210</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
