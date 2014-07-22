@@ -11,8 +11,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 22 Jul 2014 16:37:07 -0700</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2014 16:37:07 -0700</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2014 16:43:07 -0700</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2014 16:43:07 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -44,7 +44,7 @@
 
     
       <item>
-        <title>We are the healthy hackers</title>
+        <title>4: We are the healthy hackers</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;This is the short summary. It should appear in the posts listing on the index
 page. It can be long and wrap a bit. Maybe a bit more though cause that didn’t
@@ -97,7 +97,9 @@ wrap.</p>
 
         ]]></content:encoded>
 
-        <itunes:subtitle>We are the healthy hackers</itunes:subtitle>
+        <itunes:subtitle>
+          4: We are the healthy hackers
+        </itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
         <itunes:summary>This is the short summary. It should appear in the posts listing on the index
 page. It can be long and wrap a bit. Maybe a bit more though cause that didn’t
@@ -126,7 +128,7 @@ Do things well.
       </item>
     
       <item>
-        <title>This is a post about stuff</title>
+        <title>3: This is a post about stuff</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
@@ -167,7 +169,9 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
 
         ]]></content:encoded>
 
-        <itunes:subtitle>This is a post about stuff</itunes:subtitle>
+        <itunes:subtitle>
+          3: This is a post about stuff
+        </itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
         <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
 To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
@@ -190,7 +194,7 @@ Check out the Jekyll docs for more info on how to get the most out of Jekyll. Fi
       </item>
     
       <item>
-        <title>Where do we go after this?</title>
+        <title>2: Where do we go after this?</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
@@ -231,7 +235,9 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
 
         ]]></content:encoded>
 
-        <itunes:subtitle>Where do we go after this?</itunes:subtitle>
+        <itunes:subtitle>
+          2: Where do we go after this?
+        </itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
         <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
 To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
@@ -254,7 +260,7 @@ Check out the Jekyll docs for more info on how to get the most out of Jekyll. Fi
       </item>
     
       <item>
-        <title>How about some tmux</title>
+        <title>1: How about some tmux</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
@@ -295,7 +301,9 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
 
         ]]></content:encoded>
 
-        <itunes:subtitle>How about some tmux</itunes:subtitle>
+        <itunes:subtitle>
+          1: How about some tmux
+        </itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
         <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
 To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
