@@ -55,7 +55,7 @@ layout: none
         <itunes:subtitle>{{ post.title | xml_escape }}</itunes:subtitle>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:summary><![CDATA[
-          {{ post.content | xml_escape }}
+          {{ post.content }}
         ]]></itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>{{ post.duration_in_seconds }}</itunes:duration>
