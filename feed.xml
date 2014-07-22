@@ -10,8 +10,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 22 Jul 2014 14:44:31 -0700</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2014 14:44:31 -0700</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2014 15:57:14 -0700</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2014 15:57:14 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -66,6 +66,9 @@ wrap.&lt;/p&gt;
         <category>Technology</category>
         <pubDate>Thu, 17 Jul 2014 10:45:54 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/17/we-are-the-healthy-hackers/</guid>
+        <enclosure url="http://podcasts.thoughtbot.com/giantrobots/4.mp3"
+                   length="31000000"
+                   type="audio/mpeg" />
 
         <itunes:subtitle>We are the healthy hackers</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
@@ -112,11 +115,14 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <duration>33</duration>
+        <duration>1300</duration>
         <link>http://healthyhacker.com/2014/07/16/welcome-to-jekyll/</link>
         <category>Technology</category>
         <pubDate>Wed, 16 Jul 2014 10:45:54 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/16/welcome-to-jekyll/</guid>
+        <enclosure url="http://podcasts.thoughtbot.com/giantrobots/3.mp3"
+                   length="32000000"
+                   type="audio/mpeg" />
 
         <itunes:subtitle>This is a post about stuff</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
@@ -135,7 +141,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
-        <itunes:duration>33</itunes:duration>
+        <itunes:duration>1300</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://healthyhacker.com/img/cover.png" />
       </item>
@@ -157,11 +163,14 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <duration></duration>
+        <duration>1200</duration>
         <link>http://healthyhacker.com/2014/07/15/welcome-to-jekyll/</link>
         <category>Technology</category>
         <pubDate>Tue, 15 Jul 2014 10:45:54 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/15/welcome-to-jekyll/</guid>
+        <enclosure url="http://podcasts.thoughtbot.com/giantrobots/2.mp3"
+                   length="33000000"
+                   type="audio/mpeg" />
 
         <itunes:subtitle>Where do we go after this?</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
@@ -180,7 +189,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
-        <itunes:duration></itunes:duration>
+        <itunes:duration>1200</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://healthyhacker.com/img/cover.png" />
       </item>
@@ -202,11 +211,14 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <duration></duration>
+        <duration>1210</duration>
         <link>http://healthyhacker.com/2014/07/14/welcome-to-jekyll/</link>
         <category>Technology</category>
         <pubDate>Mon, 14 Jul 2014 10:45:54 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/14/welcome-to-jekyll/</guid>
+        <enclosure url="http://podcasts.thoughtbot.com/giantrobots/1.mp3"
+                   length="28000000"
+                   type="audio/mpeg" />
 
         <itunes:subtitle>How about some tmux</itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
@@ -225,7 +237,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
-        <itunes:duration></itunes:duration>
+        <itunes:duration>1210</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://healthyhacker.com/img/cover.png" />
       </item>
