@@ -4,6 +4,7 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
@@ -56,6 +57,10 @@ layout: none
         <enclosure url="{{ site.mp3url }}/{{ post.episode }}.mp3"
                    length="{{ post.size_in_bytes }}"
                    type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          {{ post.content }}
+        ]]></content:encoded>
 
         <itunes:subtitle>{{ post.title | xml_escape }}</itunes:subtitle>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
