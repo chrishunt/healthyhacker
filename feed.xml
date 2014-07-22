@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Healthy Hacker</title>
@@ -9,14 +10,18 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 22 Jul 2014 16:21:54 -0700</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2014 16:21:54 -0700</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2014 16:31:53 -0700</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2014 16:31:53 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
       <title>Healthy Hacker</title>
       <link>http://healthyhacker.com/</link>
     </image>
+
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Portland, OR</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
 
     <atom:link href="http://healthyhacker.com/feed.xml"
                rel="self"
