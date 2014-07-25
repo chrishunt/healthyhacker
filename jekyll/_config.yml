@@ -9,7 +9,7 @@ description: "Welcome to the Healthy Hacker where we talk about programming,
   hacker, find interesting."
 url: "http://healthyhacker.com"
 paginate: 3
-mp3url: "http://podcasts.thoughtbot.com/giantrobots"
+mp3url: "http://traffic.libsyn.com/healthyhacker"
 
 # Build settings
 markdown: kramdown
