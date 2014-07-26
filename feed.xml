@@ -6,13 +6,13 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Healthy Hacker</title>
-    <description>Welcome to the Healthy Hacker where we talk about programming, productivity, puzzles, memory techniques, fitness, diet, and other amazing things that you, a healthy hacker, will find interesting.</description>
+    <description>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</description>
     <link>http://healthyhacker.com/</link>
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 22 Jul 2014 20:07:35 -0700</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2014 20:07:35 -0700</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2014 21:51:17 -0700</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2014 21:51:17 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -29,9 +29,9 @@
                type="application/rss+xml" />
 
     <itunes:subtitle>Healthy Hacker</itunes:subtitle>
-    <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
+    <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
     <itunes:author>Chris Hunt</itunes:author>
-    <itunes:summary>Welcome to the Healthy Hacker where we talk about programming, productivity, puzzles, memory techniques, fitness, diet, and other amazing things that you, a healthy hacker, will find interesting.</itunes:summary>
+    <itunes:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</itunes:summary>
     <itunes:image href="http://healthyhacker.com/img/cover.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -70,7 +70,7 @@ wrap.&lt;/p&gt;
         <category>Technology</category>
         <pubDate>Thu, 17 Jul 2014 10:45:54 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/17/we-are-the-healthy-hackers/</guid>
-        <enclosure url="http://podcasts.thoughtbot.com/giantrobots/4.mp3"
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/4.mp3"
                    length="31000000"
                    type="audio/mpeg" />
 
@@ -100,7 +100,7 @@ wrap.</p>
         <itunes:subtitle>
           4: We are the healthy hackers
         </itunes:subtitle>
-        <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
+        <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This is the short summary. It should appear in the posts listing on the index
 page. It can be long and wrap a bit. Maybe a bit more though cause that didn’t
 wrap.
@@ -148,7 +148,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
         <category>Technology</category>
         <pubDate>Wed, 16 Jul 2014 10:45:54 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/16/welcome-to-jekyll/</guid>
-        <enclosure url="http://podcasts.thoughtbot.com/giantrobots/3.mp3"
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/3.mp3"
                    length="32000000"
                    type="audio/mpeg" />
 
@@ -172,7 +172,7 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
         <itunes:subtitle>
           3: This is a post about stuff
         </itunes:subtitle>
-        <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
+        <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
 To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
@@ -214,7 +214,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
         <category>Technology</category>
         <pubDate>Tue, 15 Jul 2014 10:45:54 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/15/welcome-to-jekyll/</guid>
-        <enclosure url="http://podcasts.thoughtbot.com/giantrobots/2.mp3"
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/2.mp3"
                    length="33000000"
                    type="audio/mpeg" />
 
@@ -238,7 +238,7 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
         <itunes:subtitle>
           2: Where do we go after this?
         </itunes:subtitle>
-        <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
+        <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
 To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
@@ -280,7 +280,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
         <category>Technology</category>
         <pubDate>Mon, 14 Jul 2014 10:45:54 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/14/welcome-to-jekyll/</guid>
-        <enclosure url="http://podcasts.thoughtbot.com/giantrobots/1.mp3"
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/1.mp3"
                    length="28000000"
                    type="audio/mpeg" />
 
@@ -304,7 +304,7 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
         <itunes:subtitle>
           1: How about some tmux
         </itunes:subtitle>
-        <itunes:keywords>development,software,programming,exercise,health,fitness</itunes:keywords>
+        <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
 To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
