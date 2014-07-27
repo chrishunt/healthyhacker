@@ -11,8 +11,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Fri, 25 Jul 2014 21:51:17 -0700</pubDate>
-    <lastBuildDate>Fri, 25 Jul 2014 21:51:17 -0700</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2014 10:40:57 -0700</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2014 10:40:57 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -42,6 +42,81 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>1: Talking about a text editor</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week we talk about my favorite text editor and why you should have a
+favorite text editor as well. There really is no reason to be using crap
+because everyone else uses it. This text is fake by the way, just trying to get
+something on the screen.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Time to beat:&lt;/strong&gt; 7 minutes, 30 seconds&lt;/p&gt;
+
+&lt;p&gt;The “pyramid”. This is an awesome workout because you can do it anywhere. I did
+this yesterday morning in 7 minutes and 15 seconds.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pushup&lt;/li&gt;
+  &lt;li&gt;Shoulder press (no weight)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <link>http://healthyhacker.com/2014/07/26/why-i-use-vim/</link>
+        <category>Technology</category>
+        <pubDate>Sat, 26 Jul 2014 00:00:00 -0700</pubDate>
+        <guid isPermaLink="true">http://healthyhacker.com/2014/07/26/why-i-use-vim/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/1.mp3"
+                   length="31000000"
+                   type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week we talk about my favorite text editor and why you should have a
+favorite text editor as well. There really is no reason to be using crap
+because everyone else uses it. This text is fake by the way, just trying to get
+something on the screen.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p><strong>Time to beat:</strong> 7 minutes, 30 seconds</p>
+
+<p>The “pyramid”. This is an awesome workout because you can do it anywhere. I did
+this yesterday morning in 7 minutes and 15 seconds.</p>
+
+<ul>
+  <li>Pushup</li>
+  <li>Shoulder press (no weight)</li>
+</ul>
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>
+          1: Talking about a text editor
+        </itunes:subtitle>
+        <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week we talk about my favorite text editor and why you should have a
+favorite text editor as well. There really is no reason to be using crap
+because everyone else uses it. This text is fake by the way, just trying to get
+something on the screen.
+
+Workout of the week
+
+Time to beat: 7 minutes, 30 seconds
+
+The “pyramid”. This is an awesome workout because you can do it anywhere. I did
+this yesterday morning in 7 minutes and 15 seconds.
+
+
+  Pushup
+  Shoulder press (no weight)
+
+</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>1215</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>4: We are the healthy hackers</title>

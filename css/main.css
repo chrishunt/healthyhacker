@@ -27,6 +27,10 @@ hr {
   height: 0px;
 }
 
+strong {
+  color: #333;
+}
+
 /* Utility */
 
 .wrap:before,
@@ -52,26 +56,24 @@ hr {
 /* Site header */
 
 .site-header {
-  min-height: 56px;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px 0;
   border-top: 4px solid #dd4a26;
   border-bottom: 2px solid #e8e8e8;
+  background: url("/img/logo-hair-transparent.png") no-repeat center center;
+  background-size: cover;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
 }
 
-.site-header .links {
-  font-weight: bold;
-  margin-top: 20px;
-}
-
-.site-logo {
-  height: 150px;
-  margin-bottom: -20px;
+.site-logo img {
+  height: 300px;
 }
 
 .site-title {
-  font-size: 64px;
+  font-size: 110px;
+  margin: -20px 0 -10px 0;
 }
 
 .site-title,
@@ -81,26 +83,14 @@ hr {
   color: #333;
   font-weight: 600;
   letter-spacing: -1px;
+  text-decoration: none;
 }
 
 .site-title span {
   color: #dd4a26;
 }
 
-.site-nav {
-  float: right;
-  line-height: 56px;
-}
-
-.site-nav .menu-icon { display: none; }
-
 .site-hidden { display: none; }
-
-.site-nav .page-link {
-  margin-left: 20px;
-  color: #727272;
-  letter-spacing: -.5px;
-}
 
 /* Site footer */
 
@@ -248,7 +238,11 @@ input:focus {
 }
 
 .meta, .meta a {
-  color: #828282;
+  color: #333;
+}
+
+.meta a {
+  text-decoration: underline;
 }
 
 .post-content { margin: 0 0 30px; }
@@ -264,6 +258,7 @@ input:focus {
   line-height: 1;
   font-weight: 300;
   margin: 40px 0 20px;
+  color: #333;
 }
 
 .post-content h2 {
@@ -419,6 +414,15 @@ input:focus {
     clear: both;
   }
 
+  .site-logo img {
+    height: 250px;
+  }
+
+  .site-title {
+    font-size: 80px;
+    margin: -10px 0 -10px 0;
+  }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -439,56 +443,13 @@ input:focus {
     font-size: 15px;
   }
 
-  .site-header {
-    padding-top: 12px;
-  }
-
-  .site-logo {
-    height: 100px;
-    margin-bottom: -10px;
+  .site-logo img {
+    height: 150px;
   }
 
   .site-title {
-    font-size: 32px;
-  }
-
-  .site-nav {
-    position: fixed;
-    z-index: 10;
-    top: 14px; right: 8px;
-    background-color: white;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    border: 1px solid #e8e8e8;
-  }
-
-  .site-nav .menu-icon {
-    display: block;
-    font-size: 24px;
-    color: #505050;
-    float: right;
-    width: 36px;
-    text-align: center;
-    line-height: 36px;
-  }
-
-  .site-nav .menu-icon svg { width: 18px; height: 16px; }
-
-  .site-nav .trigger {
-    clear: both;
-    margin-bottom: 5px;
-    display: none;
-  }
-
-  .site-nav:hover .trigger { display: block; }
-
-  .site-nav .page-link {
-    display: block;
-    text-align: right;
-    line-height: 1.25;
-    padding: 5px 10px;
-    margin: 0;
+    font-size: 42px;
+    margin: -10px 0 -10px 0;
   }
 
   .post-header h1 { font-size: 36px; }
