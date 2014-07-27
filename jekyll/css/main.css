@@ -57,8 +57,7 @@ strong {
 
 .site-header {
   text-align: center;
-  min-height: 56px;
-  padding: 40px 0;
+  padding: 20px 0;
   border-top: 4px solid #dd4a26;
   border-bottom: 2px solid #e8e8e8;
   background: url("/img/logo-hair-transparent.png") no-repeat center center;
@@ -74,8 +73,7 @@ strong {
 
 .site-title {
   font-size: 110px;
-  margin-top: -30px;
-  margin-bottom: -10px;
+  margin: -20px 0 -10px 0;
 }
 
 .site-title,
@@ -90,11 +88,6 @@ strong {
 
 .site-title span {
   color: #dd4a26;
-}
-
-.site-header .links {
-  font-weight: bold;
-  font-size: 32px;
 }
 
 .site-hidden { display: none; }
@@ -421,6 +414,15 @@ input:focus {
     clear: both;
   }
 
+  .site-logo img {
+    height: 250px;
+  }
+
+  .site-title {
+    font-size: 80px;
+    margin: -10px 0 -10px 0;
+  }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -441,18 +443,13 @@ input:focus {
     font-size: 15px;
   }
 
-  .site-header {
-    padding-top: 12px;
+  .site-logo img {
+    height: 150px;
   }
 
   .site-title {
-    font-size: 32px;
-    margin-bottom: -5px;
-    margin-top: 10px;
-  }
-
-  .site-header .links {
-    font-size: 16px;
+    font-size: 42px;
+    margin: -10px 0 -10px 0;
   }
 
   .post-header h1 { font-size: 36px; }
