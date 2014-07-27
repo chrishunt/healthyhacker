@@ -1,18 +1,11 @@
 <header class="site-header">
-  <div class="wrap">
-    <a href="/">
-      <img class="site-logo" src="/img/logo.png" alt="Healthy Hacker">
+  {% if page.url == "/" %}
+    <a class="site-logo" href="/">
+      <img src="/img/logo.png" alt="Healthy Hacker">
     </a>
+  {% endif %}
 
-    <a class="site-title" href="/">
-      healthy<span>hacker</span>
-    </a>
-
-    <p class="links">
-      {% include feeds.html %} •
-      <a href="/search/" title="Search...">
-        <img src="/img/search.png" width="15px">
-      </a>
-    </p>
-  </div>
+  <a class="site-title" href="/">
+    healthy<span>hacker</span>
+  </a>
 </header>
