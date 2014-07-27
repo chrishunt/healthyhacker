@@ -1,17 +1,15 @@
+{% capture mp3 %}{{ site.mp3url }}/healthyhacker-{{ page.episode }}.mp3{% endcapture %}
+
 <div class="post">
   <article class="post-content">
-    <audio preload="none"
-      style="width:100%"
-      width="100%">
-        <source
-          type="audio/mpeg"
-          src="{{ site.mp3url }}/{{ page.episode }}.mp3" />
+    <audio preload="none" style="width:100%" width="100%">
+      <source type="audio/mpeg" src="{{ mp3 }}" />
     </audio>
 
     <header class="post-header">
       <h3>
         <a href="{{ page.url }}">
-          <span>{{ page.title }}</span>
+          {{page.episode}}: <span>{{ page.title }}</span>
         </a>
       </h3>
 
@@ -20,8 +18,7 @@
           Episode #{{ page.episode}}
         </span>
         {{ page.date | date: "%b %-d, %Y" }}<br>
-        <a href="{{ site.mp3url }}/{{ page.episode }}.mp3">
-          <span>Download mp3</span></a>
+        <a href="{{ mp3 }}"><span>Download mp3</span></a>
         ({{ page.size_in_megabytes }} mb)
       </p>
     </header>
