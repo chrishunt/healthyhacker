@@ -57,7 +57,6 @@ strong {
 
 .site-header {
   min-height: 56px;
-  text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
   border-top: 4px solid #dd4a26;
@@ -66,15 +65,22 @@ strong {
 
 .site-header .links {
   font-weight: bold;
+  font-size: 20px;
 }
 
 .site-logo {
-  height: 150px;
-  margin-bottom: -20px;
+  float: left;
+  padding-right: 10px;
+}
+
+.site-logo,
+.site-logo img {
+  height: 100px;
 }
 
 .site-title {
-  font-size: 64px;
+  font-size: 52px;
+  margin-bottom: -10px;
 }
 
 .site-title,
@@ -452,13 +458,19 @@ input:focus {
     padding-top: 12px;
   }
 
-  .site-logo {
-    height: 100px;
-    margin-bottom: -10px;
+  .site-logo,
+  .site-logo img {
+    height: 80px;
   }
 
   .site-title {
     font-size: 32px;
+    margin-bottom: -5px;
+    margin-top: 10px;
+  }
+
+  .site-header .links {
+    font-size: 16px;
   }
 
   .site-nav {
