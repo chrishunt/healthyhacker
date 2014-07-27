@@ -27,6 +27,10 @@ hr {
   height: 0px;
 }
 
+strong {
+  color: #333;
+}
+
 /* Utility */
 
 .wrap:before,
@@ -62,7 +66,6 @@ hr {
 
 .site-header .links {
   font-weight: bold;
-  margin-top: 20px;
 }
 
 .site-logo {
@@ -81,6 +84,7 @@ hr {
   color: #333;
   font-weight: 600;
   letter-spacing: -1px;
+  text-decoration: none;
 }
 
 .site-title span {
@@ -248,7 +252,11 @@ input:focus {
 }
 
 .meta, .meta a {
-  color: #828282;
+  color: #333;
+}
+
+.meta a {
+  text-decoration: underline;
 }
 
 .post-content { margin: 0 0 30px; }
@@ -264,6 +272,7 @@ input:focus {
   line-height: 1;
   font-weight: 300;
   margin: 40px 0 20px;
+  color: #333;
 }
 
 .post-content h2 {
