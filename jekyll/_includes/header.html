@@ -1,19 +1,16 @@
 <header class="site-header">
-  <div class="wrap">
+  <a class="site-logo" href="/">
+    <img src="/img/logo.png" alt="Healthy Hacker">
+  </a>
 
-    <a class="site-logo" href="/">
-      <img src="/img/logo.png" alt="Healthy Hacker">
+  <a class="site-title" href="/">
+    healthy<span>hacker</span>
+  </a>
+
+  <p class="links">
+    {% include feeds.html %} •
+    <a href="/search/" title="Search...">
+      <img src="/img/search.png" width="20px">
     </a>
-
-    <a class="site-title" href="/">
-      healthy<span>hacker</span>
-    </a>
-
-    <p class="links">
-      {% include feeds.html %} •
-      <a href="/search/" title="Search...">
-        <img src="/img/search.png" width="15px">
-      </a>
-    </p>
-  </div>
+  </p>
 </header>
