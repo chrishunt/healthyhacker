@@ -25,6 +25,6 @@ total of 100 reps for each exercise.
 
 If this seems like a bit too much right now, scale down the workout by choosing
 a smaller pyramid. You might surprise yourself. Take breaks as necessary, but
-go as fast as possible. Let me know how you do in the comments!
+go as fast as possible.
 
 [**@chrishunt:**](https://twitter.com/chrishunt) 7 minutes, 30 seconds
