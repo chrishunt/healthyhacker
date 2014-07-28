@@ -1,5 +1,5 @@
 ---
-title: "Talking about a text editor"
+title: "Why I Use Vim"
 episode: "1"
 redirect_from: "1/"
 duration_in_seconds: 1215
@@ -7,19 +7,24 @@ size_in_bytes: 31000000
 size_in_megabytes: 31
 ---
 
-This week we talk about my favorite text editor and why you should have a
-favorite text editor as well. There really is no reason to be using crap
-because everyone else uses it. This text is fake by the way, just trying to get
-something on the screen.
+This week I talk about why I choose to use [Vim](http://www.vim.org/) for all
+my text editing.
 
 ### Workout of the week
 
-**Time to beat:** 7 minutes, 30 seconds
+This workout is awesome because you can do it anywhere. All you need is a
+floor.  I'm pretty sure I do this at least once every time I travel.
 
-The "pyramid". This is an awesome workout because you can do it anywhere. I did
-this yesterday morning in 7 minutes and 15 seconds.
+This is a **10 rep pyramid**. Do each exercise 1 time, then 2 times, then 3
+times, etc.  Work up to 10 reps for each exercise, then go back down the
+pyramid with 9 reps, 8 reps, 7 reps, etc. You will finish the workout with a
+total of 100 reps for each exercise.
 
+- [Push-up](http://www.google.com/images?q=push+up)
+- [Shoulder press](http://www.google.com/images?q=shoulder+press)
 
+If this seems like a bit too much right now, scale down the workout by choosing
+a smaller pyramid. You might surprise yourself. Take breaks as necessary, but
+go as fast as possible. Let me know how you do in the comments!
 
-- Pushup
-- Shoulder press (no weight)
+[**@chrishunt:**](https://twitter.com/chrishunt) 7 minutes, 30 seconds
