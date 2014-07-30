@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Wed, 30 Jul 2014 07:32:24 -0700</pubDate>
-    <lastBuildDate>Wed, 30 Jul 2014 07:32:24 -0700</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2014 07:34:21 -0700</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2014 07:34:21 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -19,7 +19,7 @@
     <atom:link href="http://healthyhacker.com/feed.xml" rel="self" type="application/rss+xml" />
 
     <itunes:subtitle>Healthy Hacker</itunes:subtitle>
-    <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
+    <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
     <itunes:author>Chris Hunt</itunes:author>
     <itunes:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</itunes:summary>
     <itunes:image href="http://healthyhacker.com/img/cover.png" />
@@ -110,7 +110,7 @@ do it!</p>
         <itunes:subtitle>
           1: Why I use Vim
         </itunes:subtitle>
-        <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week I’m going to answer a question that I get all the time: Why do I use
 Vim?
 
