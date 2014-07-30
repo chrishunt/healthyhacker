@@ -11,8 +11,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 29 Jul 2014 18:19:12 -0700</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2014 18:19:12 -0700</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2014 18:25:14 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2014 18:25:14 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -81,7 +81,7 @@ do it!&lt;/p&gt;
         <category>Technology</category>
         <pubDate>Tue, 29 Jul 2014 00:00:00 -0700</pubDate>
         <guid isPermaLink="true">http://healthyhacker.com/2014/07/29/why-i-use-vim/</guid>
-        <enclosure url="http://traffic.libsyn.com/healthyhacker/1.mp3"
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-1.mp3"
                    length="14316059"
                    type="audio/mpeg" />
 
