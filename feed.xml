@@ -3,26 +3,26 @@
   <channel>
     <title>Healthy Hacker</title>
     <description>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</description>
-    <link>http://healthyhacker.com/</link>
+    <link>http://www.healthyhacker.com/</link>
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Wed, 30 Jul 2014 11:01:51 -0700</pubDate>
-    <lastBuildDate>Wed, 30 Jul 2014 11:01:51 -0700</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2014 11:07:30 -0700</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2014 11:07:30 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
-      <url>http://healthyhacker.com/img/cover.png</url>
+      <url>http://www.healthyhacker.com/img/cover.png</url>
       <title>Healthy Hacker</title>
-      <link>http://healthyhacker.com/</link>
+      <link>http://www.healthyhacker.com/</link>
     </image>
 
-    <atom:link href="http://healthyhacker.com/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.healthyhacker.com/feed.xml" rel="self" type="application/rss+xml" />
 
     <itunes:subtitle>Healthy Hacker</itunes:subtitle>
     <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
     <itunes:author>Chris Hunt</itunes:author>
     <itunes:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</itunes:summary>
-    <itunes:image href="http://healthyhacker.com/img/cover.png" />
+    <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
@@ -65,12 +65,12 @@ do it!&lt;/p&gt;
 &lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
 
 &lt;p&gt;Did I get something wrong or do you have a question? Send me a
-&lt;a href=&quot;http://healthyhacker.com/voicemail&quot;&gt;voicemail&lt;/a&gt; and I’ll respond on the show!&lt;/p&gt;
+&lt;a href=&quot;http://www.healthyhacker.com/voicemail&quot;&gt;voicemail&lt;/a&gt; and I’ll respond on the show!&lt;/p&gt;
 </description>
-        <link>http://healthyhacker.com/2014/07/29/why-i-use-vim/</link>
+        <link>http://www.healthyhacker.com/2014/07/29/why-i-use-vim/</link>
         <category>Technology</category>
         <pubDate>Tue, 29 Jul 2014 00:00:00 -0700</pubDate>
-        <guid isPermaLink="true">http://healthyhacker.com/2014/07/29/why-i-use-vim/</guid>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/07/29/why-i-use-vim/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-1.mp3" length="14316059" type="audio/mpeg" />
 
         <content:encoded><![CDATA[
@@ -103,7 +103,7 @@ do it!</p>
 <h3 id="voicemail">Voicemail</h3>
 
 <p>Did I get something wrong or do you have a question? Send me a
-<a href="http://healthyhacker.com/voicemail">voicemail</a> and I’ll respond on the show!</p>
+<a href="http://www.healthyhacker.com/voicemail">voicemail</a> and I’ll respond on the show!</p>
 
         ]]></content:encoded>
 
@@ -145,7 +145,7 @@ voicemail and I’ll respond on the show!
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>894</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://healthyhacker.com/img/cover.png" />
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
       </item>
     
   </channel>

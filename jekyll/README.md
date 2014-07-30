@@ -1,1 +1,1 @@
-[![](img/screenshot.png)](http://healthyhacker.com)
+[![](img/screenshot.png)](http://www.healthyhacker.com)

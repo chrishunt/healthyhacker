@@ -32,4 +32,4 @@ do it!
 ### Voicemail
 
 Did I get something wrong or do you have a question? Send me a
-[voicemail](http://healthyhacker.com/voicemail) and I'll respond on the show!
+[voicemail](http://www.healthyhacker.com/voicemail) and I'll respond on the show!
