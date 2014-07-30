@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 29 Jul 2014 18:55:30 -0700</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2014 18:55:30 -0700</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2014 18:57:49 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2014 18:57:49 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     <image>
       <url>http://healthyhacker.com/img/cover.png</url>
@@ -37,7 +37,7 @@
         <title>1: Why I use Vim</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;This week I’m going to answer a question that I get all the time: Why do I use
-Vim.&lt;/p&gt;
+Vim?&lt;/p&gt;
 
 &lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
 
@@ -75,7 +75,7 @@ do it!&lt;/p&gt;
 
         <content:encoded><![CDATA[
           <p>This week I’m going to answer a question that I get all the time: Why do I use
-Vim.</p>
+Vim?</p>
 
 <h3 id="workout-of-the-week">Workout of the week</h3>
 
@@ -112,7 +112,7 @@ do it!</p>
         </itunes:subtitle>
         <itunes:keywords>development,software,programming,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week I’m going to answer a question that I get all the time: Why do I use
-Vim.
+Vim?
 
 Workout of the week
 
