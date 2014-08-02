@@ -7,9 +7,9 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Wed, 30 Jul 2014 11:07:30 -0700</pubDate>
-    <lastBuildDate>Wed, 30 Jul 2014 11:07:30 -0700</lastBuildDate>
-    <generator>Jekyll v2.1.1</generator>
+    <pubDate>Fri, 01 Aug 2014 22:20:48 -0700</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2014 22:20:48 -0700</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
       <title>Healthy Hacker</title>
@@ -64,8 +64,8 @@ do it!&lt;/p&gt;
 
 &lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
 
-&lt;p&gt;Did I get something wrong or do you have a question? Send me a
-&lt;a href=&quot;http://www.healthyhacker.com/voicemail&quot;&gt;voicemail&lt;/a&gt; and I’ll respond on the show!&lt;/p&gt;
+&lt;p&gt;Did I get something wrong or do you have a question? I’d love to hear from you.
+Send me a &lt;a href=&quot;/voicemail&quot;&gt;voicemail&lt;/a&gt; and I can respond on the show.&lt;/p&gt;
 </description>
         <link>http://www.healthyhacker.com/2014/07/29/why-i-use-vim/</link>
         <category>Technology</category>
@@ -102,8 +102,8 @@ do it!</p>
 
 <h3 id="voicemail">Voicemail</h3>
 
-<p>Did I get something wrong or do you have a question? Send me a
-<a href="http://www.healthyhacker.com/voicemail">voicemail</a> and I’ll respond on the show!</p>
+<p>Did I get something wrong or do you have a question? I’d love to hear from you.
+Send me a <a href="/voicemail">voicemail</a> and I can respond on the show.</p>
 
         ]]></content:encoded>
 
@@ -139,8 +139,8 @@ Links
 
 Voicemail
 
-Did I get something wrong or do you have a question? Send me a
-voicemail and I’ll respond on the show!
+Did I get something wrong or do you have a question? I’d love to hear from you.
+Send me a voicemail and I can respond on the show.
 </itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>894</itunes:duration>
