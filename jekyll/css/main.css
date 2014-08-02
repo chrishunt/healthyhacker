@@ -54,6 +54,18 @@ strong {
   text-align: center
 }
 
+.voicemail {
+  font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  font-size: 64px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.voicemail a {
+  color: #333;
+}
+
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
@@ -454,6 +466,10 @@ input:focus {
   .site-title {
     font-size: 42px;
     margin: -10px 0 -10px 0;
+  }
+
+  .voicemail {
+    font-size: 36px;
   }
 
   .post-header h1 { font-size: 36px; }

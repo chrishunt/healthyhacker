@@ -31,5 +31,5 @@ do it!
 
 ### Voicemail
 
-Did I get something wrong or do you have a question? Send me a
-[voicemail](http://www.healthyhacker.com/voicemail) and I'll respond on the show!
+Did I get something wrong or do you have a question? I'd love to hear from you.
+Send me a [voicemail](/voicemail) and I can respond on the show.

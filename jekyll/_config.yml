@@ -10,6 +10,7 @@ description: "Welcome to the Healthy Hacker where we talk about programming,
 url: "http://www.healthyhacker.com"
 paginate: 3
 mp3url: "http://traffic.libsyn.com/healthyhacker"
+phone: "502-324-7475"
 
 # Build settings
 markdown: kramdown
