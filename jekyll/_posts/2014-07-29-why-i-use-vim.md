@@ -29,7 +29,4 @@ do it!
 - [Your problem with Vim is that you don't grok vi](http://chrshnt.com/1s2CEXR)
 - [RMI Expeditions](http://chrshnt.com/1s2Qqtx) - climb a mountain with my brother Nick
 
-### Voicemail
-
-Did I get something wrong or do you have a question? I'd love to hear from you.
-Send me a [voicemail](/voicemail) and I can respond on the show.
+{% include voicemail.html %}
