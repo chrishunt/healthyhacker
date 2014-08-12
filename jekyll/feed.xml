@@ -22,7 +22,9 @@ redirect_from: "rss/"
 
     <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml" />
 
-    <itunes:subtitle>{{ site.title | xml_escape }}</itunes:subtitle>
+    <itunes:subtitle>
+      {{ site.description | xml_escape }}
+    </itunes:subtitle>
     <itunes:keywords>{{ site.keywords }}</itunes:keywords>
     <itunes:author>Chris Hunt</itunes:author>
     <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
