@@ -4,13 +4,17 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
   <meta name="twitter:site" content="@chrishunt">
+  <meta name="twitter:creator" content="@healthyhackertv">
+  <meta name="twitter:card" content="summary">
 
   {% if page.episode and page.title and page.excerpt %}
-    <meta name="twitter:creator" content="@healthyhackertv">
-    <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ page.episode }}: {{ page.title }}">
     <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+  {% else %}
+    <meta name="twitter:title" content="Healthy Hacker Podcast">
+    <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
 
   <title>
