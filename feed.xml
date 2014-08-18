@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 12 Aug 2014 15:12:00 -0700</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2014 15:12:00 -0700</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2014 13:33:55 -0700</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2014 13:33:55 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -34,6 +34,124 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>4: Existential crisis</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week we get another &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt;
+and my brother Nick comes on the show to talk about deterministic multi-core
+processing, the CFP process for academic papers, how he transitioned from
+computer scientist to mountain guide, and everything you need to know to summit
+Mount Rainier.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;5 rounds, as fast as possible:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;50 &lt;a href=&quot;http://youtu.be/1J4hRICVjRo&quot;&gt;Mountain climbers&lt;/a&gt; (each leg)&lt;/li&gt;
+  &lt;li&gt;25 &lt;a href=&quot;http://youtu.be/EhG_x1bLHwE&quot;&gt;Sit-ups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Bergan.pdf&quot;&gt;Deterministic Process Groups in dOS&lt;/a&gt; (&lt;a href=&quot;https://www.usenix.org/conference/osdi10/deterministic-process-groups-dos&quot;&gt;video&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://homes.cs.washington.edu/~tbergan/papers/asplos13-ddos.pdf&quot;&gt;DDOS Taming Nondeterminism in Distributed Systems&lt;/a&gt; (&lt;a href=&quot;https://homes.cs.washington.edu/~tbergan/slides/asplos13-ddos-slides.pdf&quot;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gogaruco.com/&quot;&gt;Golden Gate Ruby Conference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rmiguides.com/about/guides/nick-hunt&quot;&gt;Nick Hunt: RMI Mountain Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rmiguides.com/mt-rainier/&quot;&gt;RMI Expeditions Mount Rainier Climbing Programs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://avtraining.org/&quot;&gt;American Institute for Avalanche Research and Education&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question? I&#39;d love to hear from you.
+Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and I can respond on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/08/18/existential-crisis/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 18 Aug 2014 00:00:00 -0700</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/08/18/existential-crisis/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-4.mp3" length="47428255" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week we get another <a href="http://www.healthyhacker.com/voicemail/">voicemail</a>
+and my brother Nick comes on the show to talk about deterministic multi-core
+processing, the CFP process for academic papers, how he transitioned from
+computer scientist to mountain guide, and everything you need to know to summit
+Mount Rainier.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>5 rounds, as fast as possible:</p>
+
+<ul>
+  <li>50 <a href="http://youtu.be/1J4hRICVjRo">Mountain climbers</a> (each leg)</li>
+  <li>25 <a href="http://youtu.be/EhG_x1bLHwE">Sit-ups</a></li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Bergan.pdf">Deterministic Process Groups in dOS</a> (<a href="https://www.usenix.org/conference/osdi10/deterministic-process-groups-dos">video</a>)</li>
+  <li><a href="https://homes.cs.washington.edu/~tbergan/papers/asplos13-ddos.pdf">DDOS Taming Nondeterminism in Distributed Systems</a> (<a href="https://homes.cs.washington.edu/~tbergan/slides/asplos13-ddos-slides.pdf">slides</a>)</li>
+  <li><a href="http://gogaruco.com/">Golden Gate Ruby Conference</a></li>
+  <li><a href="http://www.rmiguides.com/about/guides/nick-hunt">Nick Hunt: RMI Mountain Guide</a></li>
+  <li><a href="http://www.rmiguides.com/mt-rainier/">RMI Expeditions Mount Rainier Climbing Programs</a></li>
+  <li><a href="http://avtraining.org/">American Institute for Avalanche Research and Education</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question? I'd love to hear from you.
+Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I can respond on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>
+          4: Existential crisis
+        </itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week we get another voicemail
+and my brother Nick comes on the show to talk about deterministic multi-core
+processing, the CFP process for academic papers, how he transitioned from
+computer scientist to mountain guide, and everything you need to know to summit
+Mount Rainier.
+
+Workout of the week
+
+5 rounds, as fast as possible:
+
+
+  50 Mountain climbers (each leg)
+  25 Sit-ups
+
+
+Links
+
+
+  Deterministic Process Groups in dOS (video)
+  DDOS Taming Nondeterminism in Distributed Systems (slides)
+  Golden Gate Ruby Conference
+  Nick Hunt: RMI Mountain Guide
+  RMI Expeditions Mount Rainier Climbing Programs
+  American Institute for Avalanche Research and Education
+
+
+Voicemail
+
+Did I get something wrong or do you have a question? I'd love to hear from you.
+Send me a voicemail and I can respond on the show.
+
+</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>2963</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>3: Forty-three quintillion</title>
