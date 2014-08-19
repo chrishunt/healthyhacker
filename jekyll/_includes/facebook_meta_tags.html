@@ -1,0 +1,17 @@
+<meta property="og:site_name" content="Healthy Hacker Podcast">
+<meta property="og:image" content="{{ site.url }}/img/cover.png">
+<meta property="og:url" content="{{ page.url | prepend: site.url }}">
+<meta property="fb:app_id" content="417557618382943">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="https://www.facebook.com/huntca">
+<meta property="article:publisher" content="https://www.facebook.com/healthyhacker">
+
+{% if page.episode and page.title and page.excerpt %}
+  <meta property="og:title" content="{{ page.episode }}: {{ page.title }}">
+  <meta property="og:description" content="{{ page.excerpt | strip_html }}">
+  <meta property="og:type" content="article">
+{% else %}
+  <meta property="og:title" content="Healthy Hacker Podcast">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:type" content="website">
+{% endif %}
