@@ -3,15 +3,14 @@
 <meta property="og:url" content="{{ page.url | prepend: site.url }}">
 <meta property="fb:admins" content="44901282">
 <meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
 <meta property="article:author" content="https://www.facebook.com/huntca">
 <meta property="article:publisher" content="https://www.facebook.com/healthyhacker">
 
 {% if page.episode and page.title and page.excerpt %}
   <meta property="og:title" content="{{ page.episode }}: {{ page.title }}">
   <meta property="og:description" content="{{ page.excerpt | strip_html }}">
-  <meta property="og:type" content="article">
 {% else %}
   <meta property="og:title" content="Healthy Hacker Podcast">
   <meta property="og:description" content="{{ site.description }}">
-  <meta property="og:type" content="website">
 {% endif %}
