@@ -2,9 +2,6 @@
 <html lang="en">
 
   <head>
-  <!-- Chartbeat Analytics -->
-  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -58,6 +55,16 @@ Vim?
   <link rel="stylesheet" href="/mediaelement/mediaelementplayer.min.css">
   <link rel="stylesheet" href="/css/mediaplayer.css">
   <link rel="stylesheet" href="/css/main.css">
+
+  <!-- GoSquared Analytics -->
+  <script>
+    !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+    arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+    d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+    insertBefore(d,q)}(window,document,'script','_gs');
+
+    _gs('GSN-234109-P');
+  </script>
 </head>
 
 
@@ -260,23 +267,6 @@ Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I 
     entries:  '.entries',
     template: '#search-results-template'
   });
-</script>
-
-<script type="text/javascript">
-  var _sf_async_config = { uid: 56947, domain: 'healthyhacker.com', useCanonical: true };
-  (function() {
-    function loadChartbeat() {
-      window._sf_endpt = (new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
-      document.body.appendChild(e);
-    };
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-      loadChartbeat : function() { oldonload(); loadChartbeat(); };
-  })();
 </script>
 
 
