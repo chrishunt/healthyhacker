@@ -14,12 +14,17 @@
       </h3>
 
       <p class="meta">
-        <span>
-          Episode #{{ page.episode}}
-        </span>
-        {{ page.date | date: "%b %-d, %Y" }}<br>
+        <span>Episode #{{ page.episode}}</span>
+        {{ page.date | date: "%b %-d, %Y" }}
+        <br>
+
         <a href="{{ mp3 }}"><span>Download mp3</span></a>
         ({{ page.size_in_megabytes }} mb)
+        <br>
+
+        <span><a href="{{ site.itunesurl }}">Subscribe</a></span> on
+        <a href="{{ site.itunesurl }}">iTunes</a> or
+        <a href="/feed.xml">RSS</a>
       </p>
     </header>
 
