@@ -262,6 +262,10 @@ input:focus {
 }
 
 .meta a {
+  text-decoration: none;
+}
+
+.meta a:hover {
   text-decoration: underline;
 }
 
