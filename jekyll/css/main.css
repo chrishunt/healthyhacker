@@ -54,15 +54,13 @@ strong {
   text-align: center
 }
 
-.voicemail {
+.phone {
   font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
   font-size: 64px;
   font-weight: bold;
-  text-align: center;
-  padding-top: 30px;
 }
 
-.voicemail a {
+.phone a {
   color: #333;
 }
 
@@ -476,7 +474,7 @@ input:focus {
     margin: -10px 0 -10px 0;
   }
 
-  .voicemail {
+  .phone {
     font-size: 36px;
   }
 
