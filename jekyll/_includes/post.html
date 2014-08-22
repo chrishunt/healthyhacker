@@ -1,6 +1,6 @@
 {% capture mp3 %}{{ site.mp3url }}/healthyhacker-{{ page.episode }}.mp3{% endcapture %}
 
-<div class="post">
+<div class="post" id="episode-{{ page.episode }}">
   <article class="post-content">
     <audio preload="none" style="width:100%" width="100%">
       <source type="audio/mpeg" src="{{ mp3 }}" />
