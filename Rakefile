@@ -8,10 +8,11 @@ task :build do
   end
 
   find_command = 'find .. \
-    -mindepth 1      \
-    -maxdepth 1      \
-    ! -name ".git"   \
-    ! -name "jekyll" \
+    -mindepth 1           \
+    -maxdepth 1           \
+    ! -name ".git"        \
+    ! -name "jekyll"      \
+    ! -name ".gitignore"  \
     ! -name ".nojekyll"'
 
   system find_command
