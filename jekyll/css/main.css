@@ -64,6 +64,10 @@ strong {
   color: #333;
 }
 
+.comments {
+  font-weight: bold;
+}
+
 img {
   border: none;
 }

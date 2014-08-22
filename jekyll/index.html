@@ -6,6 +6,9 @@ exclude_from_search: true
 {% for page in paginator.posts %}
   {% include post.html %}
 
+  <a class="comments" href="{{ page.url | prepend: site.url }}#disqus_thread">
+    Comment
+  </a>
   {% if forloop.last == false %}
     <hr>
   {% endif %}
@@ -36,3 +39,16 @@ exclude_from_search: true
   {% endif %}
 </div>
 {% endif %}
+
+<!-- Disqus comment counts -->
+<script type="text/javascript">
+  var disqus_shortname = "healthyhacker";
+
+(function () {
+  var s = document.createElement('script');
+  s.async = true;
+  s.type = "text/javascript";
+  s.src = "http://" + disqus_shortname + ".disqus.com/count.js";
+  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
