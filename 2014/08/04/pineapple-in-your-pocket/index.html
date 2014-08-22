@@ -85,7 +85,7 @@ understand how to take your memory even further.
       <div class="wrap">
       
 
-<div class="post">
+<div class="post" id="episode-2">
   <article class="post-content">
     <audio preload="none" style="width:100%" width="100%">
       <source type="audio/mpeg" src="http://traffic.libsyn.com/healthyhacker/healthyhacker-2.mp3" />
@@ -277,8 +277,14 @@ Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I 
 </script>
 
 <script type="text/javascript">
-  $('video, audio').mediaelementplayer({
-    startVolume: 1.0
+  $("video, audio").mediaelementplayer({
+    startVolume: 1.0,
+    success: function(media, node, player) {
+      media.addEventListener("playing", function(e) {
+        var episode = $(media).parents(".post").attr("id");
+        _gs("event", "Played " + episode);
+      });
+    }
   });
 </script>
 
