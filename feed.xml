@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 18 Aug 2014 13:33:55 -0700</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2014 13:33:55 -0700</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2014 19:33:24 -0700</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2014 19:33:24 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -34,6 +34,121 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>5: Open source checklist</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week I share all the things I think about before releasing (or using) an
+open source project.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;In 20 minutes, as many rounds as possible of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;5 &lt;a href=&quot;https://www.youtube.com/watch?v=M1IfJmVjKW0&quot;&gt;push-ups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10 &lt;a href=&quot;https://www.youtube.com/watch?v=BfqRSCgXiVw&quot;&gt;sit-ups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;15 &lt;a href=&quot;https://www.youtube.com/watch?v=a_fb6Kz7FQg&quot;&gt;air squats&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thechangelog.com/127&quot;&gt;Changelog Episode #127&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://keepachangelog.com&quot;&gt;Keep a Changelog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://semver.org&quot;&gt;Semantic Versioning 2.0.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://choosealicense.com&quot;&gt;Choose an OSS License&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://placeit.net&quot;&gt;Product images&lt;/a&gt; and &lt;a href=&quot;http://shields.io&quot;&gt;badges&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vagrantup.com&quot;&gt;Vagrant&lt;/a&gt; or &lt;a href=&quot;http://www.terminal.com&quot;&gt;Terminal.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cooperpress.com&quot;&gt;Cooper Press&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question? I&#39;d love to hear from you.
+Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and I can respond on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/08/25/open-source-checklist/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 25 Aug 2014 00:00:00 -0700</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/08/25/open-source-checklist/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-5.mp3" length="29038403" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week I share all the things I think about before releasing (or using) an
+open source project.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>In 20 minutes, as many rounds as possible of:</p>
+
+<ul>
+  <li>5 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a></li>
+  <li>10 <a href="https://www.youtube.com/watch?v=BfqRSCgXiVw">sit-ups</a></li>
+  <li>15 <a href="https://www.youtube.com/watch?v=a_fb6Kz7FQg">air squats</a></li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="http://thechangelog.com/127">Changelog Episode #127</a></li>
+  <li><a href="http://keepachangelog.com">Keep a Changelog</a></li>
+  <li><a href="http://semver.org">Semantic Versioning 2.0.0</a></li>
+  <li><a href="http://choosealicense.com">Choose an OSS License</a></li>
+  <li><a href="https://placeit.net">Product images</a> and <a href="http://shields.io">badges</a></li>
+  <li><a href="https://www.vagrantup.com">Vagrant</a> or <a href="http://www.terminal.com">Terminal.com</a></li>
+  <li><a href="https://cooperpress.com">Cooper Press</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question? I'd love to hear from you.
+Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I can respond on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>
+          5: Open source checklist
+        </itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week I share all the things I think about before releasing (or using) an
+open source project.
+
+Workout of the week
+
+In 20 minutes, as many rounds as possible of:
+
+
+  5 push-ups
+  10 sit-ups
+  15 air squats
+
+
+Links
+
+
+  Changelog Episode #127
+  Keep a Changelog
+  Semantic Versioning 2.0.0
+  Choose an OSS License
+  Product images and badges
+  Vagrant or Terminal.com
+  Cooper Press
+
+
+Voicemail
+
+Did I get something wrong or do you have a question? I'd love to hear from you.
+Send me a voicemail and I can respond on the show.
+
+</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>1814</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>4: Existential crisis</title>
