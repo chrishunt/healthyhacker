@@ -20,6 +20,7 @@ In 20 minutes, as many rounds as possible of:
 
 ### Links
 
+- [Discourse](https://github.com/discourse/discourse) and [Brackets.io](http://brackets.io/contribute.html)
 - [Changelog Episode #127](http://thechangelog.com/127)
 - [Keep a Changelog](http://keepachangelog.com)
 - [Semantic Versioning 2.0.0](http://semver.org)
