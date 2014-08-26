@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 25 Aug 2014 19:33:24 -0700</pubDate>
-    <lastBuildDate>Mon, 25 Aug 2014 19:33:24 -0700</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2014 19:36:43 -0700</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2014 19:36:43 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -54,6 +54,7 @@ open source project.&lt;/p&gt;
 &lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/discourse/discourse&quot;&gt;Discourse&lt;/a&gt; and &lt;a href=&quot;http://brackets.io/contribute.html&quot;&gt;Brackets.io&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://thechangelog.com/127&quot;&gt;Changelog Episode #127&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://keepachangelog.com&quot;&gt;Keep a Changelog&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://semver.org&quot;&gt;Semantic Versioning 2.0.0&lt;/a&gt;&lt;/li&gt;
@@ -92,6 +93,7 @@ open source project.</p>
 <h3 id="links">Links</h3>
 
 <ul>
+  <li><a href="https://github.com/discourse/discourse">Discourse</a> and <a href="http://brackets.io/contribute.html">Brackets.io</a></li>
   <li><a href="http://thechangelog.com/127">Changelog Episode #127</a></li>
   <li><a href="http://keepachangelog.com">Keep a Changelog</a></li>
   <li><a href="http://semver.org">Semantic Versioning 2.0.0</a></li>
@@ -129,6 +131,7 @@ In 20 minutes, as many rounds as possible of:
 Links
 
 
+  Discourse and Brackets.io
   Changelog Episode #127
   Keep a Changelog
   Semantic Versioning 2.0.0
