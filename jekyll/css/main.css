@@ -54,10 +54,37 @@ strong {
   text-align: center
 }
 
+.speakpipe {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.speakpipe a {
+  color: #fff;
+  background: #dd4a26;
+  padding: 15px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+.speakpipe a:hover {
+  background: #f35e35;
+}
+
+.post-content .or-call {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: -20px;
+  color: #333;
+}
+
 .phone {
   font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
   font-size: 64px;
   font-weight: bold;
+  text-align: center;
 }
 
 .phone a {
