@@ -57,7 +57,7 @@ redirect_from: "rss/"
           {{ post.episode }}: {{ post.title | xml_escape }}
         </itunes:subtitle>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
-        <itunes:summary>{{ post.excerpt | strip_html }}</itunes:summary>
+        <itunes:summary>{{ post.excerpt | strip_html | strip_newlines }}</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>{{ post.duration_in_seconds }}</itunes:duration>
         <itunes:explicit>no</itunes:explicit>

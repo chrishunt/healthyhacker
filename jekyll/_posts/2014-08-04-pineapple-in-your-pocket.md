@@ -7,9 +7,7 @@ size_in_bytes: 20699585
 size_in_megabytes: 20
 ---
 
-This week I talk about something I'm super excited about: Memory. By the end of
-this episode, you will be able to quickly memorize a list of 10 things and
-understand how to take your memory even further.
+This week I talk about something I'm super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.
 
 ### Workout of the week
 

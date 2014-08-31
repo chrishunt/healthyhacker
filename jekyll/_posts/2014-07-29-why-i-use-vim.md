@@ -7,8 +7,7 @@ size_in_bytes: 14316059
 size_in_megabytes: 14
 ---
 
-This week I'm going to answer a question that I get all the time: Why do I use
-Vim?
+This week I'm going to answer a question that I get all the time: Why do I use Vim?
 
 ### Workout of the week
 

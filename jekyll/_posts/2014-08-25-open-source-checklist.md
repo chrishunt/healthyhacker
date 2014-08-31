@@ -7,8 +7,7 @@ size_in_bytes: 29038403
 size_in_megabytes: 28
 ---
 
-This week I share all the things I think about before releasing (or using) an
-open source project.
+This week I share all the things I think about before releasing (or using) an open source project.
 
 ### Workout of the week
 

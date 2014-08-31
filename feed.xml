@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Sun, 31 Aug 2014 11:03:05 -0700</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2014 11:03:05 -0700</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2014 11:12:18 -0700</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2014 11:12:18 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -38,8 +38,7 @@
       <item>
         <title>5: Open source checklist</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
-        <description>&lt;p&gt;This week I share all the things I think about before releasing (or using) an
-open source project.&lt;/p&gt;
+        <description>&lt;p&gt;This week I share all the things I think about before releasing (or using) an open source project.&lt;/p&gt;
 
 &lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
 
@@ -77,8 +76,7 @@ Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voic
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-5.mp3" length="29038403" type="audio/mpeg" />
 
         <content:encoded><![CDATA[
-          <p>This week I share all the things I think about before releasing (or using) an
-open source project.</p>
+          <p>This week I share all the things I think about before releasing (or using) an open source project.</p>
 
 <h3 id="workout-of-the-week">Workout of the week</h3>
 
@@ -115,10 +113,7 @@ Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I 
           5: Open source checklist
         </itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
-        <itunes:summary>This week I share all the things I think about before releasing (or using) an
-open source project.
-
-</itunes:summary>
+        <itunes:summary>This week I share all the things I think about before releasing (or using) an open source project.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1814</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -128,11 +123,7 @@ open source project.
       <item>
         <title>4: Existential crisis</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
-        <description>&lt;p&gt;This week we get another &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt;
-and my brother Nick comes on the show to talk about deterministic multi-core
-processing, the CFP process for academic papers, how he transitioned from
-computer scientist to mountain guide, and everything you need to know to summit
-Mount Rainier.&lt;/p&gt;
+        <description>&lt;p&gt;This week we get another &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know to summit Mount Rainier.&lt;/p&gt;
 
 &lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
 
@@ -167,11 +158,7 @@ Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voic
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-4.mp3" length="47428255" type="audio/mpeg" />
 
         <content:encoded><![CDATA[
-          <p>This week we get another <a href="http://www.healthyhacker.com/voicemail/">voicemail</a>
-and my brother Nick comes on the show to talk about deterministic multi-core
-processing, the CFP process for academic papers, how he transitioned from
-computer scientist to mountain guide, and everything you need to know to summit
-Mount Rainier.</p>
+          <p>This week we get another <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know to summit Mount Rainier.</p>
 
 <h3 id="workout-of-the-week">Workout of the week</h3>
 
@@ -205,13 +192,7 @@ Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I 
           4: Existential crisis
         </itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
-        <itunes:summary>This week we get another voicemail
-and my brother Nick comes on the show to talk about deterministic multi-core
-processing, the CFP process for academic papers, how he transitioned from
-computer scientist to mountain guide, and everything you need to know to summit
-Mount Rainier.
-
-</itunes:summary>
+        <itunes:summary>This week we get another voicemail and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know to summit Mount Rainier.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>2963</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -221,9 +202,7 @@ Mount Rainier.
       <item>
         <title>3: Forty-three quintillion</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
-        <description>&lt;p&gt;This week I get my first &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt;,
-explain why I do (and don’t) use a standing desk, and I brush up on my math
-skills to show why solving the Rubik’s Cube will never be boring.&lt;/p&gt;
+        <description>&lt;p&gt;This week I get my first &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt;, explain why I do (and don’t) use a standing desk, and I brush up on my math skills to show why solving the Rubik’s Cube will never be boring.&lt;/p&gt;
 
 &lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
 
@@ -263,9 +242,7 @@ Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voic
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-3.mp3" length="26227281" type="audio/mpeg" />
 
         <content:encoded><![CDATA[
-          <p>This week I get my first <a href="http://www.healthyhacker.com/voicemail/">voicemail</a>,
-explain why I do (and don’t) use a standing desk, and I brush up on my math
-skills to show why solving the Rubik’s Cube will never be boring.</p>
+          <p>This week I get my first <a href="http://www.healthyhacker.com/voicemail/">voicemail</a>, explain why I do (and don’t) use a standing desk, and I brush up on my math skills to show why solving the Rubik’s Cube will never be boring.</p>
 
 <h3 id="workout-of-the-week">Workout of the week</h3>
 
@@ -304,11 +281,7 @@ Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I 
           3: Forty-three quintillion
         </itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
-        <itunes:summary>This week I get my first voicemail,
-explain why I do (and don’t) use a standing desk, and I brush up on my math
-skills to show why solving the Rubik’s Cube will never be boring.
-
-</itunes:summary>
+        <itunes:summary>This week I get my first voicemail, explain why I do (and don’t) use a standing desk, and I brush up on my math skills to show why solving the Rubik’s Cube will never be boring.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1638</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -318,9 +291,7 @@ skills to show why solving the Rubik’s Cube will never be boring.
       <item>
         <title>2: Pineapple in your pocket</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
-        <description>&lt;p&gt;This week I talk about something I’m super excited about: Memory. By the end of
-this episode, you will be able to quickly memorize a list of 10 things and
-understand how to take your memory even further.&lt;/p&gt;
+        <description>&lt;p&gt;This week I talk about something I’m super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.&lt;/p&gt;
 
 &lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
 
@@ -372,9 +343,7 @@ Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voic
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-2.mp3" length="20699585" type="audio/mpeg" />
 
         <content:encoded><![CDATA[
-          <p>This week I talk about something I’m super excited about: Memory. By the end of
-this episode, you will be able to quickly memorize a list of 10 things and
-understand how to take your memory even further.</p>
+          <p>This week I talk about something I’m super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.</p>
 
 <h3 id="workout-of-the-week">Workout of the week</h3>
 
@@ -425,11 +394,7 @@ Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I 
           2: Pineapple in your pocket
         </itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
-        <itunes:summary>This week I talk about something I’m super excited about: Memory. By the end of
-this episode, you will be able to quickly memorize a list of 10 things and
-understand how to take your memory even further.
-
-</itunes:summary>
+        <itunes:summary>This week I talk about something I’m super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>1285</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -439,8 +404,7 @@ understand how to take your memory even further.
       <item>
         <title>1: Why I use Vim</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
-        <description>&lt;p&gt;This week I’m going to answer a question that I get all the time: Why do I use
-Vim?&lt;/p&gt;
+        <description>&lt;p&gt;This week I’m going to answer a question that I get all the time: Why do I use Vim?&lt;/p&gt;
 
 &lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
 
@@ -478,8 +442,7 @@ Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voic
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-1.mp3" length="14316059" type="audio/mpeg" />
 
         <content:encoded><![CDATA[
-          <p>This week I’m going to answer a question that I get all the time: Why do I use
-Vim?</p>
+          <p>This week I’m going to answer a question that I get all the time: Why do I use Vim?</p>
 
 <h3 id="workout-of-the-week">Workout of the week</h3>
 
@@ -516,10 +479,7 @@ Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and I 
           1: Why I use Vim
         </itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
-        <itunes:summary>This week I’m going to answer a question that I get all the time: Why do I use
-Vim?
-
-</itunes:summary>
+        <itunes:summary>This week I’m going to answer a question that I get all the time: Why do I use Vim?</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
         <itunes:duration>894</itunes:duration>
         <itunes:explicit>no</itunes:explicit>

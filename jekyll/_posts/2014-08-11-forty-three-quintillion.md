@@ -7,9 +7,7 @@ size_in_bytes: 26227281
 size_in_megabytes: 25
 ---
 
-This week I get my first <a href="{{ site.url }}/voicemail/">voicemail</a>,
-explain why I do (and don't) use a standing desk, and I brush up on my math
-skills to show why solving the Rubik's Cube will never be boring.
+This week I get my first <a href="{{ site.url }}/voicemail/">voicemail</a>, explain why I do (and don't) use a standing desk, and I brush up on my math skills to show why solving the Rubik's Cube will never be boring.
 
 ### Workout of the week
 
