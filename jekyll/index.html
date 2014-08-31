@@ -4,11 +4,31 @@ exclude_from_search: true
 ---
 
 {% for page in paginator.posts %}
-  {% include post.html %}
+  {% if forloop.first == true %}
+    {% include post.html %}
+  {% else %}
+    <div class="post" id="episode-{{ page.episode }}">
+      <article class="post-content">
+        <header class="post-header">
+          <h3>
+            <a href="{{ page.url }}">
+              {{page.episode}}: <span>{{ page.title }}</span>
+            </a>
+          </h3>
 
-  <a class="comments" href="{{ page.url | prepend: site.url }}#disqus_thread">
-    Comment
-  </a>
+          <p class="meta">
+            <span>{{ page.date | date: "%b %-d, %Y" }}</span>
+            (<a href="{{ page.url | prepend: site.url }}#disqus_thread">
+              Comments
+            </a>)
+          </p>
+        </header>
+
+        {{ page.excerpt}}
+      </article>
+    </div>
+  {% endif %}
+
   {% if forloop.last == false %}
     <hr>
   {% endif %}
