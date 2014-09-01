@@ -6,6 +6,12 @@ exclude_from_search: true
 {% for page in paginator.posts %}
   {% if forloop.first == true %}
     {% include post.html %}
+
+    <p class="comments">
+      <a href="{{ page.url | prepend: site.url }}#disqus_thread">
+        Comments
+      </a>
+    </p>
   {% else %}
     <div class="post" id="episode-{{ page.episode }}">
       <article class="post-content">

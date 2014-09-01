@@ -90,6 +90,11 @@ strong {
   color: #333;
 }
 
+.comments {
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
 img {
   border: none;
 }
