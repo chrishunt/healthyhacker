@@ -188,13 +188,7 @@
 
 <script type="text/javascript">
   $("video, audio").mediaelementplayer({
-    startVolume: 1.0,
-    success: function(media, node, player) {
-      media.addEventListener("playing", function(e) {
-        var episode = $(media).parents(".post").attr("id");
-        _gs("event", "Played " + episode);
-      });
-    }
+    startVolume: 1.0
   });
 </script>
 
