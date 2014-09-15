@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 08 Sep 2014 19:09:22 -0700</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2014 19:09:22 -0700</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2014 12:37:00 -0700</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2014 12:37:00 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -18,9 +18,7 @@
 
     <atom:link href="http://www.healthyhacker.com/feed.xml" rel="self" type="application/rss+xml" />
 
-    <itunes:subtitle>
-      Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.
-    </itunes:subtitle>
+    <itunes:subtitle>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</itunes:subtitle>
     <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
     <itunes:author>Chris Hunt</itunes:author>
     <itunes:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</itunes:summary>
@@ -34,6 +32,95 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>8: Rubik&#39;s Cube Champion</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week &lt;a href=&quot;http://chrshnt.com/1tIGm8E&quot;&gt;Feliks Zemdegs&lt;/a&gt;, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;In 20 minutes, as many rounds as possible of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 &lt;a href=&quot;http://chrshnt.com/1wnD2EO&quot;&gt;double-unders&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;200 meter run&lt;/li&gt;
+  &lt;li&gt;20 &lt;a href=&quot;http://chrshnt.com/1usu1Ig&quot;&gt;deck squats&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;200 meter run&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From the CrossFit Pearl District &lt;a href=&quot;http://chrshnt.com/1xV0BGB&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1m0LA0y&quot;&gt;Video: Rubik’s Cube 6.54 World Record Average&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1qOyVyu&quot;&gt;Video: The Road to 6.77 Seconds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1tIGm8E&quot;&gt;Feliks Zemdegs World Ranking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/cfop-fridrich&quot;&gt;CFOP Speedsolving Method&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1AHc9cH&quot;&gt;Badmephisto Rubik’s Cube Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1qsSpcL&quot;&gt;qqTimer Rubik’s Cube Timer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/ZjBKNj&quot;&gt;MoYu AoLong Rubik’s Cube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/YE5ogj&quot;&gt;Feliks YouTube Channel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1xUMscG&quot;&gt;Feliks Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/09/15/rubiks-cube-champion/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 15 Sep 2014 00:00:00 -0700</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/09/15/rubiks-cube-champion/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-8.mp3" length="32625830" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week <a href="http://chrshnt.com/1tIGm8E">Feliks Zemdegs</a>, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>In 20 minutes, as many rounds as possible of:</p>
+
+<ul>
+  <li>20 <a href="http://chrshnt.com/1wnD2EO">double-unders</a></li>
+  <li>200 meter run</li>
+  <li>20 <a href="http://chrshnt.com/1usu1Ig">deck squats</a></li>
+  <li>200 meter run</li>
+</ul>
+
+<p>From the CrossFit Pearl District <a href="http://chrshnt.com/1xV0BGB">blog</a>.</p>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="http://chrshnt.com/1m0LA0y">Video: Rubik’s Cube 6.54 World Record Average</a></li>
+  <li><a href="http://chrshnt.com/1qOyVyu">Video: The Road to 6.77 Seconds</a></li>
+  <li><a href="http://chrshnt.com/1tIGm8E">Feliks Zemdegs World Ranking</a></li>
+  <li><a href="http://chrshnt.com/cfop-fridrich">CFOP Speedsolving Method</a></li>
+  <li><a href="http://chrshnt.com/1AHc9cH">Badmephisto Rubik’s Cube Tutorial</a></li>
+  <li><a href="http://chrshnt.com/1qsSpcL">qqTimer Rubik’s Cube Timer</a></li>
+  <li><a href="http://chrshnt.com/ZjBKNj">MoYu AoLong Rubik’s Cube</a></li>
+  <li><a href="http://chrshnt.com/YE5ogj">Feliks YouTube Channel</a></li>
+  <li><a href="http://chrshnt.com/1xUMscG">Feliks Facebook</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>8: Rubik&#39;s Cube Champion</itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week Feliks Zemdegs, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>2038</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>7: Repetitive strain injury</title>
@@ -103,9 +190,7 @@ demonstrated by gymnast David Durante:</p>
 
         ]]></content:encoded>
 
-        <itunes:subtitle>
-          7: Repetitive strain injury
-        </itunes:subtitle>
+        <itunes:subtitle>7: Repetitive strain injury</itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week we get a voicemail from Jonathan in Portland and learn all about RSI, some common myths, who’s at risk, how to prevent it, and why exercise plays an important role in staying pain free.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
@@ -174,9 +259,7 @@ demonstrated by gymnast David Durante:</p>
 
         ]]></content:encoded>
 
-        <itunes:subtitle>
-          6: An unforgettable story
-        </itunes:subtitle>
+        <itunes:subtitle>6: An unforgettable story</itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week we learn the exact same technique that memory athletes have mastered to memorize hundreds of random words, thousands of random numbers, and stacks of shuffled playing cards.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
@@ -257,9 +340,7 @@ demonstrated by gymnast David Durante:</p>
 
         ]]></content:encoded>
 
-        <itunes:subtitle>
-          5: Open source checklist
-        </itunes:subtitle>
+        <itunes:subtitle>5: Open source checklist</itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week I share all the things I think about before releasing (or using) an open source project.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
@@ -334,9 +415,7 @@ demonstrated by gymnast David Durante:</p>
 
         ]]></content:encoded>
 
-        <itunes:subtitle>
-          4: Existential crisis
-        </itunes:subtitle>
+        <itunes:subtitle>4: Existential crisis</itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week we get another voicemail and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know to summit Mount Rainier.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
@@ -421,9 +500,7 @@ super popular <a href="http://www.jeffgalloway.com/training/run-walk/">run-walk<
 
         ]]></content:encoded>
 
-        <itunes:subtitle>
-          3: Forty-three quintillion
-        </itunes:subtitle>
+        <itunes:subtitle>3: Forty-three quintillion</itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week I get my first voicemail, explain why I do (and don’t) use a standing desk, and I brush up on my math skills to show why solving the Rubik’s Cube will never be boring.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
@@ -532,9 +609,7 @@ to use audio queues (which I prefer), then try an interval timer like
 
         ]]></content:encoded>
 
-        <itunes:subtitle>
-          2: Pineapple in your pocket
-        </itunes:subtitle>
+        <itunes:subtitle>2: Pineapple in your pocket</itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week I talk about something I’m super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
@@ -615,9 +690,7 @@ do it!</p>
 
         ]]></content:encoded>
 
-        <itunes:subtitle>
-          1: Why I use Vim
-        </itunes:subtitle>
+        <itunes:subtitle>1: Why I use Vim</itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week I’m going to answer a question that I get all the time: Why do I use Vim?</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
