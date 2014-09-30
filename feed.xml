@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 22 Sep 2014 11:22:51 -0600</pubDate>
-    <lastBuildDate>Mon, 22 Sep 2014 11:22:51 -0600</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2014 18:34:48 -0700</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2014 18:34:48 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -32,6 +32,81 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>10: Codecation</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week I talk about taking an adventure with a &lt;a href=&quot;https://twitter.com/r00k&quot;&gt;stranger on the internet&lt;/a&gt;, what we learned, what we built, why we did it a second time, and why you might want to try it as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;8 rounds (4 minutes) of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 seconds of &lt;a href=&quot;https://www.youtube.com/watch?v=M1IfJmVjKW0&quot;&gt;push-ups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10 seconds of rest&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.trailmix.life/&quot;&gt;Trailmix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecation.github.io/2014-02-clojure-rica/&quot;&gt;Codecation Costa Rica&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/r00k&quot;&gt;Ben on Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/r00k/status/382706978977742848&quot;&gt;SICP Twitter conversation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mitpress.mit.edu/sicp/full-text/book/book.html&quot;&gt;SICP the book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://podcasts.thoughtbot.com/giantrobots&quot;&gt;thoughtbot podcast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/09/29/codecation/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 29 Sep 2014 00:00:00 -0700</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/09/29/codecation/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-10.mp3" length="29987888" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week I talk about taking an adventure with a <a href="https://twitter.com/r00k">stranger on the internet</a>, what we learned, what we built, why we did it a second time, and why you might want to try it as well.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>8 rounds (4 minutes) of:</p>
+
+<ul>
+  <li>20 seconds of <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a></li>
+  <li>10 seconds of rest</li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://www.trailmix.life/">Trailmix</a></li>
+  <li><a href="http://codecation.github.io/2014-02-clojure-rica/">Codecation Costa Rica</a></li>
+  <li><a href="https://twitter.com/r00k">Ben on Twitter</a></li>
+  <li><a href="https://twitter.com/r00k/status/382706978977742848">SICP Twitter conversation</a></li>
+  <li><a href="https://mitpress.mit.edu/sicp/full-text/book/book.html">SICP the book</a></li>
+  <li><a href="http://podcasts.thoughtbot.com/giantrobots">thoughtbot podcast</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>10: Codecation</itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week I talk about taking an adventure with a stranger on the internet, what we learned, what we built, why we did it a second time, and why you might want to try it as well.</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>1873</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>9: Forging elite fitness</title>
