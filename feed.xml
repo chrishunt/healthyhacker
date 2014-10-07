@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 29 Sep 2014 18:34:48 -0700</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2014 18:34:48 -0700</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2014 21:09:27 -0700</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2014 21:09:27 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -32,6 +32,75 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>11: Growing as a programmer</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week we get a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; from Ben in New York and I share the strategies and resources I’ve used to grow as a professional programmer.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;20 minutes of &lt;a href=&quot;http://youtu.be/qFHihLdj_xk&quot;&gt;handstand&lt;/a&gt; practice.&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://calendly.com/chrishunt/chat&quot;&gt;Pair with me on anything&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/chrishunt/3505776&quot;&gt;My favorite podcasts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.chrishunt.co/talks&quot;&gt;My talks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.chrishuntphoto.com/&quot;&gt;My photos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.healthyhacker.com/2014/09/29/codecation/&quot;&gt;Codecation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.mediumequalsmessage.com/6-best-learning-ruby-books&quot;&gt;6 best books for advancing your Ruby knowledge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://javascriptjabber.com/118-jsj-web-developer-skills/&quot;&gt;JavaScript Jabber: Web developer skills&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cooperpress.com/&quot;&gt;Peter Cooper Press developer newsletters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/10/06/growing-as-a-programmer/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 06 Oct 2014 00:00:00 -0700</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/10/06/growing-as-a-programmer/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-11.mp3" length="50248843" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week we get a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> from Ben in New York and I share the strategies and resources I’ve used to grow as a professional programmer.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>20 minutes of <a href="http://youtu.be/qFHihLdj_xk">handstand</a> practice.</p>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://calendly.com/chrishunt/chat">Pair with me on anything</a></li>
+  <li><a href="https://gist.github.com/chrishunt/3505776">My favorite podcasts</a></li>
+  <li><a href="http://www.chrishunt.co/talks">My talks</a></li>
+  <li><a href="http://www.chrishuntphoto.com/">My photos</a></li>
+  <li><a href="http://www.healthyhacker.com/2014/09/29/codecation/">Codecation</a></li>
+  <li><a href="http://blog.mediumequalsmessage.com/6-best-learning-ruby-books">6 best books for advancing your Ruby knowledge</a></li>
+  <li><a href="http://javascriptjabber.com/118-jsj-web-developer-skills/">JavaScript Jabber: Web developer skills</a></li>
+  <li><a href="https://cooperpress.com/">Peter Cooper Press developer newsletters</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>11: Growing as a programmer</itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week we get a voicemail from Ben in New York and I share the strategies and resources I’ve used to grow as a professional programmer.</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>3140</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>10: Codecation</title>
