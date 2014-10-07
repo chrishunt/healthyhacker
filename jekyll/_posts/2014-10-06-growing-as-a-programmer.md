@@ -16,12 +16,12 @@ This week we get a [voicemail](http://www.healthyhacker.com/voicemail/) from Ben
 ### Links
 
 - [Pair with me on anything](https://calendly.com/chrishunt/chat)
-- [My favorite podcasts](https://gist.github.com/chrishunt/3505776)
-- [My talks](http://www.chrishunt.co/talks)
-- [My photos](http://www.chrishuntphoto.com/)
+- [Favorite podcasts](https://gist.github.com/chrishunt/3505776)
 - [Codecation](http://www.healthyhacker.com/2014/09/29/codecation/)
 - [6 best books for advancing your Ruby knowledge](http://blog.mediumequalsmessage.com/6-best-learning-ruby-books)
 - [JavaScript Jabber: Web developer skills](http://javascriptjabber.com/118-jsj-web-developer-skills/)
 - [Peter Cooper Press developer newsletters](https://cooperpress.com/)
+- [Conference talks](http://www.chrishunt.co/talks)
+- [Photos](http://www.chrishuntphoto.com/)
 
 {% include voicemail.html %}
