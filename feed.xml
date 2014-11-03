@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 27 Oct 2014 18:56:12 -0700</pubDate>
-    <lastBuildDate>Mon, 27 Oct 2014 18:56:12 -0700</lastBuildDate>
+    <pubDate>Mon, 03 Nov 2014 13:28:44 -0800</pubDate>
+    <lastBuildDate>Mon, 03 Nov 2014 13:28:44 -0800</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -32,6 +32,85 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>15: Walkabout</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week &lt;a href=&quot;https://twitter.com/r00k&quot;&gt;Ben Orenstein&lt;/a&gt; stops in Portland, Oregon during his 3 month “walkabout” to teach me how to sing a &lt;a href=&quot;http://en.wikipedia.org/wiki/Tag_(barbershop_music)&quot;&gt;barbershop tag&lt;/a&gt; and to share his thoughts on podcasting, conference talks, code review, and a few uncomfortable situations.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;As fast as possible:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;200 meter &lt;a href=&quot;https://www.youtube.com/watch?v=JRh6_4rq-b8&quot;&gt;walking lunges&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;800 meter run&lt;/li&gt;
+  &lt;li&gt;200 meter &lt;a href=&quot;https://www.youtube.com/watch?v=JRh6_4rq-b8&quot;&gt;walking lunges&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://giantrobots.fm/&quot;&gt;Giant Robots Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=l9JXH7JPjR4&quot;&gt;How to Talk to Developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bikeshed.fm/&quot;&gt;The Bike Shed Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://robots.thoughtbot.com/sandi-metz-rules-for-developers&quot;&gt;Sandi Metz’ Rules For Developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0201485672&amp;amp;linkCode=as2&amp;amp;tag=chrhun-20&amp;amp;linkId=NQXNIWFYKNVBKQWN&quot;&gt;Refactoring: Improving the Design of Existing Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0132350882&amp;amp;linkCode=as2&amp;amp;tag=chrhun-20&amp;amp;linkId=QIUXV2QTWGLHAX3W&quot;&gt;Clean Code: A Handbook of Agile Software Craftsmanship&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/thoughtbot/guides/tree/master/code-review&quot;&gt;Thoughtbot Code Review Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/11/03/walkabout/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 03 Nov 2014 00:00:00 -0800</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/11/03/walkabout/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-15.mp3" length="33414078" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week <a href="https://twitter.com/r00k">Ben Orenstein</a> stops in Portland, Oregon during his 3 month “walkabout” to teach me how to sing a <a href="http://en.wikipedia.org/wiki/Tag_(barbershop_music)">barbershop tag</a> and to share his thoughts on podcasting, conference talks, code review, and a few uncomfortable situations.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>As fast as possible:</p>
+
+<ul>
+  <li>200 meter <a href="https://www.youtube.com/watch?v=JRh6_4rq-b8">walking lunges</a></li>
+  <li>800 meter run</li>
+  <li>200 meter <a href="https://www.youtube.com/watch?v=JRh6_4rq-b8">walking lunges</a></li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="http://giantrobots.fm/">Giant Robots Podcast</a></li>
+  <li><a href="https://www.youtube.com/watch?v=l9JXH7JPjR4">How to Talk to Developers</a></li>
+  <li><a href="http://bikeshed.fm/">The Bike Shed Podcast</a></li>
+  <li><a href="http://robots.thoughtbot.com/sandi-metz-rules-for-developers">Sandi Metz’ Rules For Developers</a></li>
+  <li><a href="http://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0201485672&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=NQXNIWFYKNVBKQWN">Refactoring: Improving the Design of Existing Code</a></li>
+  <li><a href="http://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0132350882&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=QIUXV2QTWGLHAX3W">Clean Code: A Handbook of Agile Software Craftsmanship</a></li>
+  <li><a href="https://github.com/thoughtbot/guides/tree/master/code-review">Thoughtbot Code Review Guide</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>15: Walkabout</itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week Ben Orenstein stops in Portland, Oregon during his 3 month “walkabout” to teach me how to sing a barbershop tag and to share his thoughts on podcasting, conference talks, code review, and a few uncomfortable situations.</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>2087</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>14: Never forget a name</title>
