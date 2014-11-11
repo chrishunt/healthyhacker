@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 03 Nov 2014 13:28:44 -0800</pubDate>
-    <lastBuildDate>Mon, 03 Nov 2014 13:28:44 -0800</lastBuildDate>
+    <pubDate>Mon, 10 Nov 2014 21:34:49 -0800</pubDate>
+    <lastBuildDate>Mon, 10 Nov 2014 21:34:49 -0800</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -32,6 +32,75 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>16: Perfect pull request</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week I share how to get project maintainers and co-workers excited about the code you write by building the perfect pull request.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;6 rounds of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;15 &lt;a href=&quot;https://www.youtube.com/watch?v=lE_z2wvC4oI&quot;&gt;box jumps&lt;/a&gt; (24 inch box)&lt;/li&gt;
+  &lt;li&gt;10 &lt;a href=&quot;https://www.youtube.com/watch?v=cy57JXGDjxQ&quot;&gt;handstand push-ups&lt;/a&gt; or &lt;a href=&quot;https://www.youtube.com/watch?v=M1IfJmVjKW0&quot;&gt;normal push-ups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/blog/1124-how-we-use-pull-requests-to-build-github&quot;&gt;How we use Pull Requests to build GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://scottchacon.com/2011/08/31/github-flow.html&quot;&gt;Issues with git-flow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.healthyhacker.com/2014/08/25/open-source-checklist&quot;&gt;Open source checklist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/11/10/perfect-pull-request/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 10 Nov 2014 00:00:00 -0800</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/11/10/perfect-pull-request/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-16.mp3" length="33902639" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week I share how to get project maintainers and co-workers excited about the code you write by building the perfect pull request.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>6 rounds of:</p>
+
+<ul>
+  <li>15 <a href="https://www.youtube.com/watch?v=lE_z2wvC4oI">box jumps</a> (24 inch box)</li>
+  <li>10 <a href="https://www.youtube.com/watch?v=cy57JXGDjxQ">handstand push-ups</a> or <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">normal push-ups</a></li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://github.com/blog/1124-how-we-use-pull-requests-to-build-github">How we use Pull Requests to build GitHub</a></li>
+  <li><a href="http://scottchacon.com/2011/08/31/github-flow.html">Issues with git-flow</a></li>
+  <li><a href="http://www.healthyhacker.com/2014/08/25/open-source-checklist">Open source checklist</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>16: Perfect pull request</itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week I share how to get project maintainers and co-workers excited about the code you write by building the perfect pull request.</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>2110</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>15: Walkabout</title>
