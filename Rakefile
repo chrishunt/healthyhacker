@@ -19,7 +19,7 @@ task :build do
   puts "\nAre you sure you want to delete all these? ^^"
 
   if STDIN.gets.strip == "yes"
-    system 'jekyll build'
+    system 'bundle exec jekyll build'
     system "#{find_command} | xargs rm -r"
     system 'cp -r _site/* ../'
   else
