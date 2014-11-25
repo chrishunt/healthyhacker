@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 17 Nov 2014 11:28:26 -0800</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2014 11:28:26 -0800</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2014 18:11:22 -0800</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2014 18:11:22 -0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -32,6 +32,89 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>18: Distributed teams</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week I share what’s great and not so great about working on a distributed team and the tricks I use to make the experience even better.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;This workout comes from &lt;a href=&quot;http://crossfitpd.com/2014/11/11-21-14-wod/&quot;&gt;CrossFit Pearl District&lt;/a&gt;. Decrease the number of repetitions as necessary. Somewhere between 5-10 reps each round would be awesome.&lt;/p&gt;
+
+&lt;p&gt;Every minute, on the minute, for 10 minutes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;10 &lt;a href=&quot;https://www.youtube.com/watch?v=IJZpz5C1dAA&quot;&gt;toes-to-bar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10 &lt;a href=&quot;https://www.youtube.com/watch?v=M1IfJmVjKW0&quot;&gt;push-ups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theoatmeal.com/comics/working_home&quot;&gt;Oatmeal on ‘working from home’&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://37signals.com/remote&quot;&gt;Basecamp REMOTE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://weworkremotely.com&quot;&gt;We Work Remotely Jobs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wideteams.com/category/podcast&quot;&gt;Wide Teams Podcast (on break)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://screenhero.com&quot;&gt;Screenhero&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://youtu.be/9jzWDr24UHQ?t=30m53s&quot;&gt;Remote Pairing with Vim and Tmux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://culturedcode.com/things&quot;&gt;Things for Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/chrishunt/github-auth&quot;&gt;github-auth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/11/24/distributed-teams/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 24 Nov 2014 00:00:00 -0800</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/11/24/distributed-teams/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-18.mp3" length="31290297" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week I share what’s great and not so great about working on a distributed team and the tricks I use to make the experience even better.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>This workout comes from <a href="http://crossfitpd.com/2014/11/11-21-14-wod/">CrossFit Pearl District</a>. Decrease the number of repetitions as necessary. Somewhere between 5-10 reps each round would be awesome.</p>
+
+<p>Every minute, on the minute, for 10 minutes:</p>
+
+<ul>
+  <li>10 <a href="https://www.youtube.com/watch?v=IJZpz5C1dAA">toes-to-bar</a></li>
+  <li>10 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a></li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="http://theoatmeal.com/comics/working_home">Oatmeal on ‘working from home’</a></li>
+  <li><a href="http://37signals.com/remote">Basecamp REMOTE</a></li>
+  <li><a href="https://weworkremotely.com">We Work Remotely Jobs</a></li>
+  <li><a href="http://www.wideteams.com/category/podcast">Wide Teams Podcast (on break)</a></li>
+  <li><a href="https://screenhero.com">Screenhero</a></li>
+  <li><a href="http://youtu.be/9jzWDr24UHQ?t=30m53s">Remote Pairing with Vim and Tmux</a></li>
+  <li><a href="https://culturedcode.com/things">Things for Mac</a></li>
+  <li><a href="https://github.com/chrishunt/github-auth">github-auth</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>18: Distributed teams</itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week I share what’s great and not so great about working on a distributed team and the tricks I use to make the experience even better.</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>1955</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>17: Grandmaster of memory</title>

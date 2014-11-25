@@ -27,5 +27,6 @@ Every minute, on the minute, for 10 minutes:
 - [Screenhero](https://screenhero.com)
 - [Remote Pairing with Vim and Tmux](http://youtu.be/9jzWDr24UHQ?t=30m53s)
 - [Things for Mac](https://culturedcode.com/things)
+- [github-auth](https://github.com/chrishunt/github-auth)
 
 {% include voicemail.html %}
