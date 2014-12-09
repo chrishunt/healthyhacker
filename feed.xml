@@ -7,8 +7,8 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 24 Nov 2014 18:11:22 -0800</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2014 18:11:22 -0800</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2014 19:43:22 -0800</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2014 19:43:22 -0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
@@ -32,6 +32,77 @@
       <itunes:email>chris@healthyhacker.com</itunes:email>
     </itunes:owner>
 
+    
+      <item>
+        <title>19: Photography exposed</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;This week we learn enough about photography to pick up any camera in the world and bend it to our will.&lt;/p&gt;
+
+&lt;h3 id=&quot;workout-of-the-week&quot;&gt;Workout of the week&lt;/h3&gt;
+
+&lt;p&gt;“Angie” - as fast as possible:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;100 &lt;a href=&quot;https://www.youtube.com/watch?v=ifOBltCCRZw&quot;&gt;pull-ups&lt;/a&gt; or &lt;a href=&quot;https://www.youtube.com/watch?v=rdDdeizAxY0&quot;&gt;body rows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;100 &lt;a href=&quot;https://www.youtube.com/watch?v=M1IfJmVjKW0&quot;&gt;push-ups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;100 &lt;a href=&quot;http://youtu.be/EhG_x1bLHwE&quot;&gt;sit-ups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;100 &lt;a href=&quot;https://www.youtube.com/watch?v=a_fb6Kz7FQg&quot;&gt;air squats&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://shootmanual.co&quot;&gt;Manual, for iPhone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://youtu.be/F8T94sdiNjc&quot;&gt;Aperture, Shutter, ISO, &amp;amp; Light Explained&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
+
+&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
+
+</description>
+        <link>http://www.healthyhacker.com/2014/12/08/photography-exposed/</link>
+        <category>Technology</category>
+        <pubDate>Mon, 08 Dec 2014 00:00:00 -0800</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2014/12/08/photography-exposed/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-19.mp3" length="34307546" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>This week we learn enough about photography to pick up any camera in the world and bend it to our will.</p>
+
+<h3 id="workout-of-the-week">Workout of the week</h3>
+
+<p>“Angie” - as fast as possible:</p>
+
+<ul>
+  <li>100 <a href="https://www.youtube.com/watch?v=ifOBltCCRZw">pull-ups</a> or <a href="https://www.youtube.com/watch?v=rdDdeizAxY0">body rows</a></li>
+  <li>100 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a></li>
+  <li>100 <a href="http://youtu.be/EhG_x1bLHwE">sit-ups</a></li>
+  <li>100 <a href="https://www.youtube.com/watch?v=a_fb6Kz7FQg">air squats</a></li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="http://shootmanual.co">Manual, for iPhone</a></li>
+  <li><a href="http://youtu.be/F8T94sdiNjc">Aperture, Shutter, ISO, &amp; Light Explained</a></li>
+</ul>
+
+<div class="post-content"><h3 id="voicemail">Voicemail</h3>
+
+<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
+
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>19: Photography exposed</itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>This week we learn enough about photography to pick up any camera in the world and bend it to our will.</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>2143</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
     
       <item>
         <title>18: Distributed teams</title>
