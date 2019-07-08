@@ -6,12 +6,6 @@ exclude_from_search: true
 {% for page in paginator.posts %}
   {% if forloop.first == true %}
     {% include post.html %}
-
-    <p class="comments">
-      <a href="{{ page.url | prepend: site.url }}#disqus_thread">
-        Comments
-      </a>
-    </p>
   {% else %}
     <div class="post" id="episode-{{ page.episode }}">
       <article class="post-content">
@@ -24,9 +18,6 @@ exclude_from_search: true
 
           <p class="meta">
             <span>{{ page.date | date: "%b %-d, %Y" }}</span>
-            (<a href="{{ page.url | prepend: site.url }}#disqus_thread">
-              Comments
-            </a>)
           </p>
         </header>
 
@@ -65,16 +56,3 @@ exclude_from_search: true
   {% endif %}
 </div>
 {% endif %}
-
-<!-- Disqus comment counts -->
-<script type="text/javascript">
-  var disqus_shortname = "healthyhacker";
-
-(function () {
-  var s = document.createElement('script');
-  s.async = true;
-  s.type = "text/javascript";
-  s.src = "http://" + disqus_shortname + ".disqus.com/count.js";
-  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-}());
-</script>
