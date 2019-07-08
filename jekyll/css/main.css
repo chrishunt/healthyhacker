@@ -381,6 +381,21 @@ input:focus {
 
 .post pre.terminal code { background-color: #333; }
 
+/* Media Player styles */
+/* ----------------------------------------------------------*/
+
+.mejs__container {
+  background: #333333 !important;
+}
+
+.mejs__horizontal-volume-current {
+  background: hsl(12, 73%, 51%) !important;
+}
+
+.mejs__time-current, .mejs__time-handle-content {
+  background: hsl(12, 73%, 51%) !important;
+}
+
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
 
