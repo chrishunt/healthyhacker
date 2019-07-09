@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '2.5.1'
-gem 'jekyll-redirect-from', '0.6.2'
-gem 'nokogiri', '1.6.4.1'
+gem 'jekyll', '~> 3.8.6'
+gem 'jekyll-redirect-from', '~> 0.15.0'
+gem 'nokogiri', '~> 1.10.3'
