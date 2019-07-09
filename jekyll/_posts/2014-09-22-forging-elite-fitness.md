@@ -30,5 +30,3 @@ From the CrossFit Pearl District
 - [BarStarzz](https://www.youtube.com/user/OfficialBarstarzz)
 - [Jason Khalipa Squat Clean Thruster](http://youtu.be/kvJrUYWygRk)
 - [Myers-Briggs](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator)
-
-{% include voicemail.html %}

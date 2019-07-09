@@ -24,5 +24,3 @@ This week we get another <a href="{{ site.url }}/voicemail/">voicemail</a> and m
 - [Nick Hunt: RMI Mountain Guide](http://www.rmiguides.com/about/guides/nick-hunt)
 - [RMI Expeditions Mount Rainier Climbing Programs](http://www.rmiguides.com/mt-rainier/)
 - [American Institute for Avalanche Research and Education](http://avtraining.org/)
-
-{% include voicemail.html %}

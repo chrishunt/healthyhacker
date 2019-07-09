@@ -39,5 +39,3 @@ Here's the list of body parts I use for *my* body system.
 - [Seconds interval timer](http://www.secondsapp.com/)
 - [Dominic O’Brien](http://en.wikipedia.org/wiki/Dominic_O'Brien)
 - [The Magical Number Seven, Plus or Minus Two](http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
-
-{% include voicemail.html %}

@@ -22,5 +22,3 @@ This week I share a simple, but powerful, technique I learned from USA memory ch
 ### Links
 
 - [How to Memorize](https://www.youtube.com/watch?v=m2GI0huaV5s) by [Ron White](http://ronwhitetraining.com/)
-
-{% include voicemail.html %}

@@ -22,5 +22,3 @@ This week we learn enough about photography to pick up any camera in the world a
 
 - [Manual, for iPhone](http://shootmanual.co)
 - [Aperture, Shutter, ISO, & Light Explained](http://youtu.be/F8T94sdiNjc)
-
-{% include voicemail.html %}

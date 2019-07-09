@@ -25,5 +25,3 @@ demonstrated by gymnast David Durante:
 - [Amsterdam University: RSI and Grip Strength](http://kennisbank.hva.nl/document/218794)
 - [Magnus Samuelsson on Grip Training](http://youtu.be/f_KyQbnCee4?t=11m45s)
 - [Grip Strength Certification](http://www.ironmind.com/ironmind/opencms/Main/captainsofcrush2.html)
-
-{% include voicemail.html %}

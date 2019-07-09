@@ -21,5 +21,3 @@ This week I share how to get project maintainers and co-workers excited about th
 - [How we use Pull Requests to build GitHub](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github)
 - [Issues with git-flow](http://scottchacon.com/2011/08/31/github-flow.html)
 - [Open source checklist](http://www.healthyhacker.com/2014/08/25/open-source-checklist)
-
-{% include voicemail.html %}

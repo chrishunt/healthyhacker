@@ -31,5 +31,3 @@ From the CrossFit Pearl District [blog](http://chrshnt.com/1xV0BGB).
 - [MoYu AoLong Rubik's Cube](http://chrshnt.com/ZjBKNj)
 - [Feliks YouTube Channel](http://chrshnt.com/YE5ogj)
 - [Feliks Facebook](http://chrshnt.com/1xUMscG)
-
-{% include voicemail.html %}

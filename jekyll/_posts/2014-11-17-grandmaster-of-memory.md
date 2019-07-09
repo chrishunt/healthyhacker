@@ -24,5 +24,3 @@ This week [Ed Cooke](https://twitter.com/tedcooke), Grandmaster of Memory and CE
 - [How to Remember a Deck of Cards](https://www.youtube.com/watch?v=WxS1vFpvNi4)
 - [Learning is a game](https://www.youtube.com/watch?v=s6KM9MxY5ZM)
 - [Austhink](http://austhink.com/)
-
-{% include voicemail.html %}

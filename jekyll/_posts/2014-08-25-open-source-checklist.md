@@ -27,5 +27,3 @@ In 20 minutes, as many rounds as possible of:
 - [Product images](https://placeit.net) and [badges](http://shields.io)
 - [Vagrant](https://www.vagrantup.com) or [Terminal.com](http://www.terminal.com)
 - [Cooper Press](https://cooperpress.com)
-
-{% include voicemail.html %}

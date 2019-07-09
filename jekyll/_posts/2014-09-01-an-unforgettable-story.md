@@ -21,5 +21,3 @@ This week we learn the exact same technique that memory athletes have mastered t
 - [Method of loci](http://en.wikipedia.org/wiki/Method_of_loci)
 - [How to win the U.S. Memory Championship](http://www.slate.com/articles/news_and_politics/dispatches/2005/03/forget_me_not.single.html)
 - [Simon memorizes deck of cards in 21.90s](http://youtu.be/sbinQ6GdOVk)
-
-{% include voicemail.html %}

@@ -23,5 +23,3 @@ This week we get a [voicemail](http://www.healthyhacker.com/voicemail/) from Ben
 - [Peter Cooper Press developer newsletters](https://cooperpress.com/)
 - [Conference talks](http://www.chrishunt.co/talks)
 - [Photos](http://www.chrishuntphoto.com/)
-
-{% include voicemail.html %}

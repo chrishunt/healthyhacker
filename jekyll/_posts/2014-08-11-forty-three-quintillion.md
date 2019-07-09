@@ -29,5 +29,3 @@ super popular [run-walk](http://www.jeffgalloway.com/training/run-walk/).
 - [Why I killed my standing desk](http://blog.pickcrew.com/why-i-killed-my-standing-desk)
 - [Your body language shapes who you are](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
 - [NextDesk Terra](http://www.nextdesks.com/store/terra)
-
-{% include voicemail.html %}

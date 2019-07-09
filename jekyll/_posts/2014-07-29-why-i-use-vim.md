@@ -27,5 +27,3 @@ do it!
 - [Vimcasts](http://chrshnt.com/1s2CBeM)
 - [Your problem with Vim is that you don't grok vi](http://chrshnt.com/1s2CEXR)
 - [RMI Expeditions](http://chrshnt.com/1s2Qqtx) - climb a mountain with my brother Nick
-
-{% include voicemail.html %}

@@ -26,5 +26,3 @@ As fast as possible:
 - [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0201485672&linkCode=as2&tag=chrhun-20&linkId=NQXNIWFYKNVBKQWN)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0132350882&linkCode=as2&tag=chrhun-20&linkId=QIUXV2QTWGLHAX3W)
 - [Thoughtbot Code Review Guide](https://github.com/thoughtbot/guides/tree/master/code-review)
-
-{% include voicemail.html %}

@@ -20,5 +20,3 @@ This week I talk about talking. I share the reasons I love speaking at conferenc
 
 - [Lanyrd](http://lanyrd.com)
 - [@callbackwomen](https://twitter.com/callbackwomen)
-
-{% include voicemail.html %}

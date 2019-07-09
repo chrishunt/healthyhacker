@@ -28,5 +28,3 @@ In 12 minutes, as many rounds as possible of:
 - [Coffee refraction 101](http://youtu.be/fL7vNbEcsxk?list=UUCN58NHBlbp6A2WLJGGXyRw)
 - [Modernist Cuisine at Home](http://www.amazon.com/gp/product/0982761015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0982761015&linkCode=as2&tag=chrhun-20&linkId=LCRKN4TPKNSLKLPP)
 - [ChefSteps](http://www.chefsteps.com)
-
-{% include voicemail.html %}

@@ -24,5 +24,3 @@ This week I talk about taking an adventure with a [stranger on the internet](htt
 - [SICP Twitter conversation](https://twitter.com/r00k/status/382706978977742848)
 - [SICP the book](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 - [thoughtbot podcast](http://podcasts.thoughtbot.com/giantrobots)
-
-{% include voicemail.html %}
