@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/healthy-hacker" title="MP3 Audio"/>
+    <title>Healthy Hacker</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/healthy-hacker</itunes:new-feed-url>
+    <description>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</description>
+    <copyright>© Chris Hunt</copyright>
+    <language>en-us</language>
+    <pubDate>Tue, 09 Jul 2019 01:00:00 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Jul 2019 13:28:01 -0500</lastBuildDate>
+    <link>https://www.healthyhacker.com</link>
+    <image>
+      <url>https://images.transistor.fm/images/show/3119/full_1562776027-artwork.jpg</url>
+      <title>Healthy Hacker</title>
+      <link>https://www.healthyhacker.com</link>
+    </image>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Training"/>
+    </itunes:category>
+    <googleplay:author>Chris Hunt</googleplay:author>
+    <googleplay:image href="https://images.transistor.fm/images/show/3119/full_1562776027-artwork.jpg"/>
+    <googleplay:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</googleplay:summary>
+    <googleplay:explicit>No</googleplay:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Chris Hunt</itunes:author>
+    <itunes:image href="https://images.transistor.fm/images/show/3119/full_1562776027-artwork.jpg"/>
+    <itunes:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</itunes:summary>
+    <itunes:subtitle>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting..</itunes:subtitle>
+    <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Chris Hunt</itunes:name>
+      <itunes:email>huntca@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <item>
+      <title>20: Laptop in the cloud</title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:title>20: Laptop in the cloud</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2019/07/09/laptop-in-the-cloud/</guid>
+      <link>https://share.transistor.fm/s/b59f341e</link>
+      <description>We put our music “in the cloud”, we put our documents “in the cloud”, we putour code “in the cloud”, but why don’t we put our development environment inthe cloud?</description>
+      <content:encoded>
+        <![CDATA[<p>We put our music “in the cloud”, we put our documents “in the cloud”, we put
+our code “in the cloud”, but why don’t we put our development environment in
+the cloud?</p>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="https://www.linode.com">Linode Hosting</a></li>
+  <li><a href="https://mosh.org">Mosh (mobile shell)</a></li>
+  <li><a href="https://code.visualstudio.com">Visual Studio Code</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 09 Jul 2019 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/e225fdcf.mp3" length="16507784" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68493/full_1562776065-artwork.jpg"/>
+      <itunes:duration>00:22:43</itunes:duration>
+      <itunes:summary>We put our music “in the cloud”, we put our documents “in the cloud”, we putour code “in the cloud”, but why don’t we put our development environment inthe cloud?</itunes:summary>
+      <itunes:subtitle>We put our music “in the cloud”, we put our documents “in the cloud”, we putour code “in the cloud”, but why don’t we put our development environment inthe cloud?</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>19: Photography exposed</title>
+      <itunes:episode>19</itunes:episode>
+      <itunes:title>19: Photography exposed</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/12/08/photography-exposed/</guid>
+      <link>https://share.transistor.fm/s/1acc1817</link>
+      <description>This week we learn enough about photography to pick up any camera in the world and bend it to our will.</description>
+      <content:encoded>
+        <![CDATA[<p>This week we learn enough about photography to pick up any camera in the world and bend it to our will.</p>
+
+<h3>Workout of the week</h3>
+
+<p>“Angie” - as fast as possible:</p>
+
+<ul>
+  <li>100 <a href="https://www.youtube.com/watch?v=ifOBltCCRZw">pull-ups</a> or <a href="https://www.youtube.com/watch?v=rdDdeizAxY0">body rows</a>
+</li>
+  <li>100 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a>
+</li>
+  <li>100 <a href="http://youtu.be/EhG_x1bLHwE">sit-ups</a>
+</li>
+  <li>100 <a href="https://www.youtube.com/watch?v=a_fb6Kz7FQg">air squats</a>
+</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://shootmanual.co">Manual, for iPhone</a></li>
+  <li><a href="http://youtu.be/F8T94sdiNjc">Aperture, Shutter, ISO, &amp; Light Explained</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 08 Dec 2014 01:00:00 -0600</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/7f728078.mp3" length="34435766" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68492/full_1562776063-artwork.jpg"/>
+      <itunes:duration>00:35:43</itunes:duration>
+      <itunes:summary>This week we learn enough about photography to pick up any camera in the world and bend it to our will.</itunes:summary>
+      <itunes:subtitle>This week we learn enough about photography to pick up any camera in the world and bend it to our will.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>18: Distributed teams</title>
+      <itunes:episode>18</itunes:episode>
+      <itunes:title>18: Distributed teams</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/11/24/distributed-teams/</guid>
+      <link>https://share.transistor.fm/s/a5987a6c</link>
+      <description>This week I share what’s great and not so great about working on a distributed team and the tricks I use to make the experience even better.</description>
+      <content:encoded>
+        <![CDATA[<p>This week I share what’s great and not so great about working on a distributed team and the tricks I use to make the experience even better.</p>
+
+<h3>Workout of the week</h3>
+
+<p>This workout comes from <a href="http://crossfitpd.com/2014/11/11-21-14-wod/">CrossFit Pearl District</a>. Decrease the number of repetitions as necessary. Somewhere between 5-10 reps each round would be awesome.</p>
+
+<p>Every minute, on the minute, for 10 minutes:</p>
+
+<ul>
+  <li>10 <a href="https://www.youtube.com/watch?v=IJZpz5C1dAA">toes-to-bar</a>
+</li>
+  <li>10 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a>
+</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://theoatmeal.com/comics/working_home">Oatmeal on ‘working from home’</a></li>
+  <li><a href="http://37signals.com/remote">Basecamp REMOTE</a></li>
+  <li><a href="https://weworkremotely.com">We Work Remotely Jobs</a></li>
+  <li><a href="http://www.wideteams.com/category/podcast">Wide Teams Podcast (on break)</a></li>
+  <li><a href="https://screenhero.com">Screenhero</a></li>
+  <li><a href="http://youtu.be/9jzWDr24UHQ?t=30m53s">Remote Pairing with Vim and Tmux</a></li>
+  <li><a href="https://culturedcode.com/things">Things for Mac</a></li>
+  <li><a href="https://github.com/chrishunt/github-auth">github-auth</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 24 Nov 2014 01:00:00 -0600</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/c96408b8.mp3" length="31418837" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68491/full_1562776061-artwork.jpg"/>
+      <itunes:duration>00:32:35</itunes:duration>
+      <itunes:summary>This week I share what’s great and not so great about working on a distributed team and the tricks I use to make the experience even better.</itunes:summary>
+      <itunes:subtitle>This week I share what’s great and not so great about working on a distributed team and the tricks I use to make the experience even better.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>17: Grandmaster of memory</title>
+      <itunes:episode>17</itunes:episode>
+      <itunes:title>17: Grandmaster of memory</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/11/17/grandmaster-of-memory/</guid>
+      <link>https://share.transistor.fm/s/f34ca69a</link>
+      <description>This week Ed Cooke, Grandmaster of Memory and CEO of memrise.com, shares his thoughts on memory training, imagination, perception, and the future of learning.</description>
+      <content:encoded>
+        <![CDATA[<p>This week <a href="https://twitter.com/tedcooke">Ed Cooke</a>, Grandmaster of Memory and CEO of <a href="http://www.memrise.com">memrise.com</a>, shares his thoughts on memory training, imagination, perception, and the future of learning.</p>
+
+<h3>Workout of the week</h3>
+
+<p>20 rounds of:</p>
+
+<ul>
+  <li>5 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a>
+</li>
+  <li>5 <a href="https://www.youtube.com/watch?v=a_fb6Kz7FQg">air squats</a>
+</li>
+  <li>5 <a href="http://youtu.be/EhG_x1bLHwE">sit-ups</a>
+</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://www.memrise.com/">Memrise.com</a></li>
+  <li><a href="http://www.memrise.com/prize/">The Memrise Prize</a></li>
+  <li><a href="https://www.youtube.com/watch?v=WxS1vFpvNi4">How to Remember a Deck of Cards</a></li>
+  <li><a href="https://www.youtube.com/watch?v=s6KM9MxY5ZM">Learning is a game</a></li>
+  <li><a href="http://austhink.com/">Austhink</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Nov 2014 01:00:00 -0600</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/765ffb9a.mp3" length="45325839" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68490/full_1562776059-artwork.jpg"/>
+      <itunes:duration>00:47:04</itunes:duration>
+      <itunes:summary>This week Ed Cooke, Grandmaster of Memory and CEO of memrise.com, shares his thoughts on memory training, imagination, perception, and the future of learning.</itunes:summary>
+      <itunes:subtitle>This week Ed Cooke, Grandmaster of Memory and CEO of memrise.com, shares his thoughts on memory training, imagination, perception, and the future of learning.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>16: Perfect pull request</title>
+      <itunes:episode>16</itunes:episode>
+      <itunes:title>16: Perfect pull request</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/11/10/perfect-pull-request/</guid>
+      <link>https://share.transistor.fm/s/edf236d5</link>
+      <description>This week I share how to get project maintainers and co-workers excited about the code you write by building the perfect pull request.</description>
+      <content:encoded>
+        <![CDATA[<p>This week I share how to get project maintainers and co-workers excited about the code you write by building the perfect pull request.</p>
+
+<h3>Workout of the week</h3>
+
+<p>6 rounds of:</p>
+
+<ul>
+  <li>15 <a href="https://www.youtube.com/watch?v=lE_z2wvC4oI">box jumps</a> (24 inch box)</li>
+  <li>10 <a href="https://www.youtube.com/watch?v=cy57JXGDjxQ">handstand push-ups</a> or <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">normal push-ups</a>
+</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="https://github.com/blog/1124-how-we-use-pull-requests-to-build-github">How we use Pull Requests to build GitHub</a></li>
+  <li><a href="http://scottchacon.com/2011/08/31/github-flow.html">Issues with git-flow</a></li>
+  <li><a href="http://www.healthyhacker.com/2014/08/25/open-source-checklist">Open source checklist</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 10 Nov 2014 01:00:00 -0600</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/ad76ea2c.mp3" length="33903323" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68489/full_1562776057-artwork.jpg"/>
+      <itunes:duration>00:35:10</itunes:duration>
+      <itunes:summary>This week I share how to get project maintainers and co-workers excited about the code you write by building the perfect pull request.</itunes:summary>
+      <itunes:subtitle>This week I share how to get project maintainers and co-workers excited about the code you write by building the perfect pull request.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>15: Walkabout</title>
+      <itunes:episode>15</itunes:episode>
+      <itunes:title>15: Walkabout</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/11/03/walkabout/</guid>
+      <link>https://share.transistor.fm/s/47ec1590</link>
+      <description>This week Ben Orenstein stops in Portland, Oregon during his 3 month “walkabout” to teach me how to sing a barbershop tag and to share his thoughts on podcasting, conference talks, code review, and a few uncomfortable situations.</description>
+      <content:encoded>
+        <![CDATA[<p>This week <a href="https://twitter.com/r00k">Ben Orenstein</a> stops in Portland, Oregon during his 3 month “walkabout” to teach me how to sing a <a href="http://en.wikipedia.org/wiki/Tag_(barbershop_music)">barbershop tag</a> and to share his thoughts on podcasting, conference talks, code review, and a few uncomfortable situations.</p>
+
+<h3>Workout of the week</h3>
+
+<p>As fast as possible:</p>
+
+<ul>
+  <li>200 meter <a href="https://www.youtube.com/watch?v=JRh6_4rq-b8">walking lunges</a>
+</li>
+  <li>800 meter run</li>
+  <li>200 meter <a href="https://www.youtube.com/watch?v=JRh6_4rq-b8">walking lunges</a>
+</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://giantrobots.fm/">Giant Robots Podcast</a></li>
+  <li><a href="https://www.youtube.com/watch?v=l9JXH7JPjR4">How to Talk to Developers</a></li>
+  <li><a href="http://bikeshed.fm/">The Bike Shed Podcast</a></li>
+  <li><a href="http://robots.thoughtbot.com/sandi-metz-rules-for-developers">Sandi Metz’ Rules For Developers</a></li>
+  <li><a href="http://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0201485672&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=NQXNIWFYKNVBKQWN">Refactoring: Improving the Design of Existing Code</a></li>
+  <li><a href="http://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0132350882&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=QIUXV2QTWGLHAX3W">Clean Code: A Handbook of Agile Software Craftsmanship</a></li>
+  <li><a href="https://github.com/thoughtbot/guides/tree/master/code-review">Thoughtbot Code Review Guide</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 03 Nov 2014 01:00:00 -0600</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/6dfb26c6.mp3" length="33542764" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68488/full_1562776055-artwork.jpg"/>
+      <itunes:duration>00:34:47</itunes:duration>
+      <itunes:summary>This week Ben Orenstein stops in Portland, Oregon during his 3 month “walkabout” to teach me how to sing a barbershop tag and to share his thoughts on podcasting, conference talks, code review, and a few uncomfortable situations.</itunes:summary>
+      <itunes:subtitle>This week Ben Orenstein stops in Portland, Oregon during his 3 month “walkabout” to teach me how to sing a barbershop tag and to share his thoughts on podcasting, conference talks, code review, and a few uncomfortable situations.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>14: Never forget a name</title>
+      <itunes:episode>14</itunes:episode>
+      <itunes:title>14: Never forget a name</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/10/27/never-forget-a-name/</guid>
+      <link>https://share.transistor.fm/s/14e4b2d1</link>
+      <description>This week I share a simple, but powerful, technique I learned from USA memory champion Ron White for quickly memorizing any person’s name.</description>
+      <content:encoded>
+        <![CDATA[<p>This week I share a simple, but powerful, technique I learned from USA memory champion <a href="http://ronwhitetraining.com/">Ron White</a> for quickly memorizing any person’s name.</p>
+
+<h3>Workout of the week</h3>
+
+<p>“<a href="http://www.crossfit.com/mt-archive2/000881.html">Murph</a>” - Finish as quickly as possible:</p>
+
+<ul>
+  <li>1 mile run</li>
+  <li>100 <a href="https://www.youtube.com/watch?v=ifOBltCCRZw">pull-ups</a> or <a href="https://www.youtube.com/watch?v=rdDdeizAxY0">body rows</a>
+</li>
+  <li>200 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a>
+</li>
+  <li>300 <a href="https://www.youtube.com/watch?v=a_fb6Kz7FQg">air squats</a>
+</li>
+  <li>1 mile run</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li>
+<a href="https://www.youtube.com/watch?v=m2GI0huaV5s">How to Memorize</a> by <a href="http://ronwhitetraining.com/">Ron White</a>
+</li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 27 Oct 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/30a74dbd.mp3" length="24371124" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68487/full_1562776054-artwork.jpg"/>
+      <itunes:duration>00:25:14</itunes:duration>
+      <itunes:summary>This week I share a simple, but powerful, technique I learned from USA memory champion Ron White for quickly memorizing any person’s name.</itunes:summary>
+      <itunes:subtitle>This week I share a simple, but powerful, technique I learned from USA memory champion Ron White for quickly memorizing any person’s name.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>13: Speaking at conferences</title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:title>13: Speaking at conferences</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/10/20/speaking-at-conferences/</guid>
+      <link>https://share.transistor.fm/s/07f48888</link>
+      <description>This week I talk about talking. I share the reasons I love speaking at conferences, why I think you’ll like it too, and how to make your conference talk more exciting and memorable than the rest.</description>
+      <content:encoded>
+        <![CDATA[<p>This week I talk about talking. I share the reasons I love speaking at conferences, why I think you’ll like it too, and how to make your conference talk more exciting and memorable than the rest.</p>
+
+<h3>Workout of the week</h3>
+
+<p>5 rounds of:</p>
+
+<ul>
+  <li>1 minute of <a href="http://youtu.be/TX60BcsO_wE">burpees</a> (as many as possible)</li>
+  <li>1 minute of rest</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://lanyrd.com">Lanyrd</a></li>
+  <li><a href="https://twitter.com/callbackwomen">@callbackwomen</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 20 Oct 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/8d594a25.mp3" length="33609055" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68486/full_1562776052-artwork.jpg"/>
+      <itunes:duration>00:34:52</itunes:duration>
+      <itunes:summary>This week I talk about talking. I share the reasons I love speaking at conferences, why I think you’ll like it too, and how to make your conference talk more exciting and memorable than the rest.</itunes:summary>
+      <itunes:subtitle>This week I talk about talking. I share the reasons I love speaking at conferences, why I think you’ll like it too, and how to make your conference talk more exciting and memorable than the rest.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>12: Perfect cup of coffee</title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:title>12: Perfect cup of coffee</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/10/13/perfect-cup-of-coffee/</guid>
+      <link>https://share.transistor.fm/s/6d943171</link>
+      <description>This week Matt Perger, a competitive barista and World Brewers Cup champion, comes on the show to talk about coffee culture, bean roasting, competitive brewing, and how to make the perfect cup of coffee at home.</description>
+      <content:encoded>
+        <![CDATA[<p>This week <a href="http://mattperger.com">Matt Perger</a>, a competitive barista and World Brewers Cup champion, comes on the show to talk about coffee culture, bean roasting, competitive brewing, and how to make the perfect cup of coffee at home.</p>
+
+<h3>Workout of the week</h3>
+
+<p>In 12 minutes, as many rounds as possible of:</p>
+
+<ul>
+  <li>30 <a href="https://www.youtube.com/watch?v=h7XjUbUpeHE">double-unders</a> or <a href="https://www.youtube.com/watch?v=K3W5hUklkIg">jumping jacks</a>
+</li>
+  <li>15 <a href="https://www.youtube.com/watch?v=OwAh0sBFpec">goblet squats</a>
+</li>
+  <li>10 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a>
+</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://mattperger.com">Matt Perger</a></li>
+  <li><a href="http://www.worldbrewerscup.org">World Brewers Cup</a></li>
+  <li><a href="http://www.worldbaristachampionship.org">World Barista Championship</a></li>
+  <li>
+<a href="http://www.amazon.com/gp/product/B000P4D5HG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000P4D5HG&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=ME4YTGNVYHL2SUS7">Hario V60</a>, <a href="http://www.amazon.com/gp/product/B0047BIWSK/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0047BIWSK&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=NA3IG5H3V3VCHTS5">Aeropress</a>
+</li>
+  <li><a href="http://youtu.be/MPDfn--vxK8">Hario V60 pour over method</a></li>
+  <li><a href="http://www.comandantegrinder.com">Comandante hand grinder</a></li>
+  <li><a href="http://youtu.be/fL7vNbEcsxk?list=UUCN58NHBlbp6A2WLJGGXyRw">Coffee refraction 101</a></li>
+  <li><a href="http://www.amazon.com/gp/product/0982761015/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0982761015&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=LCRKN4TPKNSLKLPP">Modernist Cuisine at Home</a></li>
+  <li><a href="http://www.chefsteps.com">ChefSteps</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 13 Oct 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/ad296177.mp3" length="39373270" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68485/full_1562776050-artwork.jpg"/>
+      <itunes:duration>00:40:52</itunes:duration>
+      <itunes:summary>This week Matt Perger, a competitive barista and World Brewers Cup champion, comes on the show to talk about coffee culture, bean roasting, competitive brewing, and how to make the perfect cup of coffee at home.</itunes:summary>
+      <itunes:subtitle>This week Matt Perger, a competitive barista and World Brewers Cup champion, comes on the show to talk about coffee culture, bean roasting, competitive brewing, and how to make the perfect cup of coffee at home.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>11: Growing as a programmer</title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:title>11: Growing as a programmer</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/10/06/growing-as-a-programmer/</guid>
+      <link>https://share.transistor.fm/s/64865a25</link>
+      <description>This week we get a voicemail from Ben in New York and I share the strategies and resources I’ve used to grow as a professional programmer.</description>
+      <content:encoded>
+        <![CDATA[<p>This week we get a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> from Ben in New York and I share the strategies and resources I’ve used to grow as a professional programmer.</p>
+
+<h3>Workout of the week</h3>
+
+<p>20 minutes of <a href="http://youtu.be/qFHihLdj_xk">handstand</a> practice.</p>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="https://calendly.com/chrishunt/chat">Pair with me on anything</a></li>
+  <li><a href="https://gist.github.com/chrishunt/3505776">Favorite podcasts</a></li>
+  <li><a href="http://www.healthyhacker.com/2014/09/29/codecation/">Codecation</a></li>
+  <li><a href="http://blog.mediumequalsmessage.com/6-best-learning-ruby-books">6 best books for advancing your Ruby knowledge</a></li>
+  <li><a href="http://javascriptjabber.com/118-jsj-web-developer-skills/">JavaScript Jabber: Web developer skills</a></li>
+  <li><a href="https://cooperpress.com/">Peter Cooper Press developer newsletters</a></li>
+  <li><a href="http://www.chrishunt.co/talks">Conference talks</a></li>
+  <li><a href="http://www.chrishuntphoto.com/">Photos</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 06 Oct 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/3be772a3.mp3" length="50378596" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68484/full_1562776048-artwork.jpg"/>
+      <itunes:duration>00:52:20</itunes:duration>
+      <itunes:summary>This week we get a voicemail from Ben in New York and I share the strategies and resources I’ve used to grow as a professional programmer.</itunes:summary>
+      <itunes:subtitle>This week we get a voicemail from Ben in New York and I share the strategies and resources I’ve used to grow as a professional programmer.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>10: Codecation</title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:title>10: Codecation</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/09/29/codecation/</guid>
+      <link>https://share.transistor.fm/s/686468fd</link>
+      <description>This week I talk about taking an adventure with a stranger on the internet, what we learned, what we built, why we did it a second time, and why you might want to try it as well.</description>
+      <content:encoded>
+        <![CDATA[<p>This week I talk about taking an adventure with a <a href="https://twitter.com/r00k">stranger on the internet</a>, what we learned, what we built, why we did it a second time, and why you might want to try it as well.</p>
+
+<h3>Workout of the week</h3>
+
+<p>8 rounds (4 minutes) of:</p>
+
+<ul>
+  <li>20 seconds of <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a>
+</li>
+  <li>10 seconds of rest</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="https://www.trailmix.life/">Trailmix</a></li>
+  <li><a href="http://codecation.github.io/2014-02-clojure-rica/">Codecation Costa Rica</a></li>
+  <li><a href="https://twitter.com/r00k">Ben on Twitter</a></li>
+  <li><a href="https://twitter.com/r00k/status/382706978977742848">SICP Twitter conversation</a></li>
+  <li><a href="https://mitpress.mit.edu/sicp/full-text/book/book.html">SICP the book</a></li>
+  <li><a href="http://podcasts.thoughtbot.com/giantrobots">thoughtbot podcast</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 29 Sep 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/4ceecba3.mp3" length="30117011" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68483/full_1562776046-artwork.jpg"/>
+      <itunes:duration>00:31:13</itunes:duration>
+      <itunes:summary>This week I talk about taking an adventure with a stranger on the internet, what we learned, what we built, why we did it a second time, and why you might want to try it as well.</itunes:summary>
+      <itunes:subtitle>This week I talk about taking an adventure with a stranger on the internet, what we learned, what we built, why we did it a second time, and why you might want to try it as well.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>9: Forging elite fitness</title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:title>9: Forging elite fitness</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/09/22/forging-elite-fitness/</guid>
+      <link>https://share.transistor.fm/s/22a2feb7</link>
+      <description>This week Jeff Duncan, owner and trainer at CrossFit Pearl District, comes on the show to talk about CrossFit, how he started his gym, and why the program is different than any other fitness regimen you’ve tried.</description>
+      <content:encoded>
+        <![CDATA[<p>This week Jeff Duncan, owner and trainer at <a href="http://crossfitpd.com">CrossFit Pearl District</a>, comes on the show to talk about CrossFit, how he started his gym, and why the program is different than any other fitness regimen you’ve tried.</p>
+
+<h3>Workout of the week</h3>
+
+<p>This workout is fun because you can partition the exercises how ever you want.
+I did all the running first, then finished by alternating between sit-ups and
+push-ups.</p>
+
+<p>As fast as possible:</p>
+
+<ul>
+  <li>2000 meter run</li>
+  <li>150 <a href="https://www.youtube.com/watch?v=BfqRSCgXiVw">sit-ups</a>
+</li>
+  <li>100 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a>
+</li>
+</ul>
+
+<p>From the CrossFit Pearl District
+<a href="http://crossfitpd.com/2014/09/9-17-14-wod/">blog</a>.</p>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://crossfitpd.com">CrossFit Pearl District</a></li>
+  <li><a href="https://www.youtube.com/user/OfficialBarstarzz">BarStarzz</a></li>
+  <li><a href="http://youtu.be/kvJrUYWygRk">Jason Khalipa Squat Clean Thruster</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator">Myers-Briggs</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 22 Sep 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/57645c1d.mp3" length="51095557" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68482/full_1562776044-artwork.jpg"/>
+      <itunes:duration>00:53:04</itunes:duration>
+      <itunes:summary>This week Jeff Duncan, owner and trainer at CrossFit Pearl District, comes on the show to talk about CrossFit, how he started his gym, and why the program is different than any other fitness regimen you’ve tried.</itunes:summary>
+      <itunes:subtitle>This week Jeff Duncan, owner and trainer at CrossFit Pearl District, comes on the show to talk about CrossFit, how he started his gym, and why the program is different than any other fitness regimen you’ve tried.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>8: Rubik's Cube Champion</title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:title>8: Rubik's Cube Champion</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/09/15/rubiks-cube-champion/</guid>
+      <link>https://share.transistor.fm/s/8e2f90a1</link>
+      <description>This week Feliks Zemdegs, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.</description>
+      <content:encoded>
+        <![CDATA[<p>This week <a href="http://chrshnt.com/1tIGm8E">Feliks Zemdegs</a>, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.</p>
+
+<h3>Workout of the week</h3>
+
+<p>In 20 minutes, as many rounds as possible of:</p>
+
+<ul>
+  <li>20 <a href="http://chrshnt.com/1wnD2EO">double-unders</a>
+</li>
+  <li>200 meter run</li>
+  <li>20 <a href="http://chrshnt.com/1usu1Ig">deck squats</a>
+</li>
+  <li>200 meter run</li>
+</ul>
+
+<p>From the CrossFit Pearl District <a href="http://chrshnt.com/1xV0BGB">blog</a>.</p>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://chrshnt.com/1m0LA0y">Video: Rubik’s Cube 6.54 World Record Average</a></li>
+  <li><a href="http://chrshnt.com/1qOyVyu">Video: The Road to 6.77 Seconds</a></li>
+  <li><a href="http://chrshnt.com/1tIGm8E">Feliks Zemdegs World Ranking</a></li>
+  <li><a href="http://chrshnt.com/cfop-fridrich">CFOP Speedsolving Method</a></li>
+  <li><a href="http://chrshnt.com/1AHc9cH">Badmephisto Rubik’s Cube Tutorial</a></li>
+  <li><a href="http://chrshnt.com/1qsSpcL">qqTimer Rubik’s Cube Timer</a></li>
+  <li><a href="http://chrshnt.com/ZjBKNj">MoYu AoLong Rubik’s Cube</a></li>
+  <li><a href="http://chrshnt.com/YE5ogj">Feliks YouTube Channel</a></li>
+  <li><a href="http://chrshnt.com/1xUMscG">Feliks Facebook</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 15 Sep 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/446d03d8.mp3" length="32755095" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68481/full_1562776042-artwork.jpg"/>
+      <itunes:duration>00:33:58</itunes:duration>
+      <itunes:summary>This week Feliks Zemdegs, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.</itunes:summary>
+      <itunes:subtitle>This week Feliks Zemdegs, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>7: Repetitive strain injury</title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:title>7: Repetitive strain injury</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/09/08/repetitive-strain-injury/</guid>
+      <link>https://share.transistor.fm/s/bcc476a1</link>
+      <description>This week we get a voicemail from Jonathan in Portland and learn all about RSI, some common myths, who’s at risk, how to prevent it, and why exercise plays an important role in staying pain free.</description>
+      <content:encoded>
+        <![CDATA[<p>This week we get a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> from Jonathan in Portland and learn all about RSI, some common myths, who’s at risk, how to prevent it, and why exercise plays an important role in staying pain free.</p>
+
+<h3>Workout of the week</h3>
+
+<p>Take 15 minutes to work on the wrist push-up progression and stretching
+demonstrated by gymnast David Durante:</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=27Nqg0ySjHw&amp;feature=youtu.be&amp;t=2m">Wrist push-up progression</a></li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://rsi.unl.edu/">Computer Related Repetitive Strain Injury</a></li>
+  <li><a href="http://www.eorthopod.com/content/cumulative-trauma-disorder">Cumulative Trauma Disorder</a></li>
+  <li><a href="http://pomodorotechnique.com/">Pomodoro Technique</a></li>
+  <li><a href="http://chrshnt.com/handgripper">Amazon: Captains of Crush Hand Gripper</a></li>
+  <li><a href="http://kennisbank.hva.nl/document/218794">Amsterdam University: RSI and Grip Strength</a></li>
+  <li><a href="http://youtu.be/f_KyQbnCee4?t=11m45s">Magnus Samuelsson on Grip Training</a></li>
+  <li><a href="http://www.ironmind.com/ironmind/opencms/Main/captainsofcrush2.html">Grip Strength Certification</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 08 Sep 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/061c0ed4.mp3" length="32516934" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68480/full_1562776041-artwork.jpg"/>
+      <itunes:duration>00:33:43</itunes:duration>
+      <itunes:summary>This week we get a voicemail from Jonathan in Portland and learn all about RSI, some common myths, who’s at risk, how to prevent it, and why exercise plays an important role in staying pain free.</itunes:summary>
+      <itunes:subtitle>This week we get a voicemail from Jonathan in Portland and learn all about RSI, some common myths, who’s at risk, how to prevent it, and why exercise plays an important role in staying pain free.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>6: An unforgettable story</title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:title>6: An unforgettable story</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/09/01/an-unforgettable-story/</guid>
+      <link>https://share.transistor.fm/s/40c48ac2</link>
+      <description>This week we learn the exact same technique that memory athletes have mastered to memorize hundreds of random words, thousands of random numbers, and stacks of shuffled playing cards.</description>
+      <content:encoded>
+        <![CDATA[<p>This week we learn the exact same technique that memory athletes have mastered to memorize hundreds of random words, thousands of random numbers, and stacks of shuffled playing cards.</p>
+
+<h3>Workout of the week</h3>
+
+<p>10 rounds of:</p>
+
+<ul>
+  <li>100 meter <a href="https://www.youtube.com/watch?v=41r3tSyWgZk">sprint</a>
+</li>
+  <li>90 second rest</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/Method_of_loci">Method of loci</a></li>
+  <li><a href="http://www.slate.com/articles/news_and_politics/dispatches/2005/03/forget_me_not.single.html">How to win the U.S. Memory Championship</a></li>
+  <li><a href="http://youtu.be/sbinQ6GdOVk">Simon memorizes deck of cards in 21.90s</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 01 Sep 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/840c84b2.mp3" length="24524263" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68479/full_1562776039-artwork.jpg"/>
+      <itunes:duration>00:25:24</itunes:duration>
+      <itunes:summary>This week we learn the exact same technique that memory athletes have mastered to memorize hundreds of random words, thousands of random numbers, and stacks of shuffled playing cards.</itunes:summary>
+      <itunes:subtitle>This week we learn the exact same technique that memory athletes have mastered to memorize hundreds of random words, thousands of random numbers, and stacks of shuffled playing cards.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>5: Open source checklist</title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:title>5: Open source checklist</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/08/25/open-source-checklist/</guid>
+      <link>https://share.transistor.fm/s/89dde8a6</link>
+      <description>This week I share all the things I think about before releasing (or using) an open source project.</description>
+      <content:encoded>
+        <![CDATA[<p>This week I share all the things I think about before releasing (or using) an open source project.</p>
+
+<h3>Workout of the week</h3>
+
+<p>In 20 minutes, as many rounds as possible of:</p>
+
+<ul>
+  <li>5 <a href="https://www.youtube.com/watch?v=M1IfJmVjKW0">push-ups</a>
+</li>
+  <li>10 <a href="https://www.youtube.com/watch?v=BfqRSCgXiVw">sit-ups</a>
+</li>
+  <li>15 <a href="https://www.youtube.com/watch?v=a_fb6Kz7FQg">air squats</a>
+</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/discourse/discourse">Discourse</a> and <a href="http://brackets.io/contribute.html">Brackets.io</a>
+</li>
+  <li><a href="http://thechangelog.com/127">Changelog Episode #127</a></li>
+  <li><a href="http://keepachangelog.com">Keep a Changelog</a></li>
+  <li><a href="http://semver.org">Semantic Versioning 2.0.0</a></li>
+  <li><a href="http://choosealicense.com">Choose an OSS License</a></li>
+  <li>
+<a href="https://placeit.net">Product images</a> and <a href="http://shields.io">badges</a>
+</li>
+  <li>
+<a href="https://www.vagrantup.com">Vagrant</a> or <a href="http://www.terminal.com">Terminal.com</a>
+</li>
+  <li><a href="https://cooperpress.com">Cooper Press</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 25 Aug 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/f22d6611.mp3" length="29168635" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68478/full_1562776037-artwork.jpg"/>
+      <itunes:duration>00:30:14</itunes:duration>
+      <itunes:summary>This week I share all the things I think about before releasing (or using) an open source project.</itunes:summary>
+      <itunes:subtitle>This week I share all the things I think about before releasing (or using) an open source project.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>4: Existential crisis</title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:title>4: Existential crisis</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/08/18/existential-crisis/</guid>
+      <link>https://share.transistor.fm/s/c438a895</link>
+      <description>This week we get another voicemail and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know to summit Mount Rainier.</description>
+      <content:encoded>
+        <![CDATA[<p>This week we get another <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know to summit Mount Rainier.</p>
+
+<h3>Workout of the week</h3>
+
+<p>5 rounds, as fast as possible:</p>
+
+<ul>
+  <li>50 <a href="http://youtu.be/1J4hRICVjRo">Mountain climbers</a> (each leg)</li>
+  <li>25 <a href="http://youtu.be/EhG_x1bLHwE">Sit-ups</a>
+</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li>
+<a href="https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Bergan.pdf">Deterministic Process Groups in dOS</a> (<a href="https://www.usenix.org/conference/osdi10/deterministic-process-groups-dos">video</a>)</li>
+  <li>
+<a href="https://homes.cs.washington.edu/~tbergan/papers/asplos13-ddos.pdf">DDOS Taming Nondeterminism in Distributed Systems</a> (<a href="https://homes.cs.washington.edu/~tbergan/slides/asplos13-ddos-slides.pdf">slides</a>)</li>
+  <li><a href="http://gogaruco.com/">Golden Gate Ruby Conference</a></li>
+  <li><a href="http://www.rmiguides.com/about/guides/nick-hunt">Nick Hunt: RMI Mountain Guide</a></li>
+  <li><a href="http://www.rmiguides.com/mt-rainier/">RMI Expeditions Mount Rainier Climbing Programs</a></li>
+  <li><a href="http://avtraining.org/">American Institute for Avalanche Research and Education</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 18 Aug 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/a7f6762d.mp3" length="47558270" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68477/full_1562776035-artwork.jpg"/>
+      <itunes:duration>00:49:23</itunes:duration>
+      <itunes:summary>This week we get another voicemail and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know to summit Mount Rainier.</itunes:summary>
+      <itunes:subtitle>This week we get another voicemail and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>3: Forty-three quintillion</title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:title>3: Forty-three quintillion</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/08/11/forty-three-quintillion/</guid>
+      <link>https://share.transistor.fm/s/6626188d</link>
+      <description>This week I get my first voicemail, explain why I do (and don’t) use a standing desk, and I brush up on my math skills to show why solving the Rubik’s Cube will never be boring.</description>
+      <content:encoded>
+        <![CDATA[<p>This week I get my first <a href="http://www.healthyhacker.com/voicemail/">voicemail</a>, explain why I do (and don’t) use a standing desk, and I brush up on my math skills to show why solving the Rubik’s Cube will never be boring.</p>
+
+<h3>Workout of the week</h3>
+
+<p>As fast as possible:</p>
+
+<ul>
+  <li>4 mile run</li>
+</ul>
+
+<p>If you run a lot and that distance seems too short, you’re not running fast
+enough. If you hate running and 4 miles seems way too far, then you can try the
+super popular <a href="http://www.jeffgalloway.com/training/run-walk/">run-walk</a>.</p>
+
+<p><a href="https://twitter.com/chrishunt"><strong>@chrishunt:</strong></a> 25 minutes, 40 seconds</p>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="https://github.com/chrishunt/status-board">Podcasting Status Board</a></li>
+  <li><a href="http://b.chrishunt.co/how-many-positions-on-a-rubiks-cube">How Many Positions on a Rubik’s Cube?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Rubiks_Cube#Mathematics">Wikipedia: Math of the Rubik’s Cube</a></li>
+  <li><a href="http://blog.pickcrew.com/why-i-killed-my-standing-desk">Why I killed my standing desk</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Ks-_Mh1QhMc">Your body language shapes who you are</a></li>
+  <li><a href="http://www.nextdesks.com/store/terra">NextDesk Terra</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 11 Aug 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/920cbcb3.mp3" length="26355719" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68476/full_1562776033-artwork.jpg"/>
+      <itunes:duration>00:27:18</itunes:duration>
+      <itunes:summary>This week I get my first voicemail, explain why I do (and don’t) use a standing desk, and I brush up on my math skills to show why solving the Rubik’s Cube will never be boring.</itunes:summary>
+      <itunes:subtitle>This week I get my first voicemail, explain why I do (and don’t) use a standing desk, and I brush up on my math skills to show why solving the Rubik’s Cube will never be boring.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>2: Pineapple in your pocket</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:title>2: Pineapple in your pocket</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/08/04/pineapple-in-your-pocket/</guid>
+      <link>https://share.transistor.fm/s/a542f218</link>
+      <description>This week I talk about something I’m super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.</description>
+      <content:encoded>
+        <![CDATA[<p>This week I talk about something I’m super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.</p>
+
+<h3>Workout of the week</h3>
+
+<p>Death by burpees! Remember - your phone probably has a stopwatch. If you want
+to use audio queues (which I prefer), then try an interval timer like
+<a href="http://www.secondsapp.com/">Seconds</a>.</p>
+
+<ul>
+  <li><a href="http://youtu.be/TX60BcsO_wE">Burpee</a></li>
+</ul>
+
+<p><a href="https://twitter.com/chrishunt"><strong>@chrishunt:</strong></a> 18 + 14</p>
+
+<h3>The body system</h3>
+
+<p>Here’s the list of body parts I use for <em>my</em> body system.</p>
+
+<ul>
+  <li>Foot</li>
+  <li>Knee</li>
+  <li>Pocket</li>
+  <li>Belly button</li>
+  <li>Chest</li>
+  <li>Shoulder</li>
+  <li>Mouth</li>
+  <li>Nose</li>
+  <li>Hair</li>
+  <li>Hand</li>
+</ul>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://www.secondsapp.com/">Seconds interval timer</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Dominic_O'Brien">Dominic O’Brien</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two">The Magical Number Seven, Plus or Minus Two</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 04 Aug 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/fa817e0e.mp3" length="20700421" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68475/full_1562776031-artwork.jpg"/>
+      <itunes:duration>00:21:25</itunes:duration>
+      <itunes:summary>This week I talk about something I’m super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.</itunes:summary>
+      <itunes:subtitle>This week I talk about something I’m super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>1: Why I use Vim</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:title>1: Why I use Vim</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2014/07/29/why-i-use-vim/</guid>
+      <link>https://share.transistor.fm/s/cd4f2157</link>
+      <description>This week I’m going to answer a question that I get all the time: Why do I use Vim?</description>
+      <content:encoded>
+        <![CDATA[<p>This week I’m going to answer a question that I get all the time: Why do I use Vim?</p>
+
+<h3>Workout of the week</h3>
+
+<p>10 rep pyramid of:</p>
+
+<ul>
+  <li><a href="http://chrshnt.com/1s2CHTt">Push-up</a></li>
+  <li><a href="http://chrshnt.com/1nSotFE">Shoulder press</a></li>
+</ul>
+
+<p>If you try this workout and die before you finish - sorry. Next time, try a
+smaller pyramid. Take breaks as necessary, but go as fast as possible. You can
+do it!</p>
+
+<p><a href="https://twitter.com/chrishunt"><strong>@chrishunt:</strong></a> 7 minutes, 28 seconds</p>
+
+<h3>Links</h3>
+
+<ul>
+  <li><a href="http://chrshnt.com/1s2CBeM">Vimcasts</a></li>
+  <li><a href="http://chrshnt.com/1s2CEXR">Your problem with Vim is that you don’t grok vi</a></li>
+  <li>
+<a href="http://chrshnt.com/1s2Qqtx">RMI Expeditions</a> - climb a mountain with my brother Nick</li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 29 Jul 2014 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/c46853ac.mp3" length="14452643" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68474/full_1562776029-artwork.jpg"/>
+      <itunes:duration>00:14:54</itunes:duration>
+      <itunes:summary>This week I’m going to answer a question that I get all the time: Why do I use Vim?</itunes:summary>
+      <itunes:subtitle>This week I’m going to answer a question that I get all the time: Why do I use Vim?</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+  </channel>
+</rss>
