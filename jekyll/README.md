@@ -12,6 +12,7 @@ Build it:
 ```
 $ cd jekyll
 $ rm -rf _site
+$ wget -O feed.xml https://feeds.transistor.fm/healthy-hacker
 $ bundle exec jekyll build
 $ cp -rf _site/* ../
 ```
