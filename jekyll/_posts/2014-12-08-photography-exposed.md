@@ -2,6 +2,7 @@
 title: "Photography exposed"
 episode: "19"
 redirect_from: "19/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-19.mp3"
 duration_in_seconds: 2143
 size_in_bytes: 34307546
 size_in_megabytes: 33

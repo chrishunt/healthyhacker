@@ -2,6 +2,7 @@
 title: "Forty-three quintillion"
 episode: "3"
 redirect_from: "3/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-3.mp3"
 duration_in_seconds: 1638
 size_in_bytes: 26227281
 size_in_megabytes: 25

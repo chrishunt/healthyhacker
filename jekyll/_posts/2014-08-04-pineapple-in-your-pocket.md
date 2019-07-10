@@ -2,6 +2,7 @@
 title: "Pineapple in your pocket"
 episode: "2"
 redirect_from: "2/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-2.mp3"
 duration_in_seconds: 1285
 size_in_bytes: 20699585
 size_in_megabytes: 20

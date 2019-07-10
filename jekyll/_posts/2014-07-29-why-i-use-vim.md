@@ -2,6 +2,7 @@
 title: "Why I use Vim"
 episode: "1"
 redirect_from: "1/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-1.mp3"
 duration_in_seconds: 894
 size_in_bytes: 14316059
 size_in_megabytes: 14

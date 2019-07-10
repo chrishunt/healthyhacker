@@ -2,6 +2,7 @@
 title: "Never forget a name"
 episode: "14"
 redirect_from: "14/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-14.mp3"
 duration_in_seconds: 1514
 size_in_bytes: 24241154
 size_in_megabytes: 24

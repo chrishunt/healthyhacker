@@ -2,6 +2,7 @@
 title: "Rubik's Cube Champion"
 episode: "8"
 redirect_from: "8/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-8.mp3"
 duration_in_seconds: 2038
 size_in_bytes: 32625830
 size_in_megabytes: 32

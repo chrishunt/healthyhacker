@@ -2,6 +2,7 @@
 title: "Speaking at conferences"
 episode: "13"
 redirect_from: "13/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-13.mp3"
 duration_in_seconds: 2092
 size_in_bytes: 33478955
 size_in_megabytes: 32

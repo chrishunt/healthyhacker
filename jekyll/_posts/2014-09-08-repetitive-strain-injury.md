@@ -2,6 +2,7 @@
 title: "Repetitive strain injury"
 episode: "7"
 redirect_from: "7/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-7.mp3"
 duration_in_seconds: 2023
 size_in_bytes: 32388217
 size_in_megabytes: 31

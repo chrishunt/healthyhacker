@@ -2,6 +2,7 @@
 title: "Growing as a programmer"
 episode: "11"
 redirect_from: "11/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-11.mp3"
 duration_in_seconds: 3140
 size_in_bytes: 50248843
 size_in_megabytes: 48

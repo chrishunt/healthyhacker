@@ -2,6 +2,7 @@
 title: "Grandmaster of memory"
 episode: "17"
 redirect_from: "17/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-17.mp3"
 duration_in_seconds: 2824
 size_in_bytes: 45325103
 size_in_megabytes: 44

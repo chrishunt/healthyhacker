@@ -2,6 +2,7 @@
 title: "Existential crisis"
 episode: "4"
 redirect_from: "4/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-4.mp3"
 duration_in_seconds: 2963
 size_in_bytes: 47428255
 size_in_megabytes: 45

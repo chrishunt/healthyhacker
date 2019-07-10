@@ -2,6 +2,7 @@
 title: "An unforgettable story"
 episode: "6"
 redirect_from: "6/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-6.mp3"
 duration_in_seconds: 1524
 size_in_bytes: 24395578
 size_in_megabytes: 24

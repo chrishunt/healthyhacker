@@ -2,6 +2,7 @@
 title: "Perfect cup of coffee"
 episode: "12"
 redirect_from: "12/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-12.mp3"
 duration_in_seconds: 2452
 size_in_bytes: 39243146
 size_in_megabytes: 38

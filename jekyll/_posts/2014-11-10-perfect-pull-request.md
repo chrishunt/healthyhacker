@@ -2,6 +2,7 @@
 title: "Perfect pull request"
 episode: "16"
 redirect_from: "16/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-16.mp3"
 duration_in_seconds: 2110
 size_in_bytes: 33902639
 size_in_megabytes: 33

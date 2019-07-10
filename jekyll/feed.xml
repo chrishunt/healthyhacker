@@ -45,7 +45,7 @@ redirect_from: "rss/"
         <category>Technology</category>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
-        <enclosure url="{{ site.mp3url }}/healthyhacker-{{ post.episode }}.mp3" length="{{ post.size_in_bytes }}" type="audio/mpeg" />
+        <enclosure url="{{ post.mp3_url }}" length="{{ post.size_in_bytes }}" type="audio/mpeg" />
 
         <content:encoded><![CDATA[
           {{ post.content }}

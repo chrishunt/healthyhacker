@@ -2,6 +2,7 @@
 title: "Forging elite fitness"
 episode: "9"
 redirect_from: "9/"
+mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-9.mp3"
 duration_in_seconds: 3184
 size_in_bytes: 50966818
 size_in_megabytes: 49
