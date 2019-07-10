@@ -1,8 +1,13 @@
 <div class="post" id="episode-{{ page.episode }}">
   <article class="post-content">
-    <audio preload="none" style="width:100%" width="100%">
-      <source type="audio/mpeg" src="{{ page.mp3_url }}" />
-    </audio>
+    <iframe src="https://share.transistor.fm/e/{{ page.share_id }}"
+      width='100%'
+      height='180'
+      frameborder='0'
+      scrolling='no'
+      seamless='true'
+      style='width:100%; height:180px;'>
+    </iframe>
 
     <header class="post-header">
       <h3>
@@ -14,10 +19,6 @@
       <p class="meta">
         <span>Episode #{{ page.episode}}</span>
         {{ page.date | date: "%b %-d, %Y" }}
-        <br>
-
-        <a href="{{ page.mp3_url }}"><span>Download mp3</span></a>
-        ({{ page.size_in_megabytes }} mb)
         <br>
 
         <span><a href="{{ site.itunesurl }}">Subscribe</a></span>

@@ -2,10 +2,7 @@
 title: "Existential crisis"
 episode: "4"
 redirect_from: "4/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-4.mp3"
-duration_in_seconds: 2963
-size_in_bytes: 47428255
-size_in_megabytes: 45
+share_id: "c438a895"
 ---
 
 This week we get another <a href="{{ site.url }}/voicemail/">voicemail</a> and my brother Nick comes on the show to talk about deterministic multi-core processing, the CFP process for academic papers, how he transitioned from computer scientist to mountain guide, and everything you need to know to summit Mount Rainier.

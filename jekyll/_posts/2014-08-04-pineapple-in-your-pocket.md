@@ -2,10 +2,7 @@
 title: "Pineapple in your pocket"
 episode: "2"
 redirect_from: "2/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-2.mp3"
-duration_in_seconds: 1285
-size_in_bytes: 20699585
-size_in_megabytes: 20
+share_id: "a542f218"
 ---
 
 This week I talk about something I'm super excited about: Memory. By the end of this episode, you will be able to quickly memorize a list of 10 things and understand how to take your memory even further.

@@ -2,10 +2,7 @@
 title: "Perfect cup of coffee"
 episode: "12"
 redirect_from: "12/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-12.mp3"
-duration_in_seconds: 2452
-size_in_bytes: 39243146
-size_in_megabytes: 38
+share_id: "6d943171"
 ---
 
 This week [Matt Perger](http://mattperger.com), a competitive barista and World Brewers Cup champion, comes on the show to talk about coffee culture, bean roasting, competitive brewing, and how to make the perfect cup of coffee at home.

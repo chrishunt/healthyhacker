@@ -2,10 +2,7 @@
 title: "Rubik's Cube Champion"
 episode: "8"
 redirect_from: "8/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-8.mp3"
-duration_in_seconds: 2038
-size_in_bytes: 32625830
-size_in_megabytes: 32
+share_id: "8e2f90a1"
 ---
 
 This week [Feliks Zemdegs](http://chrshnt.com/1tIGm8E), the World Rubik's Cube Champion, comes on the show to talk about the Rubik's Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.

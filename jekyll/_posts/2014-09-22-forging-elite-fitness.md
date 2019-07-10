@@ -2,10 +2,7 @@
 title: "Forging elite fitness"
 episode: "9"
 redirect_from: "9/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-9.mp3"
-duration_in_seconds: 3184
-size_in_bytes: 50966818
-size_in_megabytes: 49
+share_id: "22a2feb7"
 ---
 
 This week Jeff Duncan, owner and trainer at [CrossFit Pearl District](http://crossfitpd.com), comes on the show to talk about CrossFit, how he started his gym, and why the program is different than any other fitness regimen you've tried.

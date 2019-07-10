@@ -2,10 +2,7 @@
 title: "Why I use Vim"
 episode: "1"
 redirect_from: "1/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-1.mp3"
-duration_in_seconds: 894
-size_in_bytes: 14316059
-size_in_megabytes: 14
+share_id: "cd4f2157"
 ---
 
 This week I'm going to answer a question that I get all the time: Why do I use Vim?

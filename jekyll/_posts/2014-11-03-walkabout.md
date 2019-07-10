@@ -2,10 +2,7 @@
 title: "Walkabout"
 episode: "15"
 redirect_from: "15/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-15.mp3"
-duration_in_seconds: 2087
-size_in_bytes: 33414078
-size_in_megabytes: 32
+share_id: "47ec1590"
 ---
 
 This week [Ben Orenstein](https://twitter.com/r00k) stops in Portland, Oregon during his 3 month "walkabout" to teach me how to sing a [barbershop tag](http://en.wikipedia.org/wiki/Tag_(barbershop_music)) and to share his thoughts on podcasting, conference talks, code review, and a few uncomfortable situations.

@@ -2,10 +2,7 @@
 title: "Laptop in the cloud"
 episode: "20"
 redirect_from: "20/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-20.mp3"
-duration_in_seconds: 1365
-size_in_bytes: 16509952
-size_in_megabytes: 16
+share_id: "b59f341e"
 ---
 
 We put our music "in the cloud", we put our documents "in the cloud", we put

@@ -2,10 +2,7 @@
 title: "Open source checklist"
 episode: "5"
 redirect_from: "5/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-5.mp3"
-duration_in_seconds: 1814
-size_in_bytes: 29038403
-size_in_megabytes: 28
+share_id: "89dde8a6"
 ---
 
 This week I share all the things I think about before releasing (or using) an open source project.

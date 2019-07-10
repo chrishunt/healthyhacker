@@ -2,10 +2,7 @@
 title: "Codecation"
 episode: "10"
 redirect_from: "10/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-10.mp3"
-duration_in_seconds: 1873
-size_in_bytes: 29987888
-size_in_megabytes: 29
+share_id: "686468fd"
 ---
 
 This week I talk about taking an adventure with a [stranger on the internet](https://twitter.com/r00k), what we learned, what we built, why we did it a second time, and why you might want to try it as well.

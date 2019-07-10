@@ -2,10 +2,7 @@
 title: "Speaking at conferences"
 episode: "13"
 redirect_from: "13/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-13.mp3"
-duration_in_seconds: 2092
-size_in_bytes: 33478955
-size_in_megabytes: 32
+share_id: "07f48888"
 ---
 
 This week I talk about talking. I share the reasons I love speaking at conferences, why I think you'll like it too, and how to make your conference talk more exciting and memorable than the rest.

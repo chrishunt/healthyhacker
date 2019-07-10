@@ -2,10 +2,7 @@
 title: "An unforgettable story"
 episode: "6"
 redirect_from: "6/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-6.mp3"
-duration_in_seconds: 1524
-size_in_bytes: 24395578
-size_in_megabytes: 24
+share_id: "40c48ac2"
 ---
 
 This week we learn the exact same technique that memory athletes have mastered to memorize hundreds of random words, thousands of random numbers, and stacks of shuffled playing cards.

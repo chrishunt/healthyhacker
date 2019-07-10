@@ -2,10 +2,7 @@
 title: "Distributed teams"
 episode: "18"
 redirect_from: "18/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-18.mp3"
-duration_in_seconds: 1955
-size_in_bytes: 31290297
-size_in_megabytes: 30
+share_id: "a5987a6c"
 ---
 
 This week I share what's great and not so great about working on a distributed team and the tricks I use to make the experience even better.

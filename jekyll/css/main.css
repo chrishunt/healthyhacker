@@ -314,6 +314,8 @@ input:focus {
   color: #333;
 }
 
+.post-content iframe { margin: 20px 0 0 0; }
+
 .post-content h2 {
   font-size: 32px;
   letter-spacing: -1.25px;
@@ -380,21 +382,6 @@ input:focus {
 }
 
 .post pre.terminal code { background-color: #333; }
-
-/* Media Player styles */
-/* ----------------------------------------------------------*/
-
-.mejs__container {
-  background: #333333 !important;
-}
-
-.mejs__horizontal-volume-current {
-  background: hsl(12, 73%, 51%) !important;
-}
-
-.mejs__time-current, .mejs__time-handle-content {
-  background: hsl(12, 73%, 51%) !important;
-}
 
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/

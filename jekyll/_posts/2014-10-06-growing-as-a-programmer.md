@@ -2,10 +2,7 @@
 title: "Growing as a programmer"
 episode: "11"
 redirect_from: "11/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-11.mp3"
-duration_in_seconds: 3140
-size_in_bytes: 50248843
-size_in_megabytes: 48
+share_id: "64865a25"
 ---
 
 This week we get a [voicemail](http://www.healthyhacker.com/voicemail/) from Ben in New York and I share the strategies and resources I've used to grow as a professional programmer.

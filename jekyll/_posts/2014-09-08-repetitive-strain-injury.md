@@ -2,10 +2,7 @@
 title: "Repetitive strain injury"
 episode: "7"
 redirect_from: "7/"
-mp3_url: "https://traffic.libsyn.com/healthyhacker/healthyhacker-7.mp3"
-duration_in_seconds: 2023
-size_in_bytes: 32388217
-size_in_megabytes: 31
+share_id: "bcc476a1"
 ---
 
 This week we get a <a href="{{ site.url }}/voicemail/">voicemail</a> from Jonathan in Portland and learn all about RSI, some common myths, who's at risk, how to prevent it, and why exercise plays an important role in staying pain free.
