@@ -7,9 +7,9 @@
     <category>Technology</category>
     <copyright>Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 08 Dec 2014 19:43:22 -0800</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2014 19:43:22 -0800</lastBuildDate>
-    <generator>Jekyll v2.5.1</generator>
+    <pubDate>Tue, 09 Jul 2019 19:38:13 -0600</pubDate>
+    <lastBuildDate>Tue, 09 Jul 2019 19:38:13 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
     <image>
       <url>http://www.healthyhacker.com/img/cover.png</url>
       <title>Healthy Hacker</title>
@@ -34,6 +34,51 @@
 
     
       <item>
+        <title>20: Laptop in the cloud</title>
+        <author>chris@healthyhacker.com (Chris Hunt)</author>
+        <description>&lt;p&gt;We put our music “in the cloud”, we put our documents “in the cloud”, we put
+our code “in the cloud”, but why don’t we put our development environment in
+the cloud?&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linode.com&quot;&gt;Linode Hosting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mosh.org&quot;&gt;Mosh (mobile shell)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com&quot;&gt;Visual Studio Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <link>http://www.healthyhacker.com/2019/07/09/laptop-in-the-cloud/</link>
+        <category>Technology</category>
+        <pubDate>Tue, 09 Jul 2019 00:00:00 -0600</pubDate>
+        <guid isPermaLink="true">http://www.healthyhacker.com/2019/07/09/laptop-in-the-cloud/</guid>
+        <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-20.mp3" length="16509952" type="audio/mpeg" />
+
+        <content:encoded><![CDATA[
+          <p>We put our music “in the cloud”, we put our documents “in the cloud”, we put
+our code “in the cloud”, but why don’t we put our development environment in
+the cloud?</p>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://www.linode.com">Linode Hosting</a></li>
+  <li><a href="https://mosh.org">Mosh (mobile shell)</a></li>
+  <li><a href="https://code.visualstudio.com">Visual Studio Code</a></li>
+</ul>
+
+        ]]></content:encoded>
+
+        <itunes:subtitle>20: Laptop in the cloud</itunes:subtitle>
+        <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+        <itunes:summary>We put our music “in the cloud”, we put our documents “in the cloud”, we putour code “in the cloud”, but why don’t we put our development environment inthe cloud?</itunes:summary>
+        <itunes:author>Chris Hunt</itunes:author>
+        <itunes:duration>1365</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://www.healthyhacker.com/img/cover.png" />
+      </item>
+    
+      <item>
         <title>19: Photography exposed</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;This week we learn enough about photography to pick up any camera in the world and bend it to our will.&lt;/p&gt;
@@ -55,15 +100,10 @@
   &lt;li&gt;&lt;a href=&quot;http://shootmanual.co&quot;&gt;Manual, for iPhone&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://youtu.be/F8T94sdiNjc&quot;&gt;Aperture, Shutter, ISO, &amp;amp; Light Explained&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/12/08/photography-exposed/</link>
         <category>Technology</category>
-        <pubDate>Mon, 08 Dec 2014 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 08 Dec 2014 00:00:00 -0700</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/12/08/photography-exposed/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-19.mp3" length="34307546" type="audio/mpeg" />
 
@@ -87,11 +127,6 @@
   <li><a href="http://shootmanual.co">Manual, for iPhone</a></li>
   <li><a href="http://youtu.be/F8T94sdiNjc">Aperture, Shutter, ISO, &amp; Light Explained</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -132,15 +167,10 @@
   &lt;li&gt;&lt;a href=&quot;https://culturedcode.com/things&quot;&gt;Things for Mac&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/chrishunt/github-auth&quot;&gt;github-auth&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/11/24/distributed-teams/</link>
         <category>Technology</category>
-        <pubDate>Mon, 24 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 24 Nov 2014 00:00:00 -0700</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/11/24/distributed-teams/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-18.mp3" length="31290297" type="audio/mpeg" />
 
@@ -170,11 +200,6 @@
   <li><a href="https://culturedcode.com/things">Things for Mac</a></li>
   <li><a href="https://github.com/chrishunt/github-auth">github-auth</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -211,15 +236,10 @@
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=s6KM9MxY5ZM&quot;&gt;Learning is a game&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://austhink.com/&quot;&gt;Austhink&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/11/17/grandmaster-of-memory/</link>
         <category>Technology</category>
-        <pubDate>Mon, 17 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 17 Nov 2014 00:00:00 -0700</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/11/17/grandmaster-of-memory/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-17.mp3" length="45325103" type="audio/mpeg" />
 
@@ -245,11 +265,6 @@
   <li><a href="https://www.youtube.com/watch?v=s6KM9MxY5ZM">Learning is a game</a></li>
   <li><a href="http://austhink.com/">Austhink</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -283,15 +298,10 @@
   &lt;li&gt;&lt;a href=&quot;http://scottchacon.com/2011/08/31/github-flow.html&quot;&gt;Issues with git-flow&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.healthyhacker.com/2014/08/25/open-source-checklist&quot;&gt;Open source checklist&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/11/10/perfect-pull-request/</link>
         <category>Technology</category>
-        <pubDate>Mon, 10 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 10 Nov 2014 00:00:00 -0700</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/11/10/perfect-pull-request/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-16.mp3" length="33902639" type="audio/mpeg" />
 
@@ -314,11 +324,6 @@
   <li><a href="http://scottchacon.com/2011/08/31/github-flow.html">Issues with git-flow</a></li>
   <li><a href="http://www.healthyhacker.com/2014/08/25/open-source-checklist">Open source checklist</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -357,15 +362,10 @@
   &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0132350882&amp;amp;linkCode=as2&amp;amp;tag=chrhun-20&amp;amp;linkId=QIUXV2QTWGLHAX3W&quot;&gt;Clean Code: A Handbook of Agile Software Craftsmanship&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/thoughtbot/guides/tree/master/code-review&quot;&gt;Thoughtbot Code Review Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/11/03/walkabout/</link>
         <category>Technology</category>
-        <pubDate>Mon, 03 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 03 Nov 2014 00:00:00 -0700</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/11/03/walkabout/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-15.mp3" length="33414078" type="audio/mpeg" />
 
@@ -393,11 +393,6 @@
   <li><a href="http://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0132350882&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=QIUXV2QTWGLHAX3W">Clean Code: A Handbook of Agile Software Craftsmanship</a></li>
   <li><a href="https://github.com/thoughtbot/guides/tree/master/code-review">Thoughtbot Code Review Guide</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -432,15 +427,10 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=m2GI0huaV5s&quot;&gt;How to Memorize&lt;/a&gt; by &lt;a href=&quot;http://ronwhitetraining.com/&quot;&gt;Ron White&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/10/27/never-forget-a-name/</link>
         <category>Technology</category>
-        <pubDate>Mon, 27 Oct 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 27 Oct 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/10/27/never-forget-a-name/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-14.mp3" length="24241154" type="audio/mpeg" />
 
@@ -464,11 +454,6 @@
 <ul>
   <li><a href="https://www.youtube.com/watch?v=m2GI0huaV5s">How to Memorize</a> by <a href="http://ronwhitetraining.com/">Ron White</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -501,15 +486,10 @@
   &lt;li&gt;&lt;a href=&quot;http://lanyrd.com&quot;&gt;Lanyrd&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/callbackwomen&quot;&gt;@callbackwomen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/10/20/speaking-at-conferences/</link>
         <category>Technology</category>
-        <pubDate>Mon, 20 Oct 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 20 Oct 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/10/20/speaking-at-conferences/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-13.mp3" length="33478955" type="audio/mpeg" />
 
@@ -531,11 +511,6 @@
   <li><a href="http://lanyrd.com">Lanyrd</a></li>
   <li><a href="https://twitter.com/callbackwomen">@callbackwomen</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -576,15 +551,10 @@
   &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/0982761015/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0982761015&amp;amp;linkCode=as2&amp;amp;tag=chrhun-20&amp;amp;linkId=LCRKN4TPKNSLKLPP&quot;&gt;Modernist Cuisine at Home&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.chefsteps.com&quot;&gt;ChefSteps&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/10/13/perfect-cup-of-coffee/</link>
         <category>Technology</category>
-        <pubDate>Mon, 13 Oct 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 13 Oct 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/10/13/perfect-cup-of-coffee/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-12.mp3" length="39243146" type="audio/mpeg" />
 
@@ -614,11 +584,6 @@
   <li><a href="http://www.amazon.com/gp/product/0982761015/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0982761015&amp;linkCode=as2&amp;tag=chrhun-20&amp;linkId=LCRKN4TPKNSLKLPP">Modernist Cuisine at Home</a></li>
   <li><a href="http://www.chefsteps.com">ChefSteps</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -652,15 +617,10 @@
   &lt;li&gt;&lt;a href=&quot;http://www.chrishunt.co/talks&quot;&gt;Conference talks&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.chrishuntphoto.com/&quot;&gt;Photos&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/10/06/growing-as-a-programmer/</link>
         <category>Technology</category>
-        <pubDate>Mon, 06 Oct 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 06 Oct 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/10/06/growing-as-a-programmer/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-11.mp3" length="50248843" type="audio/mpeg" />
 
@@ -683,11 +643,6 @@
   <li><a href="http://www.chrishunt.co/talks">Conference talks</a></li>
   <li><a href="http://www.chrishuntphoto.com/">Photos</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -724,15 +679,10 @@
   &lt;li&gt;&lt;a href=&quot;https://mitpress.mit.edu/sicp/full-text/book/book.html&quot;&gt;SICP the book&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://podcasts.thoughtbot.com/giantrobots&quot;&gt;thoughtbot podcast&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/09/29/codecation/</link>
         <category>Technology</category>
-        <pubDate>Mon, 29 Sep 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 29 Sep 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/09/29/codecation/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-10.mp3" length="29987888" type="audio/mpeg" />
 
@@ -758,11 +708,6 @@
   <li><a href="https://mitpress.mit.edu/sicp/full-text/book/book.html">SICP the book</a></li>
   <li><a href="http://podcasts.thoughtbot.com/giantrobots">thoughtbot podcast</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -805,15 +750,10 @@ push-ups.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;http://youtu.be/kvJrUYWygRk&quot;&gt;Jason Khalipa Squat Clean Thruster&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator&quot;&gt;Myers-Briggs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/09/22/forging-elite-fitness/</link>
         <category>Technology</category>
-        <pubDate>Mon, 22 Sep 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 22 Sep 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/09/22/forging-elite-fitness/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-9.mp3" length="50966818" type="audio/mpeg" />
 
@@ -846,11 +786,6 @@ push-ups.</p>
   <li><a href="http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator">Myers-Briggs</a></li>
 </ul>
 
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
-
         ]]></content:encoded>
 
         <itunes:subtitle>9: Forging elite fitness</itunes:subtitle>
@@ -863,7 +798,7 @@ push-ups.</p>
       </item>
     
       <item>
-        <title>8: Rubik&#39;s Cube Champion</title>
+        <title>8: Rubik's Cube Champion</title>
         <author>chris@healthyhacker.com (Chris Hunt)</author>
         <description>&lt;p&gt;This week &lt;a href=&quot;http://chrshnt.com/1tIGm8E&quot;&gt;Feliks Zemdegs&lt;/a&gt;, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.&lt;/p&gt;
 
@@ -893,15 +828,10 @@ push-ups.</p>
   &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/YE5ogj&quot;&gt;Feliks YouTube Channel&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1xUMscG&quot;&gt;Feliks Facebook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/09/15/rubiks-cube-champion/</link>
         <category>Technology</category>
-        <pubDate>Mon, 15 Sep 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 15 Sep 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/09/15/rubiks-cube-champion/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-8.mp3" length="32625830" type="audio/mpeg" />
 
@@ -935,14 +865,9 @@ push-ups.</p>
   <li><a href="http://chrshnt.com/1xUMscG">Feliks Facebook</a></li>
 </ul>
 
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
-
         ]]></content:encoded>
 
-        <itunes:subtitle>8: Rubik&#39;s Cube Champion</itunes:subtitle>
+        <itunes:subtitle>8: Rubik's Cube Champion</itunes:subtitle>
         <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
         <itunes:summary>This week Feliks Zemdegs, the World Rubik’s Cube Champion, comes on the show to talk about the Rubik’s Cube, the method he uses to solve it, how he trains for a competition, and where we can go to get started with the cube today.</itunes:summary>
         <itunes:author>Chris Hunt</itunes:author>
@@ -976,15 +901,10 @@ demonstrated by gymnast David Durante:&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;http://youtu.be/f_KyQbnCee4?t=11m45s&quot;&gt;Magnus Samuelsson on Grip Training&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.ironmind.com/ironmind/opencms/Main/captainsofcrush2.html&quot;&gt;Grip Strength Certification&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/09/08/repetitive-strain-injury/</link>
         <category>Technology</category>
-        <pubDate>Mon, 08 Sep 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 08 Sep 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/09/08/repetitive-strain-injury/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-7.mp3" length="32388217" type="audio/mpeg" />
 
@@ -1011,11 +931,6 @@ demonstrated by gymnast David Durante:</p>
   <li><a href="http://youtu.be/f_KyQbnCee4?t=11m45s">Magnus Samuelsson on Grip Training</a></li>
   <li><a href="http://www.ironmind.com/ironmind/opencms/Main/captainsofcrush2.html">Grip Strength Certification</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -1049,15 +964,10 @@ demonstrated by gymnast David Durante:</p>
   &lt;li&gt;&lt;a href=&quot;http://www.slate.com/articles/news_and_politics/dispatches/2005/03/forget_me_not.single.html&quot;&gt;How to win the U.S. Memory Championship&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://youtu.be/sbinQ6GdOVk&quot;&gt;Simon memorizes deck of cards in 21.90s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/09/01/an-unforgettable-story/</link>
         <category>Technology</category>
-        <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 01 Sep 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/09/01/an-unforgettable-story/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-6.mp3" length="24395578" type="audio/mpeg" />
 
@@ -1080,11 +990,6 @@ demonstrated by gymnast David Durante:</p>
   <li><a href="http://www.slate.com/articles/news_and_politics/dispatches/2005/03/forget_me_not.single.html">How to win the U.S. Memory Championship</a></li>
   <li><a href="http://youtu.be/sbinQ6GdOVk">Simon memorizes deck of cards in 21.90s</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -1124,15 +1029,10 @@ demonstrated by gymnast David Durante:</p>
   &lt;li&gt;&lt;a href=&quot;https://www.vagrantup.com&quot;&gt;Vagrant&lt;/a&gt; or &lt;a href=&quot;http://www.terminal.com&quot;&gt;Terminal.com&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://cooperpress.com&quot;&gt;Cooper Press&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/08/25/open-source-checklist/</link>
         <category>Technology</category>
-        <pubDate>Mon, 25 Aug 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 25 Aug 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/08/25/open-source-checklist/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-5.mp3" length="29038403" type="audio/mpeg" />
 
@@ -1161,11 +1061,6 @@ demonstrated by gymnast David Durante:</p>
   <li><a href="https://www.vagrantup.com">Vagrant</a> or <a href="http://www.terminal.com">Terminal.com</a></li>
   <li><a href="https://cooperpress.com">Cooper Press</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -1202,15 +1097,10 @@ demonstrated by gymnast David Durante:</p>
   &lt;li&gt;&lt;a href=&quot;http://www.rmiguides.com/mt-rainier/&quot;&gt;RMI Expeditions Mount Rainier Climbing Programs&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://avtraining.org/&quot;&gt;American Institute for Avalanche Research and Education&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/08/18/existential-crisis/</link>
         <category>Technology</category>
-        <pubDate>Mon, 18 Aug 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 18 Aug 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/08/18/existential-crisis/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-4.mp3" length="47428255" type="audio/mpeg" />
 
@@ -1236,11 +1126,6 @@ demonstrated by gymnast David Durante:</p>
   <li><a href="http://www.rmiguides.com/mt-rainier/">RMI Expeditions Mount Rainier Climbing Programs</a></li>
   <li><a href="http://avtraining.org/">American Institute for Avalanche Research and Education</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -1282,15 +1167,10 @@ super popular &lt;a href=&quot;http://www.jeffgalloway.com/training/run-walk/&qu
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ks-_Mh1QhMc&quot;&gt;Your body language shapes who you are&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.nextdesks.com/store/terra&quot;&gt;NextDesk Terra&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/08/11/forty-three-quintillion/</link>
         <category>Technology</category>
-        <pubDate>Mon, 11 Aug 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 11 Aug 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/08/11/forty-three-quintillion/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-3.mp3" length="26227281" type="audio/mpeg" />
 
@@ -1321,11 +1201,6 @@ super popular <a href="http://www.jeffgalloway.com/training/run-walk/">run-walk<
   <li><a href="https://www.youtube.com/watch?v=Ks-_Mh1QhMc">Your body language shapes who you are</a></li>
   <li><a href="http://www.nextdesks.com/store/terra">NextDesk Terra</a></li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 
@@ -1376,18 +1251,13 @@ to use audio queues (which I prefer), then try an interval timer like
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.secondsapp.com/&quot;&gt;Seconds interval timer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Dominic_O&#39;Brien&quot;&gt;Dominic O’Brien&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Dominic_O'Brien&quot;&gt;Dominic O’Brien&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two&quot;&gt;The Magical Number Seven, Plus or Minus Two&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/08/04/pineapple-in-your-pocket/</link>
         <category>Technology</category>
-        <pubDate>Mon, 04 Aug 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 04 Aug 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/08/04/pineapple-in-your-pocket/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-2.mp3" length="20699585" type="audio/mpeg" />
 
@@ -1431,11 +1301,6 @@ to use audio queues (which I prefer), then try an interval timer like
   <li><a href="http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two">The Magical Number Seven, Plus or Minus Two</a></li>
 </ul>
 
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
-
         ]]></content:encoded>
 
         <itunes:subtitle>2: Pineapple in your pocket</itunes:subtitle>
@@ -1474,15 +1339,10 @@ do it!&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1s2CEXR&quot;&gt;Your problem with Vim is that you don’t grok vi&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://chrshnt.com/1s2Qqtx&quot;&gt;RMI Expeditions&lt;/a&gt; - climb a mountain with my brother Nick&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;post-content&quot;&gt;&lt;h3 id=&quot;voicemail&quot;&gt;Voicemail&lt;/h3&gt;
-
-&lt;p&gt;Did I get something wrong or do you have a question you want to share? I&#39;d love to hear from you! Send me a &lt;a href=&quot;http://www.healthyhacker.com/voicemail/&quot;&gt;voicemail&lt;/a&gt; and we can talk about it on the show.&lt;/p&gt;&lt;/div&gt;
-
 </description>
         <link>http://www.healthyhacker.com/2014/07/29/why-i-use-vim/</link>
         <category>Technology</category>
-        <pubDate>Tue, 29 Jul 2014 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 29 Jul 2014 00:00:00 -0600</pubDate>
         <guid isPermaLink="true">http://www.healthyhacker.com/2014/07/29/why-i-use-vim/</guid>
         <enclosure url="http://traffic.libsyn.com/healthyhacker/healthyhacker-1.mp3" length="14316059" type="audio/mpeg" />
 
@@ -1511,11 +1371,6 @@ do it!</p>
   <li><a href="http://chrshnt.com/1s2CEXR">Your problem with Vim is that you don’t grok vi</a></li>
   <li><a href="http://chrshnt.com/1s2Qqtx">RMI Expeditions</a> - climb a mountain with my brother Nick</li>
 </ul>
-
-<div class="post-content"><h3 id="voicemail">Voicemail</h3>
-
-<p>Did I get something wrong or do you have a question you want to share? I'd love to hear from you! Send me a <a href="http://www.healthyhacker.com/voicemail/">voicemail</a> and we can talk about it on the show.</p></div>
-
 
         ]]></content:encoded>
 

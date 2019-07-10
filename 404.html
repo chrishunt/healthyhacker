@@ -47,16 +47,6 @@
   <link rel="stylesheet" href="/mediaelement/mediaelementplayer.min.css">
   <link rel="stylesheet" href="/css/mediaplayer.css">
   <link rel="stylesheet" href="/css/main.css">
-
-  <!-- GoSquared Analytics -->
-  <script>
-    !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
-    arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
-    d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
-    insertBefore(d,q)}(window,document,'script','_gs');
-
-    _gs('GSN-234109-P');
-  </script>
 </head>
 
 
@@ -79,29 +69,6 @@
   404 :(
 </p>
 
-<div class="search">
-  <form action="/search" method="get">
-  <input type="text" id="search-query" name="q" placeholder="Search..." autocomplete="off" />
-  </form>
-</div>
-
-<section id="search-results" style="display: none;">
-  <div class="entries">
-  </div>
-</section>
-
-<script id="search-results-template" type="text/mustache">
-  {{#entries}}
-    <div>
-      {{#date}}
-        <time datetime="{{pubdate}}" pubdate>{{displaydate}}</time>
-      {{/date}}
-      <span><a href="{{url}}">{{title}}</a></span>
-    </div>
-  {{/entries}}
-</script>
-
-
   </article>
 </div>
 
@@ -115,7 +82,7 @@
     <div class="footer-col-1 column">
       <ul>
         <li>
-          <a href="/search"><img src="/img/search.png" height="16px"></a>
+          <a href="/"><img src="/img/search.png" height="16px"></a>
           <a href="/">All Episodes</a>
         </li>
         <li>
@@ -147,9 +114,6 @@
           </a> •
           <a href="https://www.facebook.com/healthyhacker">
             Facebook
-          </a> •
-          <a href="http://eepurl.com/1pYTb">
-            Email List
           </a>
         </li>
       </ul>
@@ -189,9 +153,7 @@
 </footer>
 
     <script
-  src="/lunrsearch/search.min.js"
-  type="text/javascript"
-  charset="utf-8">
+  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js">
 </script>
 
 <script
@@ -203,15 +165,6 @@
 <script type="text/javascript">
   $("video, audio").mediaelementplayer({
     startVolume: 1.0
-  });
-</script>
-
-<script type="text/javascript">
-  $('#search-query').lunrSearch({
-    indexUrl: '/search.json',
-    results:  '#search-results',
-    entries:  '.entries',
-    template: '#search-results-template'
   });
 </script>
 

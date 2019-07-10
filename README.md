@@ -13,4 +13,5 @@ Build it:
 $ cd jekyll
 $ rm -rf _site
 $ bundle exec jekyll build
+$ cp -rf _site/* ../
 ```
