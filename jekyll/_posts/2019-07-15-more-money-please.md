@@ -2,7 +2,7 @@
 title: "More money please"
 episode: "21"
 redirect_from: "21/"
-share_id: ""
+share_id: "3a08c6da"
 ---
 
 So you just nailed the interview and you're looking at a job offer. What's
