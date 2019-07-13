@@ -18,6 +18,7 @@ even better.
 
 ### Links
 
+- [Rogue Fitness](https://www.roguefitness.com)
 - [H1B Salary Database](https://h1bdata.info)
 - [Indeed Salary Comparison](https://www.indeed.com/salaries)
 - [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
