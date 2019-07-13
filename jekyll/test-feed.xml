@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/healthy-hacker" title="MP3 Audio"/>
+    <title>Healthy Hacker (Test)</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/healthy-hacker</itunes:new-feed-url>
+    <description>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</description>
+    <copyright>© Chris Hunt</copyright>
+    <language>en-us</language>
+    <pubDate>Tue, 09 Jul 2019 01:00:00 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Jul 2019 13:28:01 -0500</lastBuildDate>
+    <link>https://www.healthyhacker.com</link>
+    <image>
+      <url>https://images.transistor.fm/images/show/3119/full_1562776027-artwork.jpg</url>
+      <title>Healthy Hacker</title>
+      <link>https://www.healthyhacker.com</link>
+    </image>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Training"/>
+    </itunes:category>
+    <googleplay:author>Chris Hunt</googleplay:author>
+    <googleplay:image href="https://images.transistor.fm/images/show/3119/full_1562776027-artwork.jpg"/>
+    <googleplay:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</googleplay:summary>
+    <googleplay:explicit>No</googleplay:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Chris Hunt</itunes:author>
+    <itunes:image href="https://images.transistor.fm/images/show/3119/full_1562776027-artwork.jpg"/>
+    <itunes:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</itunes:summary>
+    <itunes:subtitle>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting..</itunes:subtitle>
+    <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Chris Hunt</itunes:name>
+      <itunes:email>huntca@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <item>
+      <title>Test Episode</title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:title>20: Laptop in the cloud</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">http://www.healthyhacker.com/2019/07/09/laptop-in-the-cloud/</guid>
+      <link>https://share.transistor.fm/s/b59f341e</link>
+      <description>Test Episode</description>
+      <content:encoded>Test Episode</content:encoded>
+      <pubDate>Tue, 09 Jul 2019 01:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/488a5ecc.mp3" length="16507784" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/episode/68493/full_1562776065-artwork.jpg"/>
+      <itunes:duration>00:22:43</itunes:duration>
+      <itunes:summary>Test Episode</itunes:summary>
+      <itunes:subtitle>Test Episode</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+  </channel>
+</rss>
