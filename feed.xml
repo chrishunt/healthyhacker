@@ -8,8 +8,8 @@
     <description>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</description>
     <copyright>© Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 09 Jul 2019 01:00:00 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2019 13:28:01 -0500</lastBuildDate>
+    <pubDate>Sat, 13 Jul 2019 16:00:00 -0500</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2019 17:39:25 -0500</lastBuildDate>
     <link>https://www.healthyhacker.com</link>
     <image>
       <url>https://images.transistor.fm/images/show/3119/full_1562776027-artwork.jpg</url>
@@ -39,6 +39,41 @@
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
     <itunes:block>No</itunes:block>
+    <item>
+      <title>21: More money please</title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:title>21: More money please</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">58fddb9a-48e7-432a-a865-a182fe266d55</guid>
+      <link>https://share.transistor.fm/s/3a08c6da</link>
+      <description>So you just nailed the interview and you're looking at a job offer. What's next? This week we talk about some tools and strategies to make that job offer even better.</description>
+      <content:encoded>
+        <![CDATA[So you just nailed the interview and you're looking at a job offer. What's next? This week we talk about some tools and strategies to make that job offer even better.<h1>Workout of the week</h1>21-15-9 repetitions, as fast as possible of:<ul>
+<li>Strict <a href="https://www.youtube.com/watch?v=eGo4IYlbE5g">pull-ups</a>
+</li>
+<li>Strict <a href="https://www.youtube.com/watch?v=oOy11Rjl7h0">handstand push-ups</a>
+</li>
+</ul><h1>Links</h1><ul>
+<li><a href="https://www.roguefitness.com/">Rogue Fitness</a></li>
+<li><a href="https://h1bdata.info">H1B Salary Database</a></li>
+<li><a href="https://www.indeed.com/salaries">Indeed Salary Comparison</a></li>
+<li><a href="https://www.glassdoor.com/Salaries/index.htm">Glassdoor Salaries</a></li>
+<li><a href="https://www.payscale.com">PayScale</a></li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Sat, 13 Jul 2019 16:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/488a5ecc.mp3" length="36819104" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/images/show/3119/full_1562776027-artwork.jpg"/>
+      <itunes:duration>00:38:12</itunes:duration>
+      <itunes:summary>So you just nailed the interview and you're looking at a job offer. What's next? This week we talk about some tools and strategies to make that job offer even better.</itunes:summary>
+      <itunes:subtitle>So you just nailed the interview and you're looking at a job offer. What's next? This week we talk about some tools and strategies to make that job offer even better.</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
     <item>
       <title>20: Laptop in the cloud</title>
       <itunes:episode>20</itunes:episode>
