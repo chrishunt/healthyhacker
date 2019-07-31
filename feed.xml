@@ -8,8 +8,8 @@
     <description>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</description>
     <copyright>© Chris Hunt</copyright>
     <language>en-us</language>
-    <pubDate>Sat, 20 Jul 2019 17:00:00 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jul 2019 18:17:38 -0500</lastBuildDate>
+    <pubDate>Wed, 31 Jul 2019 13:00:00 -0500</pubDate>
+    <lastBuildDate>Wed, 31 Jul 2019 13:23:28 -0500</lastBuildDate>
     <link>https://www.healthyhacker.com</link>
     <image>
       <url>https://images.transistor.fm/file/transistor/images/show/3119/full_1562776027-artwork.jpg</url>
@@ -19,7 +19,7 @@
     <itunes:category text="Education">
       <itunes:category text="How To"/>
     </itunes:category>
-    <itunes:category text="Education"/>
+    <itunes:category text="Technology"/>
     <googleplay:author>Chris Hunt</googleplay:author>
     <googleplay:image href="https://images.transistor.fm/file/transistor/images/show/3119/full_1562776027-artwork.jpg"/>
     <googleplay:summary>Welcome to the Healthy Hacker where we talk about programming, puzzles, memory, fitness, diet, and everything else that you, a healthy hacker, find interesting.</googleplay:summary>
@@ -37,6 +37,60 @@
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
     <itunes:block>No</itunes:block>
+    <item>
+      <title>23: Financial Planning</title>
+      <itunes:episode>23</itunes:episode>
+      <itunes:title>23: Financial Planning</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <guid isPermaLink="false">7ef90309-804c-48f0-be36-65575dacf4a0</guid>
+      <link>https://share.transistor.fm/s/0b41a051</link>
+      <description>What is financial planning? This week Abraham Martinez, financial advisor and chief operating officer at Brio Financial, visits the show to explain his role as a financial advisor and some of the tools and strategies he uses to help clients reach their goals.</description>
+      <content:encoded>
+        <![CDATA[What is financial planning? This week <a href="https://www.briofg.com/team-member-01/abraham-martinez">Abraham Martinez</a>, financial advisor and chief operating officer at <a href="https://www.briofg.com/">Brio Financial</a>, visits the show to explain his role as a financial advisor and some of the tools and strategies he uses to help clients reach their goals.<h1>Workout of the week</h1>Grab some friends and <a href="http://runners-resource.com/training/fartlek/">run a fartlek</a> interval workout. If you don’t have any friends, it can be done alone as well.<br><br>Run hard for 2, 3, 4, 4, 3, 2 minutes, with a “rest” of 2:30 in between. This can be done on a track, treadmill, or just outside as you run down the street. It will look something like this:<ul>
+<li>Run 2:00 minutes hard</li>
+<li>Run 2:30 easy</li>
+<li>Run 3:00 minutes hard</li>
+<li>Run 2:30 easy</li>
+<li>Run 4:00 minutes hard</li>
+<li>Run 2:30 easy</li>
+<li>… (continue the rest of the cycle: 4, 3, 2)</li>
+</ul><h1>Links</h1><ul>
+<li><a href="https://www.briofg.com/">Brio Financial Group</a></li>
+<li><a href="https://www.cfp.net/">Certified Financial Planner Board (CFP)</a></li>
+<li><a href="https://www.cfainstitute.org/">Chartered Financial Analyst Institute (CFA)</a></li>
+</ul><h1>Chapters</h1><ul>
+<li>00:00 Intro</li>
+<li>01:51 Workout of the week</li>
+<li>03:52 What is financial planning?</li>
+<li>04:49 What happens first?</li>
+<li>07:34 The framework</li>
+<li>13:18 It’s not called retirement</li>
+<li>15:02 Financial independence</li>
+<li>17:14 Money is emotional</li>
+<li>20:51 You always have control</li>
+<li>22:24 Understand all the options</li>
+<li>24:19 Take away one layer</li>
+<li>25:44 How to find an advisor</li>
+<li>28:59 What’s a fiduciary?</li>
+<li>30:56 Know the fees</li>
+<li>32:25 CFP and CFA database</li>
+<li>33:19 Contact information</li>
+<li>34:26 Outro</li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 31 Jul 2019 13:00:00 -0500</pubDate>
+      <author>Chris Hunt</author>
+      <enclosure url="https://media.transistor.fm/153e857b.mp3" length="33590538" type="audio/mpeg"/>
+      <itunes:author>Chris Hunt</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/3119/full_1562776027-artwork.jpg"/>
+      <itunes:duration>00:34:50</itunes:duration>
+      <itunes:summary>What is financial planning? This week Abraham Martinez, financial advisor and chief operating officer at Brio Financial, visits the show to explain his role as a financial advisor and some of the tools and strategies he uses to help clients reach their goals.</itunes:summary>
+      <itunes:subtitle>What is financial planning? This week Abraham Martinez, financial advisor and chief operating officer at Brio Financial, visits the show to explain his role as a financial advisor and some of the tools and strategies he uses to help clients reach their go</itunes:subtitle>
+      <itunes:keywords>development,software,programming,puzzles,exercise,memory,health,fitness</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
     <item>
       <title>22: Ruby to Elixir</title>
       <itunes:episode>22</itunes:episode>
